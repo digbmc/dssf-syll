@@ -12,7 +12,9 @@ Stella Fritzell - Digital Scholarship Graduate Assistant
 
 Karina Gonzalez - EaST Assistant
 
-## Schedule: May 31 - August 5
+## Schedule
+
+### Week 1 (May 31 - June 3) [Introduction to Digital Scholarship](weeks/01-intro.md)
 
 ## Links
 
