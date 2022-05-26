@@ -71,9 +71,9 @@ June 2, 2022
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Introduction to the 2022 DSSF Project (DMCL)
+### 1:00 PM Introduction to the Critical Design Toolkit (Alice & Karina, DMCL)
 
-### 2:30 PM Working Further with HTML/CSS and JavaScript
+### 2:30 PM Quick review of HTML/CSS; introducing JavaScript
 
 ### 3:00 PM Independent Work
 - Continue to practice with HTML/CSS

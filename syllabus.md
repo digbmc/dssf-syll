@@ -1,17 +1,17 @@
 # Syllabus
 
-## Week 1 (May 31-June 3) [Introduction to Digital Scholarship]
+## Week 1 (May 31-June 3) [Introduction to Digital Scholarship](weeks/01-intro.md)
 
 - Intro to DS and project
 - Command Line & Computational Thinking
-- Project Management
-- HTML & CSS Basics
-- Responsive design
+- Inclusive Design Thinking (Jenny Spohrer, 6/1/22)
+- HTML, CSS, and JavaScript
+- Web design basics
+- Web deployment
 
 ## Week 2 (June 6-10) [Web Design & Publishing]
 
-- Responsive design
-- Deployment with Domain of One's Own
+- Project Management (6/8/22)
 - Web Accessibility
 - Git, GitHub, & GitHub Pages
 - Digital sustainability & preservation
