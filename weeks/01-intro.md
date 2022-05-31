@@ -1,6 +1,17 @@
 # Week 1 (May 31 - June 3): Introduction to Digital Scholarship
 
-[Monday](#monday) // [Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
+[Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
+
+## Action items
+- [ ] Read: 
+  - [ ] ["How the internet was invented"](https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf), Ben Tarnoff, *The Guardian* 15 July 2016.
+  - [ ] Optional: - ["The History of the Internet: The Missing Narratives"](https://tripod.brynmawr.edu/permalink/01TRI_INST/imniac/cdi_proquest_journals_1314625753), Martin Campbell-Kelly and Daniel D. Garcia-Swartz, *Journal of Information Technology* 28, pps 18-33 (2013)
+- [ ] Watch: 
+  - [ ] [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
+  - [ ] [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&t=3s)
+- [ ] Do:
+  - [ ] Send Stella a bio for the digital scholarship website
+  - [ ] Design & develop your personal website
 
 ## Tuesday
 May 31, 2022
@@ -127,8 +138,8 @@ June 3, 2022
 
 ### 9:15 AM Setting SMART Goals
 
-### 9:35 AM Critical Design Readings
-- (list w/ links to readings...)
+### 9:35 AM Critical Design Reading
+- ["How the internet was invented"](https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf), Ben Tarnoff, *The Guardian* 15 July 2016.
 
 ### 11:00 AM Discussion
 - (promts/questions ...?)
