@@ -34,7 +34,13 @@ May 31, 2022
 - If you've finished practicing with Command Line (or are tired of it), watch [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
 
 ### 4:00 PM Reflection Logs
-- Reflect on the different activities that we have done today:
+
+- Set up your log
+   - Navigate into the folder on your computer you use for DSSF work
+   - Create a new subfolder called 'logs'
+   - Inside 'logs', create a new file with the filename: '05-31-22.md'
+   - Open the file in VS Code
+- Write a reflection on the different activities that we have done today:
   - What went well?
   - What was challenging?
   - What questions do you still have?
