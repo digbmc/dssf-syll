@@ -21,7 +21,9 @@ May 31, 2022
 ### 1:00 PM Toolkit Setup & Business (DMCL)
 - Microsoft Teams orientation
 - Download & install [VSCode](https://code.visualstudio.com/)
-- Install [Xcode](https://www.freecodecamp.org/news/install-xcode-command-line-tools/) (Mac users)
+- Command line setup
+  - Mac users: install [xcode select using these instructions](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)
+  - PC users: install [git bash using these instructions](https://gitforwindows.org/)
 - Discuss how we will be handeling timesheets this summer
 
 ### 1:30 PM Introduction to Command Line
