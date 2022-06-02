@@ -140,6 +140,15 @@ June 3, 2022
 ### 9:00 AM Group Check-In (DMCL)
 
 ### 9:15 AM Setting SMART Goals
+- Specific: What will be accomplished? What specific actions will you take?
+  - Think of this as a mission statement. You should be able to precisely state what the outcome of your work or effort will be.
+- Measurable: What "data" will you use to measure your goal or to determine if it has been met? 
+  - If this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it?
+  - Measurement methods can be both quantitative and qualitative.  Use the measurement form that *best* suites your specific goal.
+- Achievable: Can you reasonably accomplish the goal?  Do you have the necessary skills or resources?
+  - If you don't currently have the skills need to achieve the goal, how will you acquire them?  These can be some of your measurable milestones.
+- Relevant: Does this particular goal align with broader project or personal goals?  How is the outcome important?
+- Time-bound: What is the time frame for accomplishing this goal?  Is it realistic?
 
 ### 9:35 AM Critical Design Reading
 - ["How the internet was invented"](https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf), Ben Tarnoff, *The Guardian* 15 July 2016.
