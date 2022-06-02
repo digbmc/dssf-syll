@@ -154,7 +154,9 @@ June 3, 2022
 - ["How the internet was invented"](https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf), Ben Tarnoff, *The Guardian* 15 July 2016.
 
 ### 11:00 AM Discussion
-- (promts/questions ...?)
+- The internet is now ~46 years old, making it a relatively young component of human history.  How has the internet changed over your lifetime?
+- The internet was essentially developed for the purpose of connecting otherwise unrelated networks.  What do you think of when you hear the term "network"?  What other sorts of networks can you think of and what other ways might you go about connecting them?
+- What did you learn from this article that surprised you?
 
 ### 12:00 PM Lunch Break
 
