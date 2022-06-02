@@ -95,6 +95,9 @@ June 2, 2022
 ### 9:00 AM Group Check-In (DMCL)
 
 ### 9:30 AM Introduction to Web Design & Wireframing Basics
+- Group discussion and brainstorm of front-end / user-oriented design principles
+- Introduction to wireframing
+- Using developer tools and web inspector on webpages
 
 ### 10:30 AM Independent Work
 - Locate a few examples of personal websites and observe their constrcution.  
