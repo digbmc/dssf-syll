@@ -7,48 +7,51 @@
 - Inclusive Design Thinking (Jenny Spohrer, 6/1/22)
 - HTML, CSS, and JavaScript
 - Web design basics
-- Web deployment
+- Web deployment with Domain of One's Own
 
 ## Week 2 (June 6-10) [Web Design & Publishing]
 
 - Project Management (6/8/22)
 - Web Accessibility
 - Git, GitHub, & GitHub Pages
-- Digital sustainability & preservation
+- Designing for diversity
+- **Reading:** Alex Gil, ["Design for Diversity: The Case of Ed"](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/#more-1888)
 
-## Week 3 (June 13-17) [Graphic Design and Media]
+## Week 3 (June 13-17) [Sustainability & Preservation]
 
-- Graphic design
-- Photo/media editing
-- Makerspace??
+- Digital Preservation & Web Archiving (Jessica Bright, 6/15/22)
+- Data Cleaning with OpenRefine (Stella Fritzell, 6/16/22)
+- **Reading:** [Digital Humanities and the Climate crisis: a manifesto](https://dhc-barnard.github.io/dhclimate/) 
 
-## Week 4 (June 20-24) [Critical Making and Immersive DS]
+## Week 4 (June 20-24) [Design]
 
+- AutoCAD 2D Design (Clare Rasmussen, 6/21/22)
+- Graphic Design (Karina Gonzalez, 6/23/22)
+- UX design
 
 ## Week 5 (June 27-July 1) [Data Management & Visualization]
 
-- Data Cleaning with OpenRefine
 - Data visualization with Palladio
 - Humanities data/collections as data
 
 ## Week 6 (July 5-8) [Digital exhibitions]
 
-- Exhibition basics & Scalar
-- Juncture & Collection Builder
+- Digital Exhibitions with CollectionBuilder
+- Linked Open Data
 
-## Week 7 (July 11-17) [Text analysis]
+## Week 7 (July 11-17) [Text analysis & Machine Learning]
 
 - Distant Reading with Voyant
-- Corpus Analysis with AntConc
 - Bias and Ethics in AI
 
 ## Week 8 (July 18-22) [Mapping & GIS]
 
-- Mapping tools
-- GIS data
-- Geospatial analysis
+- GIS basics (Clare Rasmussen, 7/19/22)
+- Web Mapping with Leaflet JS (Stella Fritzell, 7/21/22)
+- **Reading**: Tao Leigh Goffe, ["Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding"](http://archipelagosjournal.org/issue05/goffe-unmapping.html)
 
 ## Week 9 (July 25-29) [User design & testing]
 
+- User testing basics
 
 ## Week 10 (August 1-5) [Project wrap-up]

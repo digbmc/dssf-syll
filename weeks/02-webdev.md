@@ -54,11 +54,12 @@ June 7, 2022
 - [workshop slides](https://alicemcgrath.digital.brynmawr.edu/pres/git-hub.html#/title-slide)
 
 ### 11:00 AM GitHub Pages Quickstart
-- Work through the [GitHub Pages Quickstart guide](https://docs.github.com/en/pages/quickstart) to learn more about how GitHub hosts and publishes public webpages
+- Work through the [GitHub Pages Quickstart guide](https://docs.github.com/en/pages/quickstart) to learn more about how GitHub hosts and publishes public webpages using Jekyll
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM GitHub Pages & Jekyll
+### 1:00 PM Jekyll for Static Site Development (Alice)
+1. Installing Jekyll
 
 ### 2:30 PM  Independent Work
 - expolore different Jekyll templates
