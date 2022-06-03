@@ -161,8 +161,9 @@ June 3, 2022
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Domain of One's Own (DMCL)
+[Domain of One's Own slides](https://docs.google.com/presentation/d/e/2PACX-1vS4n01OuLlr9wu6fNtcVYFOkmF4UlvgCRJDsaND7cWUZXRwWFVN_tq234SWom24elpIwOmg6yHU1s7E/pub?start=false&loop=false&delayms=60000)
 - Getting set up with DoOO
-- Deploying websites
+- Deploying static websites
 
 ### 2:00 PM Independent Work
 - Finish wireframing personal websites
