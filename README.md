@@ -16,11 +16,11 @@ Karina Gonzalez - EaST Assistant
 
 ### Week 1 (May 31 - June 3) [Introduction to Digital Scholarship](weeks/01-intro.md)
 
-### Week 2 (June 6 - 10) Web Design & Publishing
+### Week 2 (June 6 - 10) [Web Design & Publishing](weeks/02-webdev.md)
 
-### Week 3 (June 13 - 17) Graphic Design and Media
+### Week 3 (June 13 - 17) Sustainability & Preservation
 
-### Week 4 (June 20 - 24) Critical Making and Immersive DS
+### Week 4 (June 20 - 24) Design
 
 ### Week 5 (June 27 - July 1) Data Management & Visualization
 

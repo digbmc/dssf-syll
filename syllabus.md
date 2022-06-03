@@ -9,7 +9,7 @@
 - Web design basics
 - Web deployment with Domain of One's Own
 
-## Week 2 (June 6-10) [Web Design & Publishing]
+## Week 2 (June 6-10) [Web Design & Publishing](weeks/02-webdev.md)
 
 - Project Management (6/8/22)
 - Web Accessibility
