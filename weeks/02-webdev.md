@@ -4,8 +4,11 @@
 
 ## Action items
 - [ ] Read: 
-- [ ] Watch:
+  - [ ] Alex Gil, ["Design for Diversity: The Case of Ed"](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/#more-1888)
+- [ ] Watch: finish videos from [week 1](01-intro.md)
 - [ ] Do:
+  - [ ] Complete your personal professional website
+  - [ ] Choose a blog post/excerpt from week 1 for our collective blog
 
 ## Monday
 June 6, 2022
@@ -16,10 +19,12 @@ June 6, 2022
 - set SMART goals
 
 ### 11:00 AM Digital Pedagogy & Instruction
+Chris Boyland
 
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Web Accessibility Basics
+Alice
 
 ### 2:00 PM Independent Work
 - (Web accessibility) 
@@ -45,9 +50,8 @@ June 7, 2022
 
 ### 9:00 AM Check-In (DMCL)
 
-### 9:30 AM Git, GitHub, & Markdown Workshop
-- (tutorial links)
-- (resource links)
+### 9:30 AM Git, GitHub, & Markdown Workshop (Alice)
+- [workshop slides](https://alicemcgrath.digital.brynmawr.edu/pres/git-hub.html#/title-slide)
 
 ### 11:00 AM GitHub Pages Quickstart
 - Work through the [GitHub Pages Quickstart guide](https://docs.github.com/en/pages/quickstart) to learn more about how GitHub hosts and publishes public webpages
