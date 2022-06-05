@@ -96,7 +96,7 @@ June 8, 2022
   - What questions do you still have?  What issues are still bothering you?
 - Think back on the Project Management Workshop:
   - What are some useful aspects of project management that we should use over the course of the summer?
-  - What are some aspects of prject management that you anticipate using for your work in the future?
+  - What are some aspects of project management that you anticipate using for your work in the future?
 
 ### 4:30 PM Discussion
 
