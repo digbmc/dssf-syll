@@ -23,7 +23,7 @@ Full team: [meeting notes here](https://brynmawr.sharepoint.com/:w:/s/dssf/EaP48
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM User Experience for Web Design
+### 1:00 PM On your own: User Experience for Web Design
 [Link to LinkedIn Learning tutorial](https://www.linkedin.com/learning/user-experience-for-web-design-2015/)
 
 ### 4:00 PM Reflection Logs
@@ -63,12 +63,11 @@ June 7, 2022
 - expolore different Jekyll templates
 - use a selected template to begin building your personal websites
 
-### 4:00 PM Reflection Logs
+### 4:30 PM Reflection Logs
 - Reflect on the different activites we have done today:
   - What went well?  What was challenging?
   - What questions do you still have?  What issues are still bothering you?
 
-### 4:30 PM Discussion
 
 ---
 
@@ -85,18 +84,17 @@ June 8, 2022
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Project Management Workshop (Park Slope | rain location: Park 245)
+With Digital Technology interns; workshop led by Jenny Spohrer (Director of Educational & Scholarly Technology)
 
 ### 3:00 PM Project Work (DMCL)
 
-### 4:00 PM Reflection Logs
+### 4:30 PM Reflection Logs
 - Reflect on the different activites we have done today:
   - What went well?  What was challenging?
   - What questions do you still have?  What issues are still bothering you?
 - Think back on the Project Management Workshop:
   - What are some useful aspects of project management that we should use over the course of the summer?
   - What are some aspects of project management that you anticipate using for your work in the future?
-
-### 4:30 PM Discussion
 
 ---
 
@@ -111,13 +109,17 @@ June 9, 2022
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Independent work
+- Deploy the most recent version of your website
 
-### 2:00 PM Web Accessibility
+### 2:00 PM Web Accessibility workshop
 
+### 3:00 Break
 
-...
+### 3:15 PM Accessibility work
+- In pairs, work through your accessibility reports and develop individual task lists (must, should, can)
+- Continue work on your websites
 
-### 4:00 PM Reflection Logs
+### 4:30 PM Reflection Logs
 
 - Reflect on the different activites we have done today:
   - What went well?  What was challenging?
@@ -126,8 +128,6 @@ June 9, 2022
   - What aspects of web accessibility seem the most straight forward?  What seems more difficult to implement? 
   - What surprised you?
 
-### 4:30 PM Discussion
-
 ---
 
 ## Friday
@@ -135,19 +135,24 @@ June 10, 2022
 
 ### 9:00 AM Check-In (DMCL)
 
-### 9:30 AM ...
+### 9:30 AM Reading/viewing
+- Finish reading Alex Gil, ["Design for Diversity: The Case of Ed"](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/#more-1888)
+- Optional: explore the Des4Dev toolkit
 
-...
+### 11:00 AM Discussion
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM ...
+### 1:00 PM Independent work
+
+- Complete your websites
+- Deploy your most recent version by 4:00 PM
 
 ...
 
 ### 4:00 PM Reflection Logs
-- Reflect on the different activites we have done today:
-  - What went well?  What was challenging?
-  - What questions do you still have?  What issues are still bothering you?
+- Reflect on the process of creating your individual sites
+  - What went well? What was challenging?
+  - What questions do you still have? What issues are still bothering you?
 
 ### 4:30 PM Discussion
