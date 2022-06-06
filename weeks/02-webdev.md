@@ -15,21 +15,19 @@ June 6, 2022
 
 ### 9:00 AM Check-In (DMCL)
 
-### 9:30 AM Project Meeting
-- set SMART goals
-
-### 11:00 AM Digital Pedagogy & Instruction
+### 9:30 AM Digital Pedagogy & Instruction
 Chris Boyland
+
+### 11:00 Project Meeting
+Full team: [meeting notes here](https://brynmawr.sharepoint.com/:w:/s/dssf/EaP48Y-n3RlFsQqSd4O42pEBsDETlHeNBtzRzBI7l6MNNA?e=qFSWzB)
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Web Accessibility Basics
-Alice
-
-### 2:00 PM Independent Work
-- (Web accessibility) 
+### 1:00 PM User Experience for Web Design
+[Link to LinkedIn Learning tutorial](https://www.linkedin.com/learning/user-experience-for-web-design-2015/)
 
 ### 4:00 PM Reflection Logs
+- Choose an excerpt (1-2 paragraphs) from your week 1 log entries and post it to Teams
 - Reflect on the different activites we have done today:
   - What went well?  What was challenging?
   - What questions do you still have?
@@ -37,9 +35,7 @@ Alice
   - What options / tools / methods of Digital Pedagogy were familiar to you?  What was new?
   - What aspects of Digital Pedagogy are you most excited about?
   - What aspects of Digital Pedagogy do you think are the most appliciable? 
-- Think back to your practice with web accessibility basics:
-  - What aspects of web accessibility seem the most straight forward?  What seems more difficult to implement? 
-  - What surprised you?
+
 
 ### 4:30 PM Discussion
 
@@ -59,7 +55,9 @@ June 7, 2022
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Jekyll for Static Site Development (Alice)
-1. Installing Jekyll
+- Installing Ruby, rvm, Jekyll
+- Setting up a Jekyll project
+- Jekyll sites: how to customize
 
 ### 2:30 PM  Independent Work
 - expolore different Jekyll templates
@@ -112,14 +110,21 @@ June 9, 2022
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Introduction to Static & Dynamic Web Publishing Tools
+### 1:00 PM Independent work
+
+### 2:00 PM Web Accessibility
+
 
 ...
 
 ### 4:00 PM Reflection Logs
+
 - Reflect on the different activites we have done today:
   - What went well?  What was challenging?
   - What questions do you still have?  What issues are still bothering you?
+- Think back to your practice with web accessibility basics:
+  - What aspects of web accessibility seem the most straight forward?  What seems more difficult to implement? 
+  - What surprised you?
 
 ### 4:30 PM Discussion
 
