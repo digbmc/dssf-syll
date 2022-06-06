@@ -51,6 +51,8 @@ June 7, 2022
 
 ### 11:00 AM GitHub Pages Quickstart
 - Work through the [GitHub Pages Quickstart guide](https://docs.github.com/en/pages/quickstart) to learn more about how GitHub hosts and publishes public webpages using Jekyll
+- Create a GitHub pages site using a built-in theme
+- Explore other [free Jekyll themes](https://jekyllrb.com/docs/themes/)
 
 ### 12:00 PM Lunch Break
 
@@ -59,12 +61,12 @@ June 7, 2022
 - Setting up a Jekyll project
 - Jekyll sites: how to customize
 
-### 2:30 PM  Independent Work
-- expolore different Jekyll templates
-- use a selected template to begin building your personal websites
+### 2:30 PM  Independent Work: Jekyll
+- Add custom CSS to your Jekyll site
+- Add a custom layout
 
 ### 4:30 PM Reflection Logs
-- Reflect on the different activites we have done today:
+- Reflect on the work we have done today with git, GitHub Pages, and Jekyll:
   - What went well?  What was challenging?
   - What questions do you still have?  What issues are still bothering you?
 
