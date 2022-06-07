@@ -12,6 +12,29 @@ Stella Fritzell - Digital Scholarship Graduate Assistant
 
 Karina Gonzalez - EaST Assistant
 
+Arlowe Willingham - Digital Scholarship Fellow
+
+## Bios
+Meet the team!
+
+### Staff Leaders
+Alice McGrath:
+
+Chris Boyland:
+
+Stella Fritzell:
+
+Karina Gonzalez:
+
+### Fellows
+Adrianna Morsey:
+
+Arlowe Willingham:
+
+Cameron Boucher:
+
+Rafiun Haque:
+
 ## Schedule
 
 ### Week 1 (May 31 - June 3) [Introduction to Digital Scholarship](weeks/01-intro.md)
