@@ -57,7 +57,7 @@ June 7, 2022
 - Explore other [free Jekyll themes](https://jekyllrb.com/docs/themes/)
 
 ### 2:00 PM Jekyll for Static Site Development (Alice)
-- Installing Ruby, rvm, Jekyll
+- Installing Ruby, rvm, Jekyll - use [these instructions](https://collectionbuilder.github.io/cb-docs/docs/software/ruby/)
 - Setting up a Jekyll project
 - Jekyll sites: how to customize
 
