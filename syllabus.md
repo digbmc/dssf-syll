@@ -17,7 +17,7 @@
 - Designing for diversity
 - **Reading:** Alex Gil, ["Design for Diversity: The Case of Ed"](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/#more-1888)
 
-## Week 3 (June 13-17) [Sustainability & Preservation]
+## Week 3 (June 13-17) [Sustainability & Preservation](weeks/03-pres.md)
 
 - Digital Preservation & Web Archiving (Jessica Bright, 6/15/22)
 - Data Cleaning with OpenRefine (Stella Fritzell, 6/16/22)
