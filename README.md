@@ -2,7 +2,9 @@
 
 The Digital Scholarship Summer Fellows program is a paid, full-time summer internship opportunity for Bryn Mawr students to learn digital research and publication methods and gain professional experience by collaborating on a public-facing digital scholarship project. Over the course of ten weeks, we will explore key issues and methods in digital scholarship, critical making, and multi-modal research through a combination of hands-on work, instruction, and discussion. Fellows will also have opportunities to present their work, create a personal digital portfolio, and learn about careers in libraries, museums, and digital media and research.
 
-## People
+[Syllabus](syllabus.md)
+
+## Team
 
 Alice McGrath - Digital Scholarship Specialist
 
@@ -12,28 +14,14 @@ Stella Fritzell - Digital Scholarship Graduate Assistant
 
 Karina Gonzalez - EaST Assistant
 
-Arlowe Willingham - Digital Scholarship Fellow
+Arlowe Willingham - Digital Scholarship Summer Fellow
 
-## Bios
-Meet the team!
+Adrianna Morsey - Digital Scholarship Summer Fellow
 
-### Staff Leaders
-Alice McGrath:
+Cameron Boucher - Digital Scholarship Summer Fellow
 
-Chris Boyland:
+Rafiun Haque - Digital Scholarship Summer Fellow
 
-Stella Fritzell:
-
-Karina Gonzalez:
-
-### Fellows
-Adrianna Morsey:
-
-Arlowe Willingham:
-
-Cameron Boucher:
-
-Rafiun Haque:
 
 ## Schedule
 
@@ -56,11 +44,3 @@ Rafiun Haque:
 ### Week 9 (July 25 - 29) User Design & Testing
 
 ### Week 10 (August 1 - 5) Project Wrap-Up
-
-## Links
-
-[Resources](/resources)
-
-[Syllabus](syllabus.md)
-
-### Adrianna's edit

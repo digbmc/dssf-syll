@@ -49,14 +49,14 @@ June 7, 2022
 ### 9:30 AM Git, GitHub, & Markdown Workshop (Alice)
 - [workshop slides](https://alicemcgrath.digital.brynmawr.edu/pres/git-hub.html#/title-slide)
 
-### 11:00 AM GitHub Pages Quickstart
+### 12:00 PM Lunch Break
+
+### 1:00 PM GitHub Pages Quickstart
 - Work through the [GitHub Pages Quickstart guide](https://docs.github.com/en/pages/quickstart) to learn more about how GitHub hosts and publishes public webpages using Jekyll
 - Create a GitHub pages site using a built-in theme
 - Explore other [free Jekyll themes](https://jekyllrb.com/docs/themes/)
 
-### 12:00 PM Lunch Break
-
-### 1:00 PM Jekyll for Static Site Development (Alice)
+### 2:00 PM Jekyll for Static Site Development (Alice)
 - Installing Ruby, rvm, Jekyll
 - Setting up a Jekyll project
 - Jekyll sites: how to customize
@@ -145,12 +145,12 @@ June 10, 2022
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Independent work
-
+### 1:00 PM - 4:00 PM Independent work
+- **NB**: one-on-one meetings with Alice starting at 2
 - Complete your websites
 - Deploy your most recent version by 4:00 PM
 
-...
+
 
 ### 4:00 PM Reflection Logs
 - Reflect on the process of creating your individual sites
@@ -158,5 +158,3 @@ June 10, 2022
   - What questions do you still have? What issues are still bothering you?
 
 ### 4:30 PM Discussion
-
-Example changes!
