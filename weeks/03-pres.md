@@ -15,7 +15,7 @@ June 13, 2022
 
 ### 9:30 AM ...
 
-### 11:00 Project Meeting
+### 10:00 AM Project Meeting
 
 ### 12:00 PM Lunch Break (BMC Staff Picnic, Sunken Garden)
 
@@ -84,11 +84,13 @@ June 16, 2022
 
 ### 9:00 AM Check-In (DMCL)
 
-### 9:30 AM Data Cleaning with OpenRefine
+### 9:30 AM Independent Work
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Independent work
+### 1:00 PM Data Cleaning with OpenRefine
+
+### 3:00 PM Independent Work
 
 ### 4:00 PM Reflection Logs
 - Reflect on the different activities we have done today:
