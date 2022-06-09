@@ -114,6 +114,7 @@ June 9, 2022
 - Deploy the most recent version of your website
 
 ### 2:00 PM Web Accessibility workshop
+[Web Accessibility Slides](https://docs.google.com/presentation/d/1V5cxH67_6BHYDa71pAdkGrCge6r7_MB9mEiK9fVX19o/edit?usp=sharing)
 
 ### 3:00 Break
 
