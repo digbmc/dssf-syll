@@ -5,8 +5,11 @@
 ## Action items
 - [ ] Read: 
   - [ ] ["Digital Humanities and the Climate Crisis: A Manifesto"](https://dhc-barnard.github.io/dhclimate/)
+  - [ ] Low tech website
+  - [ ] Another digital preservation reading
 - [ ] Watch:
 - [ ] Do:
+  - [ ] - Carbon calculator activity?
 
 ## Monday
 June 13, 2022
@@ -14,6 +17,7 @@ June 13, 2022
 ### 9:00 AM Check-In (DMCL)
 
 ### 9:30 AM Project Work
+- review project charter and notes from the project management workshop
 
 ### 10:00 AM Project Meeting
 
