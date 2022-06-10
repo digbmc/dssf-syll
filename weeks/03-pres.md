@@ -33,6 +33,7 @@ June 13, 2022
 
 ## Tuesday
 June 14, 2022
+**Timesheets due**
 
 ### 9:00 AM Check-In (DMCL)
 
