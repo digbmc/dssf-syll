@@ -28,8 +28,8 @@ June 13, 2022
 ### 12:00 PM Lunch Break (BMC Staff Picnic, Sunken Garden)
 
 ### 1:00 PM Web skillz (Alice)
-- Responsive design: media queries in css
-- Jekyll blog from scratch
+- Responsive design: [media queries in css](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
+- Jekyll blog from scratch: [see these instructions](https://jekyllrb.com/docs/), starting with no. 3
 
 ### 4:30 PM Reflection Logs
 - Choose an excerpt (1-2 paragraphs) from your week 2 log entries and post it to Teams
