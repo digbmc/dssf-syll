@@ -51,7 +51,7 @@ June 14, 2022
 ### 1:00 PM Project Work
 
 ### 4:30 PM Reflection Logs
-- Say something the work you have done today
+- Say something about the work you have done today
 
 ---
 
