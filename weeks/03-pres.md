@@ -3,13 +3,12 @@
 [Monday](#monday) // [Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
 
 ## Action items
-- [ ] Read: 
+- [ ] Read and take notes in your log:
   - [ ] ["Digital Humanities and the Climate Crisis: A Manifesto"](https://dhc-barnard.github.io/dhclimate/)
-  - [ ] Low tech website
-  - [ ] Another digital preservation reading
-- [ ] Watch:
+  - [ ] [How to build a low tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/) Low Tech Magazine
 - [ ] Do:
-  - [ ] - Carbon calculator activity?
+  - [ ] Collaborative project
+  - [ ] Sign up for [LINCS user testing session](https://lincsproject.ca/research-participants-needed/)
 
 ## Monday
 June 13, 2022
@@ -17,17 +16,24 @@ June 13, 2022
 ### 9:00 AM Check-In (DMCL)
 
 ### 9:30 AM Project Work
-- review project charter and notes from the project management workshop
+- Review project charter and notes from the project management workshop
+- Add to ideas/brainstorming document
 
 ### 10:00 AM Project Meeting
+- Note-taker: Alice
+- Agenda:
+  - Charter notes/discussion
+  - Describe collaborative project parameters
 
 ### 12:00 PM Lunch Break (BMC Staff Picnic, Sunken Garden)
 
-### 1:00 PM Project Work
+### 1:00 PM Web skillz (Alice)
+- Responsive design: media queries in css
+- Jekyll blog from scratch
 
 ### 4:30 PM Reflection Logs
 - Choose an excerpt (1-2 paragraphs) from your week 2 log entries and post it to Teams
-- Say something the work you have done today
+- Write about your ideas, questions, hopes, and concerns about the project.
 
 ---
 
@@ -52,11 +58,12 @@ June 14, 2022
 ## Wednesday
 June 15, 2022
 
-### 9:00 AM Check-In (DMCL)
+*Alice & Stella out*
 
-### 9:30 AM Project Work
+### 9:00 AM Check-In/project work (DMCL)
 
 ### 10:00 AM Introduction to Digital Preservation & Web Archiving
+Jessica Bright, Digital Collections and Metadata Librarian
 
 ### 11:00 AM Project Work
 
@@ -65,7 +72,6 @@ June 15, 2022
 ### 1:00 PM Project Work
 
 ### 4:30 PM Reflection Logs
-- Say something the work you have done today
 - Reflect on the Digital Preservation & Web Archiving workshop:
   - What are some of the challenges of digital preservation that you were previously unaware of?
   - Is any of the material from the workshop directly appliciabile to your work this summer? How so?
@@ -73,7 +79,10 @@ June 15, 2022
 ---
 
 ## Thursday
+
 June 16, 2022
+
+*Alice out*
 
 ### 9:00 AM Check-In (DMCL)
 
@@ -86,17 +95,20 @@ June 16, 2022
 ### 3:00 PM Project Work
 
 ### 4:30 PM Reflection Logs
-- Say something the work you have done today
+- Say something about the work you have done today
 
 ---
 
 ## Friday
+
 June 17, 2022
+
+*Alice out*
 
 ### 9:00 AM Check-In (DMCL)
 
-### 9:30 AM Reading/viewing
-- Finish reading ["Digital Humanities and the Climate Crisis: A Manifesto"](https://dhc-barnard.github.io/dhclimate/)
+- Finish reading ["Digital Humanities and the Climate Crisis: A Manifesto"](https://dhc-barnard.github.io/dhclimate/) and [How to build a low tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/) (Low Tech Magazine)
+- Write notes and questions in your log
 
 ### 11:00 AM Discussion
 
@@ -105,4 +117,4 @@ June 17, 2022
 ### 1:00 PM Project work
 
 ### 4:30 PM Reflection Logs
-- Say something the work you have done today
+
