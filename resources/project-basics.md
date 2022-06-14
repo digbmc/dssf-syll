@@ -35,3 +35,7 @@ Installations:
  
  - [Slides: design, development, deployment](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EewJRNA-foFMqz_jrKl4GmABJKg9Gr8xhnncjV2KdrcJpw?e=ZC7ltx)
  - [DSRI self-paced tutorial](https://github.com/tri-cods/html-css)
+
+
+## Other web stuff
+- Setting up FTP connections with Domain of One's Own
