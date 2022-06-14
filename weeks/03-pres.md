@@ -90,7 +90,7 @@ June 16, 2022
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Data Cleaning with OpenRefine
+### 1:00 PM Data Cleaning with OpenRefine (Stella)
 
 ### 3:00 PM Project Work
 
@@ -108,6 +108,7 @@ June 17, 2022
 ### 9:00 AM Check-In (DMCL)
 
 - Finish reading ["Digital Humanities and the Climate Crisis: A Manifesto"](https://dhc-barnard.github.io/dhclimate/) and [How to build a low tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/) (Low Tech Magazine)
+- Choose a site you use or helped create to test with the [website carbon calculator](https://www.websitecarbon.com/)
 - Write notes and questions in your log
 
 ### 11:00 AM Discussion
