@@ -91,6 +91,7 @@ June 16, 2022
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Data Cleaning with OpenRefine (Stella)
+- Refer to this (mostly finished) [Data-management workshop](https://github.com/sfritzell/Data-Management)
 
 ### 3:00 PM Project Work
 
