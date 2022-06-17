@@ -29,10 +29,10 @@
 - Graphic Design (Karina Gonzalez, 6/23/22)
 - UX design
 
-## Week 5 (June 27-July 1) [Data Management & Visualization]
+## Week 5 (June 27-July 1) [Data Visualization](weeks/05-viz.md)
 
-- Data visualization with Palladio
-- Humanities data/collections as data
+- Intro to Data Visualization (Alice McGrath, 6/28/22)
+- Freeze! & New Art City Demo (Yusi Liu, 6/30/22)
 
 ## Week 6 (July 5-8) [Digital exhibitions]
 
