@@ -92,7 +92,7 @@ June 24, 2022
 
 ### 9:30 AM DSSF Blog Presentation
 
-### 11:00 AM Reading & Discussion
+### 10:30 AM Reading & Discussion
 - finish exploring [The Design for Diversity Learning Toolkit](https://des4div.library.northeastern.edu/)
 - wrap up reading [Critical Fabulations: Reworking the Methods and Margins of Design](https://direct.mit.edu/books/book/3143/Critical-FabulationsReworking-the-Methods-and) by Daniela K Rosner
 
