@@ -31,7 +31,7 @@ Rafiun Haque - Digital Scholarship Summer Fellow
 
 ### Week 3 (June 13 - 17) [Sustainability & Preservation](weeks/03-pres.md)
 
-### Week 4 (June 20 - 24) Design
+### Week 4 (June 20 - 24) [Design](weeks/04-design.md)
 
 ### Week 5 (June 27 - July 1) Data Management & Visualization
 
