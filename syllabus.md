@@ -23,7 +23,7 @@
 - Data Cleaning with OpenRefine (Stella Fritzell, 6/16/22)
 - **Reading:** [Digital Humanities and the Climate crisis: a manifesto](https://dhc-barnard.github.io/dhclimate/) 
 
-## Week 4 (June 20-24) [Design]
+## Week 4 (June 20-24) [Design](weeks/04-design.md)
 
 - AutoCAD 2D Design (Clare Rasmussen, 6/21/22)
 - Graphic Design (Karina Gonzalez, 6/23/22)
