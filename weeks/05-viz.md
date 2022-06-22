@@ -33,7 +33,9 @@ June 27, 2022
 ## Tuesday
 June 28, 2022
 
-*Stella out*
+*Timesheets due* | *Stella out*
+
+
 
 ### 9:00 AM Check-In (DMCL)
 
