@@ -3,7 +3,7 @@
 [Monday](#monday) // [Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
 
 ## Action items
-- [ ] Read and take notes in your log:
+- [ ] Read and take notes in your log (optional):
   - [ ] [The Design for Diversity Learning Toolkit](https://des4div.library.northeastern.edu/)
   - [ ] [Critical Fabulations: Reworking the Methods and Margins of Design](https://direct.mit.edu/books/book/3143/Critical-FabulationsReworking-the-Methods-and) by Daniela K Rosner
 - [ ] Do:
@@ -91,10 +91,6 @@ June 24, 2022
 ### 9:00 AM Check-In (DMCL)
 
 ### 9:30 AM DSSF Blog Presentation
-
-### 10:30 AM Reading & Discussion
-- finish exploring [The Design for Diversity Learning Toolkit](https://des4div.library.northeastern.edu/)
-- wrap up reading [Critical Fabulations: Reworking the Methods and Margins of Design](https://direct.mit.edu/books/book/3143/Critical-FabulationsReworking-the-Methods-and) by Daniela K Rosner
 
 ### 12:00 PM Lunch Break
 
