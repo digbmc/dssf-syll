@@ -59,9 +59,11 @@ June 29, 2022
 
 *Stella & Alice out*
 
-### 9:00 AM Check-In (DMCL)
+### 9:00 AM Check-In, Project Work (DMCL)
 
-### 9:30 AM Project Work
+### 11:00 AM Intro to Digital & Leadership Competencies (Chris Boyland)
+
+**Canaday 315** with DT interns
 
 ### 12:00 PM Lunch Break
 
@@ -77,9 +79,7 @@ June 30, 2022
 
 *Stella out*
 
-### 9:00 AM Check-In (DMCL)
-
-### 9:30 AM Project Work
+### 9:00 AM Check-In, Project Work (DMCL)
 
 ### 12:00 PM Lunch Break
 
@@ -102,17 +102,20 @@ July 1, 2022
 
 *Stella out*
 
-### 9:00 AM Check-In (DMCL)
-
-### 9:30 AM Project Work
+### 9:00 AM Check-In, Project Work (DMCL)
+- [ ] Create a list of questions to ask Prof. Vergara about the "Encyclopedia of the Dog" project and his needs for the website.
 
 ### 10:00 AM "Encyclopedia of the Dog" Project with José Vergara
 
-### 11:00 AM Discussion
+### 11:00 AM Discussion: Data Feminisms
+["The Numbers Don't Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3), Catherine Ingrassia & Lauren Klein, *Data Feminisms* (MIT 2020).
 
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Project work
 
 ### 4:30 PM Reflection Logs
-- Say something about the work you have done today
+- What was your biggest takeaway from the *Data Feminisms* reading and discussion?
+- Reflect on your work this week.
+
+[<<< Previous week](04-design.md) | [Next week >>>]
