@@ -3,10 +3,8 @@
 [Monday](#monday) // [Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
 
 ## Action items
-- [ ] Read and take notes in your log:
-  - [ ] 
-  - [ ] 
-- [ ] Do:
+- [ ] Read and take notes in your log: ["The Numbers Don't Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3), Catherine Ingrassia & Lauren Klein, *Data Feminisms* (MIT 2020).
+- [ ] Watch: [Create More Accessible Data Experiences Webinar (IAAP)](https://www.youtube.com/watch?v=BMr_p9eESpY) webinar. See also the [workshop slides](https://g3ict-my.sharepoint.com/:p:/g/personal/events_accessibilityassociation_org/ETTsa9u-85RHpXVsbIsnzUoBu6hqL6CI3_L86lXy56x7GA?rtime=nO3dHTxV2kg)
 
 ## Monday
 June 27, 2022
@@ -33,15 +31,16 @@ June 27, 2022
 ## Tuesday
 June 28, 2022
 
-*Timesheets due* | *Stella out*
+*Timesheets due*: send to Alice by the end of the day
 
 
+### 9:00 AM Project Work
 
-### 9:00 AM Check-In (DMCL)
+### 10:00 AM Intro to Data Visualization (Alice)
 
-### 9:30 AM Project Work
+**Canaday Library 205 (Special Collections Seminar Room)**
 
-### 10:00 AM Intro to Data Visualization
+- With Who Built Bryn Mawr? and DT interns
 
 ### 12:00 PM Lunch Break
 
@@ -58,7 +57,7 @@ June 28, 2022
 ## Wednesday
 June 29, 2022
 
-*Stella out*
+*Stella & Alice out*
 
 ### 9:00 AM Check-In (DMCL)
 
@@ -85,6 +84,8 @@ June 30, 2022
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Freeze! & New Art City Demo
+
+Yusi Liu, Ph.D. Candidate in Archaeology
 
 ### 2:00 PM Project Work
 

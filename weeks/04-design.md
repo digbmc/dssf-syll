@@ -71,9 +71,10 @@ June 23, 2022
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Graphic Design Workshop
+### 1:00 PM Graphic Design Workshop (Karina)
 
 ### 3:00 PM Project Work
+- One-on-one meetings with Alice
 
 ### 4:30 PM Reflection Logs
 - Say something about the work you have done today
@@ -95,6 +96,7 @@ June 24, 2022
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Project work
+- One-on-one meetings with Alice starting at 3
 
 ### 4:30 PM Reflection Logs
 - Say something about the work you have done today
