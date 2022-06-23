@@ -180,3 +180,6 @@ June 3, 2022
 ### 4:30 PM Discussion
 - Talk about the challenges and successes of the week
 - Next week's forecast
+
+
+[Next week >>>](02-webdev.md)
