@@ -13,9 +13,11 @@ June 27, 2022
 
 ### 9:00 AM Check-In (DMCL)
 
-### 9:30 AM Project Work
+### 9:15 AM Project Work
+- Prepare for project meeting
 
-### 10:00 AM Project Meeting
+### 10:30 AM Project Meeting
+- [Meeting notes](https://brynmawr.sharepoint.com/:w:/s/dssf/EaP48Y-n3RlFsQqSd4O42pEBsDETlHeNBtzRzBI7l6MNNA?e=J6Ru1a)
 - Note-taker: Arlowe
 - Agenda:
   - Updates from Friday research
@@ -27,7 +29,7 @@ June 27, 2022
 ### 1:00 PM Project Work
 
 ### 4:30 PM Reflection Logs
-- Say something about the work you have done today
+- Reflect on your role for the Critical Web Design Toolkit project. What do you need to learn in order to perform it successfully? What will be most challenging? What are you most looking forward to?
  
 ---
 
