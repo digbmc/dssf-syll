@@ -123,4 +123,4 @@ July 1, 2022
 - What was your biggest takeaway from the *Data Feminisms* reading and discussion?
 - Reflect on your work this week.
 
-[<<< Previous week](04-design.md) | [Next week >>>]
+[<<< Previous week](04-design.md) | [Next week >>>](06-exhib.md)
