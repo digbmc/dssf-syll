@@ -1,4 +1,4 @@
-# Week 4 (June 27 - July 1): Data Visualization
+# Week 5 (June 27 - July 1): Data Visualization
 
 [Monday](#monday) // [Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
 
