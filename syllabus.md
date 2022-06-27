@@ -34,7 +34,7 @@
 - Intro to Data Visualization (Alice McGrath, 6/28/22)
 - Freeze! & New Art City Demo (Yusi Liu, 6/30/22)
 
-## Week 6 (July 5-8) [Digital exhibitions]
+## Week 6 (July 5-8) [Digital exhibitions](weeks/06-exhib.md)
 
 - Digital Exhibitions with CollectionBuilder
 - Linked Open Data
