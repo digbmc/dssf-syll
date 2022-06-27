@@ -16,8 +16,11 @@ June 27, 2022
 ### 9:30 AM Project Work
 
 ### 10:00 AM Project Meeting
-- Note-taker: 
+- Note-taker: Arlowe
 - Agenda:
+  - Updates from Friday research
+  - Milestones and tasks review (Karina)
+  - Roles & responsibilities discussion
 
 ### 12:00 PM Lunch Break
 
