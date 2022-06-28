@@ -1,4 +1,4 @@
-# Week 4 (June 27 - July 1): Data Visualization
+# Week 5 (June 27 - July 1): Data Visualization
 
 [Monday](#monday) // [Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
 
@@ -125,4 +125,4 @@ July 1, 2022
 - What was your biggest takeaway from the *Data Feminisms* reading and discussion?
 - Reflect on your work this week.
 
-[<<< Previous week](04-design.md) | [Next week >>>]
+[<<< Previous week](04-design.md) | [Next week >>>](06-exhib.md)
