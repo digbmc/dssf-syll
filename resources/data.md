@@ -19,7 +19,8 @@
 ### Example 2: [Missed Connections: All the Lonely People](https://s3.amazonaws.com/blinderman-lede/missed_connections/zoomcircles.html), Ilia Blinderman
 
 <iframe title="Missed Connections: All the Lonely People" width="100%" height="500" src="https://s3.amazonaws.com/blinderman-lede/missed_connections/zoomcircles.html">
-[Direct link to visualization]( [Missed Connections: All the Lonely People](https://s3.amazonaws.com/blinderman-lede/missed_connections/zoomcircles.html))
+
+[Direct link to visualization - Missed Connections: All the Lonely People](https://s3.amazonaws.com/blinderman-lede/missed_connections/zoomcircles.html))
 
 [Blog post](http://iliablinderman.com/connections/)
 
