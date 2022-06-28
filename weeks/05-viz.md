@@ -43,6 +43,8 @@ June 28, 2022
 
 ### 10:00 AM Intro to Data Visualization (Alice)
 
+[Handout link](../resources/data.md)
+
 **Canaday Library 205 (Special Collections Seminar Room)**
 
 - With Who Built Bryn Mawr? and DT interns
