@@ -18,11 +18,9 @@
 
 ### Example 2: [Missed Connections: All the Lonely People](https://s3.amazonaws.com/blinderman-lede/missed_connections/zoomcircles.html), Ilia Blinderman
 
-<iframe title="Missed Connections: All the Lonely People" width="100%" height="500" src="https://s3.amazonaws.com/blinderman-lede/missed_connections/zoomcircles.html">
+<!-- <iframe title="Missed Connections: All the Lonely People" width="100%" height="500" src="https://s3.amazonaws.com/blinderman-lede/missed_connections/zoomcircles.html"> -->
 
-[Direct link to visualization - Missed Connections: All the Lonely People](https://s3.amazonaws.com/blinderman-lede/missed_connections/zoomcircles.html))
-
-[Blog post](http://iliablinderman.com/connections/)
+[Blog post: Missed Connections: All the Lonely People](http://iliablinderman.com/connections/)
 
 ### Example 3: [NY Times: Punishing Reach of Racism for Black Boys](https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html?mtrref=search.brave.com&assetType=PAYWALL) (3/19/2018) 
 
@@ -60,6 +58,7 @@ See also [blog post by Kate Elswit and Harmony Bench](https://www.dunhamsdata.or
 - What graph types would best communicate your data story?
   - Useful resource: [From Data to Viz](https://www.data-to-viz.com/)
   - Use your imagination! Draw your visualization on paper.
+  - For inspiration: [Dear Data project](http://www.dear-data.com/theproject), Georgia Lupi & Stefanie Posavec. 
 - Design considerations:
   - What methods can you use to convey your variables?
   - How can you make the results visually compelling and communicative?
