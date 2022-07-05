@@ -17,7 +17,8 @@
   - Pablo Stanley, [Designing for Accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94) (UX Collective, 2018)
 - Digital divide
   - [Whose Knowledge? Decolonizing the Internet conference proceedings](https://whoseknowledge.org/decolonizing-the-internet-conference/)
-
+- Digital Exhibit project workflows
+  - [Colored Conventions Project: Website Wednesday series](https://coloredconventions.org/website-wednesday/)
 
 ## Other DS
 

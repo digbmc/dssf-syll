@@ -3,8 +3,11 @@
 [Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
 
 ## Action items
-- [ ] Read and take notes in your log:
-- [ ] Watch: 
+- [ ] Read and take notes in your log: 
+  - [ ] [Website Wednesday blog posts from the Colored Conventions project](https://coloredconventions.org/website-wednesday/) (posts 1-6; reflections on platform migration workflows and decisions for a large scale digital humanities project)
+  - [ ] Look at [Wax](https://minicomp.github.io/wax/), a minimal computing digital exhibition tool. Start by reading the [About page](https://minicomp.github.io/wax/about/), then peruse the layouts/features and look at the documentation.
+
+## Monday - OFF July 4
 
 ## Tuesday
 July 5, 2022
@@ -22,6 +25,10 @@ July 5, 2022
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Intro to Digital Exhibitions
+
+Canaday 205 (with WBBM Interns)
+
+
 
 ### 3:00 PM Project Work
 
@@ -63,13 +70,18 @@ July 7, 2022
 July 8, 2022
 
 ### 9:00 AM Check-In, Project Work (DMCL)
-- Read, watch, and/or review action items for this week
 
-### 11:00 AM Discussion
+- Read, watch, and/or review action items for this week
+- Take notes on anything that could be useful to keep in mind for our project
+
+### 11:00 AM Discussion: Digital Exhibition workflows and tools
+
+-  [Website Wednesday blog posts from the Colored Conventions project](https://coloredconventions.org/website-wednesday/) (posts 1-6; reflections on platform migration workflows and decisions for a large scale digital humanities project)
+- [Wax](https://minicomp.github.io/wax/about/) documentation
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Editing Moodle pages
+### 1:00 PM Editing Moodle pages (Chris)
 
 ### 2:00 PM Project work
 
