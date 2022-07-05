@@ -69,7 +69,9 @@ July 8, 2022
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Project work
+### 1:00 PM Editing Moodle pages
+
+### 2:00 PM Project work
 
 ### 4:30 PM Reflection Logs
 - Reflect on your work this week
