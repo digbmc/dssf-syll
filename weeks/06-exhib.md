@@ -14,8 +14,10 @@ July 5, 2022
 
 ### 10:00 AM Project Meeting
 - [Meeting notes](https://brynmawr.sharepoint.com/:w:/s/dssf/EaP48Y-n3RlFsQqSd4O42pEBsDETlHeNBtzRzBI7l6MNNA?e=J6Ru1a)
-- Note-taker:
+- Note-taker: Adrianna
 - Agenda:
+  - Updates on project
+  - Evaluate schedule
 
 ### 12:00 PM Lunch Break
 
