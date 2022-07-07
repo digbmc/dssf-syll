@@ -7,7 +7,7 @@
   - [ ] [Website Wednesday blog posts from the Colored Conventions project](https://coloredconventions.org/website-wednesday/) (posts 1-6; reflections on platform migration workflows and decisions for a large scale digital humanities project)
   - [ ] Look at [Wax](https://minicomp.github.io/wax/), a minimal computing digital exhibition tool. Start by reading the [About page](https://minicomp.github.io/wax/about/), then peruse the layouts/features and look at the documentation.
   - [ ] Read Ch. 1, "Discords Beyond the Itil" of *Between Dog and Wolf* by Sasha Sokolov (translated by Alexander Boguslawski): either on the [Dogopedia annotation site](https://digitalscholarship.brynmawr.edu/dog/) or in the [pdf version on JSTOR](https://www.jstor.org/stable/10.7312/soko18146)
-  - [ ] Optional: view Ch. 1 [Dogopedia annotations in Hypothesis](https://hypothes.is/groups/QWLeW4NJ/dogopedia) (you will be prompted to create a Hypothesis account or sign in). 
+  - [ ] Optional: view Ch. 1 [Dogopedia annotations in Hypothesis](https://hypothes.is/groups/QWLeW4NJ/dogopedia) (you will be prompted to create a Hypothesis account or sign in). **NB**: please do not create annotations in this Hypothesis group -- if you would like to test out Hypothesis yourself or use it for annotation, feel free to use [this group I created for our team](https://hypothes.is/groups/zKb2J5WM/dssf22).
 
 ## Monday - OFF July 4
 
