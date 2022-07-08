@@ -4,6 +4,12 @@
 
 ## Action items
 - [ ] Read and take notes in your log: 
+  - [ ] Sokolov ch. 2: ["The Trapper's Tale"](https://digitalscholarship.brynmawr.edu/dog/texts/02_en/)
+  - [ ] [Unicode Characters - What Every Developer Must Know About Encoding](https://www.freecodecamp.org/news/everything-you-need-to-know-about-encoding/), freeCodeCamp.org
+  - [ ] Read and explore [Whose Knowledge? Decolonizing the Internet conference proceedings](https://whoseknowledge.org/) 
+    - [ ] [Whose Knowledge? Decolonizing the Internet conference introduction](https://whoseknowledge.org/decolonizing-the-internet-conference/)
+    - [ ] [Issues](https://whoseknowledge.org/issues/) the Whose Knowledge project cares about (Public Online Knowledge, Digital Infrastructure, Privacy, Surveillance and Security)
+    - [ ] [State of the Internet's Languages report](https://internetlanguages.org/en/) - read as desired and explore [stories] and [data visualizations](https://internetlanguages.org/en/numbers/)
 
 ## Monday
 July 11, 2022
@@ -12,7 +18,7 @@ July 11, 2022
 
 ### 10:00 AM Project Meeting
 - [Meeting notes](https://brynmawr.sharepoint.com/:w:/s/dssf/EaP48Y-n3RlFsQqSd4O42pEBsDETlHeNBtzRzBI7l6MNNA?e=J6Ru1a)
-- Note-taker:
+- Note-taker: Cameron
 - Agenda:
 
 ### 12:00 PM Lunch Break
