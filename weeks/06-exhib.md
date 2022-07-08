@@ -92,4 +92,4 @@ July 8, 2022
 ### 4:30 PM Reflection Logs
 - Reflect on your work this week
 
-[<<< Previous week](05-viz.md) | [Next week >>>]
+[<<< Previous week](05-viz.md) | [Next week >>>](07-text.md)
