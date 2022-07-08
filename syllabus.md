@@ -39,9 +39,9 @@
 - Digital Exhibitions with CollectionBuilder
 - Linked Open Data
 
-## Week 7 (July 11-17) [Text analysis & Machine Learning]
+## Week 7 (July 11-17) [Text analysis & Machine Learning](weeks/07-text.md)
 
-- Distant Reading with Voyant
+- Distant Reading with Voyant (Stella Fritzell, 7/13/22)
 - Bias and Ethics in AI
 
 ## Week 8 (July 18-22) [Mapping & GIS]
