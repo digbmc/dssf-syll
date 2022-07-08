@@ -37,7 +37,7 @@ Rafiun Haque - Digital Scholarship Summer Fellow
 
 ### Week 6 (July 5 - 8) [Digital Exhibitions](weeks/06-exhib.md)
 
-### Week 7 (July 11 - 17) Text Analysis
+### Week 7 (July 11 - 17) [Text Analysis](weeks/07-text.md)
 
 ### Week 8 (July 18 - 22) Mapping & GIS
 
