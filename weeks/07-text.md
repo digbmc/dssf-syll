@@ -33,6 +33,8 @@ July 11, 2022
 ## Tuesday
 July 12, 2022
 
+*Timesheets due*
+
 ### 9:00 AM Check-In & Project Work (DMCL)
 
 ### 10:30 PM Accessibility & Assistive Tech
