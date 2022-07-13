@@ -53,7 +53,7 @@ July 13, 2022
 
 ### 9:00 AM Check-In, Project Work (DMCL)
 
-### 11:00 AM Textual Analysis with Voyant
+### 11:00 AM [Textual Analysis with Voyant](https://github.com/sfritzell/Voyant-Tutorial)
 
 ### 12:00 PM Lunch Break
 
