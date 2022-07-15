@@ -39,7 +39,7 @@ Rafiun Haque - Digital Scholarship Summer Fellow
 
 ### Week 7 (July 11 - 17) [Text Analysis](weeks/07-text.md)
 
-### Week 8 (July 18 - 22) Mapping & GIS
+### Week 8 (July 18 - 22) [Mapping & GIS](weeks/08-map.md)
 
 ### Week 9 (July 25 - 29) User Design & Testing
 
