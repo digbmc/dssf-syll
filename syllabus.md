@@ -44,7 +44,7 @@
 - Distant Reading with Voyant (Stella Fritzell, 7/13/22)
 - Bias and Ethics in AI
 
-## Week 8 (July 18-22) [Mapping & GIS]
+## Week 8 (July 18-22) [Mapping & GIS](weeks/08-map.md)
 
 - GIS basics (Clare Rasmussen, 7/19/22)
 - **Reading**: Tao Leigh Goffe, ["Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding"](http://archipelagosjournal.org/issue05/goffe-unmapping.html)
