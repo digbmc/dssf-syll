@@ -96,4 +96,4 @@ July 22, 2022
 ### 4:30 PM Reflection Logs
 - Reflect on your work this week
 
-[<<< Previous week](07-text.md) | [Next week >>>]
+[<<< Previous week](07-text.md) | [Next week >>>](09-ux.md)
