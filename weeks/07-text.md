@@ -101,4 +101,4 @@ July 15, 2022
 ### 4:30 PM Reflection Logs
 - Reflect on your work this week
 
-[<<< Previous week](06-exhib.md) | [Next week >>>]
+[<<< Previous week](06-exhib.md) | [Next week >>>](08-map.md)
