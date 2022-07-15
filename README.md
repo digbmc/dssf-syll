@@ -41,6 +41,6 @@ Rafiun Haque - Digital Scholarship Summer Fellow
 
 ### Week 8 (July 18 - 22) [Mapping & GIS](weeks/08-map.md)
 
-### Week 9 (July 25 - 29) User Design & Testing
+### Week 9 (July 25 - 29) [User Design & Testing](weeks/09-ux.md)
 
 ### Week 10 (August 1 - 5) Project Wrap-Up
