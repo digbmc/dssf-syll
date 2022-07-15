@@ -47,11 +47,11 @@
 ## Week 8 (July 18-22) [Mapping & GIS]
 
 - GIS basics (Clare Rasmussen, 7/19/22)
-- Web Mapping with Leaflet JS (Stella Fritzell, 7/21/22)
 - **Reading**: Tao Leigh Goffe, ["Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding"](http://archipelagosjournal.org/issue05/goffe-unmapping.html)
 
 ## Week 9 (July 25-29) [User design & testing]
 
 - User testing basics
+- The Mythodikos project & Web Mapping with Leaflet JS (Stella Fritzell, 7/26/22)
 
 ## Week 10 (August 1-5) [Project wrap-up]
