@@ -94,7 +94,8 @@ July 15, 2022
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM User Testing
+### 1:00 PM UX Test Design
+- Frameworks, scripts, etc. 
 
 ### 2:00 PM Project Work
 
