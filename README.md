@@ -43,4 +43,4 @@ Rafiun Haque - Digital Scholarship Summer Fellow
 
 ### Week 9 (July 25 - 29) [User Design & Testing](weeks/09-ux.md)
 
-### Week 10 (August 1 - 5) Project Wrap-Up
+### Week 10 (August 1 - 5) [Project Wrap-Up](weeks/10-wrap.md)
