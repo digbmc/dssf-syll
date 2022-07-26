@@ -54,4 +54,4 @@
 - User testing basics
 - The Mythodikos project & Web Mapping with Leaflet JS (Stella Fritzell, 7/26/22)
 
-## Week 10 (August 1-5) [Project wrap-up]
+## Week 10 (August 1-5) [Project wrap-up](weeks/10-wrap.md)
