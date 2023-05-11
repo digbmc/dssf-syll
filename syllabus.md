@@ -4,7 +4,7 @@ title: Syllabus
 ---
 
 
-## Week 1 (May 29-June 2) [Introduction to Digital Scholarship](weeks/01-intro)
+## Week 1 (May 29-June 2) [Introduction to Digital Scholarship](weeks/01-intro.md)
 
 - Intro to Digital Scholarship (Alice)
 - Intro to Reactor Room project & history of Chornobyl disaster (José)
