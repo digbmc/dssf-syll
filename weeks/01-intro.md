@@ -1,123 +1,95 @@
-# Week 1 (May 31 - June 3): Introduction to Digital Scholarship
+---
+layout: week
+title: Introduction to Digital Scholarship
+dates: May 29-June 2
+public: true
+---
 
-[Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
+![a cat in a valkyrie helmet](https://tile.loc.gov/storage-services/service/pnp/ppmsca/51500/51533r.jpg)
+
+"Brünhilde", Adolph Edward Weidhaas (1936), from [Library of Congress, ppmsca 51533](https://www.loc.gov/resource/ppmsca.51533/)
 
 ## Action items
 - [ ] Read: 
-  - [ ] ["How the internet was invented"](https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf), Ben Tarnoff, *The Guardian* 15 July 2016.
-  - [ ] Optional: - ["The History of the Internet: The Missing Narratives"](https://tripod.brynmawr.edu/permalink/01TRI_INST/imniac/cdi_proquest_journals_1314625753), Martin Campbell-Kelly and Daniel D. Garcia-Swartz, *Journal of Information Technology* 28, pps 18-33 (2013)
+- [ ] Explore:
 - [ ] Watch: 
   - [ ] [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
   - [ ] [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&t=3s)
 - [ ] Do:
-  - [ ] Send Stella a bio for the digital scholarship website
-  - [ ] Design & develop your personal website
+  - [ ] Send Hilde a bio for the digital scholarship website
+  - [ ] Review the Reactor Room projects
+  - [ ] Draft a SMART goal for the summer
 
 ## Tuesday
-May 31, 2022
+May 29, 2023
 
 ### 9:00 AM Welcome (DMCL Carpenter Library)
 - Introductions
-- Icebreaker / teambuilding activity
+- Icebreaker/team-building activity
 
 ### 9:30 AM Program Overview
+- Syllabus
+- Expectations
+- Microsoft Teams orientation
+- Timesheet Procedures
+- Logs
 
-### 10:00 AM Coffee Break (Cloisters)
-- Meet the EAST summer students
+### 10:00 AM What is Digital Scholarship? (Alice)
+- Review & discuss projects
 
-### 11:00 AM What is Digital Scholarship? (DMCL)
+### 11:00 AM Makerspace Account Set-up (Bronwen)
+- Adobe tools, etc.
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Toolkit Setup & Business (DMCL)
-- Microsoft Teams orientation
-- Download & install [VSCode](https://code.visualstudio.com/)
-- Command line setup
-  - Mac users: install [xcode select using these instructions](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)
-  - PC users: install [git bash using these instructions](https://gitforwindows.org/)
-- Discuss how we will be handeling timesheets this summer
+### 1:00 PM Digital Scholarship Workshop
+- Timeline JS/Storymaps activity using LoC Free to Reuse sets
 
-### 1:30 PM Introduction to Command Line
-- [Command Line tutorial](https://github.com/tri-cods/command-line)
-- If you have extra time, play [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
-
-### 3:30 PM Computational Thinking Videos
-- If you've finished practicing with Command Line (or are tired of it), watch [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
+### 2:30 PM Read introductory resources on Chornobyl
+1. Chs. 4-5 of Serhii Plokhy's *Chernobyl: The History of a Nuclear Catastrophe* (New York: Basic Books, 2018).
+2. Alexievich, *Voices from Chernobyl*
+3. Kalmbach, *Radiation and Borders*
+   
+*NB* - get through as much as you can during this time - this is not homework.
 
 ### 4:00 PM Reflection Logs
 
-- Set up your log
-   - Navigate into the folder on your computer you use for DSSF work
-   - Create a new subfolder called 'logs'
-   - Inside 'logs', create a new file with the filename: '05-31-22.md'
-   - Open the file in VS Code
-- Write a reflection on the different activities that we have done today:
+- Set up your log:
+  - Navigate into the folder on your computer you use for DSSF work
+  - Create a new subfolder called 'logs'
+  - Open VS Code and add the 'logs' folder to your workspace
+  - Create a new file with the filename: '05-29-23.md'
+- Reflect on the different activities that we have done today:
   - What went well?
   - What was challenging?
   - What questions do you still have?
+  - Embed a link to your timeline!
 
 ### 4:30 PM Discussion & Wrap-up
 
 ---
 
 ## Wednesday
-June 1, 2022
+May 31, 2023
 
-### 9:00 AM Inclusive Design Workshop (Guild 203)
+### 9:00 AM Reactor Room Project Introduction (José, Bronwen, Alice)
+
+### 10:30 AM Background on Chornobyl (José)
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Introduction to HTML/CSS (DMCL)
-- [HTML & CSS Tutorial](https://github.com/tri-cods/html-css)
+### 1:00 PM Installations (DMCL)
+- Download & install [VSCode](https://code.visualstudio.com/)
+- Command line setup
+  - Mac users: install [xcode select using these instructions](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)
+  - PC users: install [git bash using these instructions](https://gitforwindows.org/)
 
-### 2:15 PM Independent Work
-- Continue practicing with HTML/CSS tutorials
+### 1:30 PM Introduction to Command Line
+- [Command Line tutorial](https://github.com/tri-cods/command-line)
+
+### 3:00 PM On your own
 - Practice using Comand Line by playing [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
-- Watch more [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work) videos
-
-### 4:00 PM Reflection Logs
-- Reflect on the different activities that we have done today:
-  - What went well?
-  - What was challenging?
-  - Were you able to answer any of the questions that you still had after yesterday's work?
-  - What questions do you still have?
-- Think back on the Inclusive Design Workshop:
-  - What elements of inclusive design were you already aware of?
-  - What elements of inclusive design were new to you?
-
-### 4:30 PM Discussion
-
----
-
-## Thursday
-June 2, 2022
-
-### 9:00 AM Group Check-In (DMCL)
-
-### 9:30 AM Introduction to Web Design & Wireframing Basics
-- Group discussion and brainstorm of front-end / user-oriented design principles
-- Introduction to wireframing
-- Using developer tools and web inspector on webpages
-
-### 10:30 AM Independent Work
-- Locate a few examples of personal websites and observe their constrcution.  
-  - What works?
-  - What doesn't work?
-- Brainstorm some ideas for your own personal website.
-  - What do you want to include? 
-  - How do you want it to look?
-  - What models do you want to follow?
-- Try wireframing a few of your ideas and think about what HTML/CSS elements you will need.
-- Watch a video about [Front End Web Development](https://www.linkedin.com/learning/paths/become-a-front-end-web-developer?u=76958498)
-
-### 12:00 PM Lunch Break
-
-### 1:00 PM Introduction to the Critical Design Toolkit (Alice & Karina, DMCL)
-
-### 2:30 PM Quick review of HTML/CSS; introducing JavaScript
-
-### 3:00 PM Independent Work
-- Continue to practice with HTML/CSS
+- Watch [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work) videos
 
 ### 4:00 PM Reflection Logs
 - Reflect on the different activities that we have done today:
@@ -134,12 +106,47 @@ June 2, 2022
 
 ---
 
+## Thursday
+June 1, 2023
+
+### 9:00 AM Introduction to Adobe Illustrator (Bronwen)
+
+Meet in DMCL (Carpenter A3)
+
+### 10:00 AM LITS Summer Intern Welcome (Cloisters)
+
+### 11:00 AM Adobe Illustrator, Continued
+
+### 12:00 PM Lunch Break
+
+### 1:00 PM Makerspace Orientation
+
+Meet in Makerspace (Park 157)
+
+### 4:30 PM Reflection Logs
+- Reflect on the different activities that we have done today:
+  - What went well?
+  - What was challenging?
+  - Were you able to answer any of the questions that you still had after yesterday's work?
+  - What questions do you still have?
+
+### 4:45 PM Discussion
+
+---
+
 ## Friday
-June 3, 2022
+June 2, 2023
 
 ### 9:00 AM Group Check-In (DMCL)
 
-### 9:15 AM Setting SMART Goals
+### 9:15 AM Git, GitHub, Markdown Workshop
+
+- Practice:
+  - Format your logs using Markdown
+  - Add a link to the Timeline you created
+  - Embed an image you created in Illustrator
+
+### 11:00 AM Setting SMART Goals
 - Specific: What will be accomplished? What specific actions will you take?
   - Think of this as a mission statement. You should be able to precisely state what the outcome of your work or effort will be.
 - Measurable: What "data" will you use to measure your goal or to determine if it has been met? 
@@ -150,24 +157,11 @@ June 3, 2022
 - Relevant: Does this particular goal align with broader project or personal goals?  How is the outcome important?
 - Time-bound: What is the time frame for accomplishing this goal?  Is it realistic?
 
-### 9:35 AM Critical Design Reading
-- ["How the internet was invented"](https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf), Ben Tarnoff, *The Guardian* 15 July 2016.
+### 12:00 PM Lunch
 
-### 11:00 AM Discussion
-- The internet is now ~46 years old, making it a relatively young component of human history.  How has the internet changed over your lifetime?
-- The internet was essentially developed for the purpose of connecting otherwise unrelated networks.  What do you think of when you hear the term "network"?  What other sorts of networks can you think of and what other ways might you go about connecting them?
-- What did you learn from this article that surprised you?
-
-### 12:00 PM Lunch Break
-
-### 1:00 PM Domain of One's Own (DMCL)
-[Domain of One's Own slides](https://docs.google.com/presentation/d/e/2PACX-1vS4n01OuLlr9wu6fNtcVYFOkmF4UlvgCRJDsaND7cWUZXRwWFVN_tq234SWom24elpIwOmg6yHU1s7E/pub?start=false&loop=false&delayms=60000)
-- Getting set up with DoOO
-- Deploying static websites
-
-### 2:00 PM Independent Work
-- Finish wireframing personal websites
-- Work with HTML/CSS to create personal websites
+### 1:00 PM Independent Work
+- Review projects from 2020 Chornobyl course
+- Draft SMART goals
 
 ### 4:00 PM Reflection Logs
 - Reflect on the different activities that we have done today:
@@ -181,5 +175,4 @@ June 3, 2022
 - Talk about the challenges and successes of the week
 - Next week's forecast
 
-
-[Next week >>>](02-webdev.md)
+[Next week >>>](02-design)

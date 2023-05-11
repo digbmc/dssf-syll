@@ -1,57 +1,65 @@
-# Syllabus
+---
+layout: default
+title: Syllabus
+---
 
-## Week 1 (May 31-June 3) [Introduction to Digital Scholarship](weeks/01-intro.md)
 
-- Intro to DS and project
-- Command Line & Computational Thinking
-- Inclusive Design Thinking (Jenny Spohrer, 6/1/22)
-- HTML, CSS, and JavaScript
-- Web design basics
+## Week 1 (May 29-June 2) [Introduction to Digital Scholarship](weeks/01-intro)
+
+- Intro to Digital Scholarship (Alice)
+- Intro to Reactor Room project & history of Chornobyl disaster (José)
+- Command Line & Computational Thinking (Alice)
+- 2D Design with Adobe Illustrator (Bronwen)
+- Git, GitHub, and Markdown (Alice)
+- Makerspace orientation (Bronwen)
+
+## Week 2 (June 5-9) Critical Design & Making
+
+- Library Research (Joyce Angelucci, Jennifer Coval, Laura Surtees)
+- Graphic Design Basics (Alexis White)
+- Exhibition Planning (Hilde Nelson)
+- Visual Essays with Juncture (Meriç Özölçer)
+- Makerspace: Woodshop training (Bronwen)
+
+## Week 3 (June 12-16) Web Publishing
+
+- HTML, CSS, and JavaScript (Sean)
+- Web Design & Accessibility
 - Web deployment with Domain of One's Own
+- GitHub Pages
 
-## Week 2 (June 6-10) [Web Design & Publishing](weeks/02-webdev.md)
+## Week 4 (June 19-23) Working with Data
 
-- Project Management (6/8/22)
-- Web Accessibility
-- Git, GitHub, & GitHub Pages
-- Designing for diversity
-- **Reading:** Alex Gil, ["Design for Diversity: The Case of Ed"](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/#more-1888)
+- Data cleaning with OpenRefine
+- Data Visualisation & Storytelling 
+- Data Visualization with Illustrator
+- Social Media Data (Soaad Elbahwati)
 
-## Week 3 (June 13-17) [Sustainability & Preservation](weeks/03-pres.md)
+## Week 5 (June 26-30) 3D Modeling & Fabrication
 
-- Digital Preservation & Web Archiving (Jessica Bright, 6/15/22)
-- Data Cleaning with OpenRefine (Stella Fritzell, 6/16/22)
-- **Reading:** [Digital Humanities and the Climate crisis: a manifesto](https://dhc-barnard.github.io/dhclimate/) 
+- 3D Modeling
+- 3D Printing
 
-## Week 4 (June 20-24) [Design](weeks/04-design.md)
+## Week 6 (July 3-7) Mapping & GIS
 
-- AutoCAD 2D Design (Clare Rasmussen, 6/21/22)
-- Graphic Design (Karina Gonzalez, 6/23/22)
-- UX design
+- GIS Basics
+- Web mapping
 
-## Week 5 (June 27-July 1) [Data Visualization](weeks/05-viz.md)
+## Week 7 (July 10-14) Text analysis & Machine Learning
 
-- Intro to Data Visualization (Alice McGrath, 6/28/22)
-- Freeze! & New Art City Demo (Yusi Liu, 6/30/22)
-
-## Week 6 (July 5-8) [Digital exhibitions](weeks/06-exhib.md)
-
-- Digital Exhibitions with CollectionBuilder
-- Linked Open Data
-
-## Week 7 (July 11-17) [Text analysis & Machine Learning](weeks/07-text.md)
-
-- Distant Reading with Voyant (Stella Fritzell, 7/13/22)
+- Distant Reading with Voyant
+- Generative AI
 - Bias and Ethics in AI
 
-## Week 8 (July 18-22) [Mapping & GIS](weeks/08-map.md)
+## Week 8 (July 17-21) Sustainability & Preservation
 
-- GIS basics (Clare Rasmussen, 7/19/22)
-- **Reading**: Tao Leigh Goffe, ["Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding"](http://archipelagosjournal.org/issue05/goffe-unmapping.html)
+- Digital Preservation & Web Archiving 
+- **Reading:** [Digital Humanities and the Climate crisis: a manifesto](https://dhc-barnard.github.io/dhclimate/) 
 
-## Week 9 (July 25-29) [User design & testing](weeks/09-ux.md)
+## Week 9 (July 24-28) User Design & Testing
 
 - User testing basics
-- The Mythodikos project & Web Mapping with Leaflet JS (Stella Fritzell, 7/26/22)
 
-## Week 10 (August 1-5) [Project wrap-up](weeks/10-wrap.md)
+## Week 10 (July 31-August 4) Project wrap-up
+
+- Project presentations
