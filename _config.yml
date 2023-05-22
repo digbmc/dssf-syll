@@ -17,6 +17,7 @@ baseurl: /dssf-syll
 exclude:
   - README.md
   - LICENSE
+  - scraps.md
 
 collections:
   weeks:
