@@ -78,18 +78,8 @@ May 31, 2023
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Installations (DMCL)
-- Download & install [VSCode](https://code.visualstudio.com/)
-- Command line setup
-  - Mac users: install [xcode select using these instructions](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)
-  - PC users: install [git bash using these instructions](https://gitforwindows.org/)
-
-### 1:30 PM Introduction to Command Line
-- [Command Line tutorial](https://github.com/tri-cods/command-line)
-
-### 3:00 PM On your own
-- Practice using Comand Line by playing [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
-- Watch [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work) videos
+### 1:00 PM Project Management Workshop (Jenny Spohrer)
+- With DT Interns
 
 ### 4:00 PM Reflection Logs
 - Reflect on the different activities that we have done today:
@@ -159,7 +149,7 @@ June 2, 2023
 
 ### 12:00 PM Lunch
 
-### 1:00 PM Independent Work
+### 1:00 PM Independent Work & one-on-one meetings with Alice
 - Review projects from 2020 Chornobyl course
 - Draft SMART goals
 

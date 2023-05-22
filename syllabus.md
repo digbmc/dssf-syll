@@ -9,11 +9,13 @@ title: Syllabus
 - Intro to Digital Scholarship (Alice)
 - Intro to Reactor Room project & history of Chornobyl disaster (José)
 - Command Line & Computational Thinking (Alice)
+- Project Management (Jenny Spohrer)
+- Design Thinking (Jenny Spohrer)
 - 2D Design with Adobe Illustrator (Bronwen)
 - Git, GitHub, and Markdown (Alice)
 - Makerspace orientation (Bronwen)
 
-## Week 2 (June 5-9) Critical Design & Making
+## Week 2 (June 5-9) [Critical Design & Making](weeks/02-design.md)
 
 - Library Research (Joyce Angelucci, Jennifer Coval, Laura Surtees)
 - Graphic Design Basics (Alexis White)
