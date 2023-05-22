@@ -165,4 +165,4 @@ June 2, 2023
 - Talk about the challenges and successes of the week
 - Next week's forecast
 
-[Next week >>>]
+[Next week >>>](02-design)

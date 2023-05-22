@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<div>
+    <h2>Weeks</h2>
+<ol>
+    {% for week in site.weeks %}
+
+    {% if week.public %}
+
+    <li><a href="{{ week.url | relative_url }}">
+        {{ week.title }}: {{ week.dates }}
+    </a></li>
+
+    {% endif %}
+
+    {% endfor %}
+
+</ol>
+</div>
+
+{{ content }}

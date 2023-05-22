@@ -2,7 +2,7 @@
 layout: week
 title: Design & Making
 dates: June 5-9
-public: false
+public: true
 ---
 
 ## Monday

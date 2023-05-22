@@ -1,11 +1,23 @@
 
    
-theme: jekyll-theme-hacker
-
 title: Digital Scholarship Summer Fellows Program
 
-description: May 31-August 5, 2022, at Bryn Mawr College
+description: May 30-August 4, 2023, at Bryn Mawr College
 
 author: Alice McGrath
 
 markdown: kramdown
+
+encoding: UTF-8
+
+domain: digbmc.github.io
+url: https://digbmc.github.io
+baseurl: /dssf-syll
+
+exclude:
+  - README.md
+  - LICENSE
+
+collections:
+  weeks:
+    output: true
