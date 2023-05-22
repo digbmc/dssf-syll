@@ -8,7 +8,6 @@ title: Syllabus
 
 - Intro to Digital Scholarship (Alice)
 - Intro to Reactor Room project & history of Chornobyl disaster (José)
-- Command Line & Computational Thinking (Alice)
 - Project Management (Jenny Spohrer)
 - Design Thinking (Jenny Spohrer)
 - 2D Design with Adobe Illustrator (Bronwen)
@@ -23,19 +22,20 @@ title: Syllabus
 - Visual Essays with Juncture (Meriç Özölçer)
 - Makerspace: Woodshop training (Bronwen)
 
-## Week 3 (June 12-16) Web Publishing
-
-- HTML, CSS, and JavaScript (Sean)
-- Web Design & Accessibility
-- Web deployment with Domain of One's Own
-- GitHub Pages
-
-## Week 4 (June 19-23) Working with Data
+## Week 3 (June 12-16) Working with Data
 
 - Data cleaning with OpenRefine
 - Data Visualisation & Storytelling 
 - Data Visualization with Illustrator
 - Social Media Data (Soaad Elbahwati)
+
+
+## Week 4 (June 19-23) Web Publishing
+
+- HTML, CSS, and JavaScript (Sean)
+- Web Design & Accessibility
+- Web deployment with Domain of One's Own
+- GitHub Pages
 
 ## Week 5 (June 26-30) 3D Modeling & Fabrication
 
