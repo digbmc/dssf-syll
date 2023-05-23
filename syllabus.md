@@ -4,7 +4,7 @@ title: Syllabus
 ---
 
 
-## Week 1 (May 29-June 2) [Introduction to Digital Scholarship](weeks/01-intro.md)
+## Week 1 (May 29-June 2) [Introduction to Digital Scholarship](weeks/01-intro)
 
 - Intro to Digital Scholarship (Alice)
 - Intro to Reactor Room project & history of Chornobyl disaster (José)
@@ -14,7 +14,7 @@ title: Syllabus
 - Git, GitHub, and Markdown (Alice)
 - Makerspace orientation (Bronwen)
 
-## Week 2 (June 5-9) [Critical Design & Making](weeks/02-design.md)
+## Week 2 (June 5-9) [Critical Design & Making](weeks/02-design)
 
 - Library Research (Joyce Angelucci, Jennifer Coval, Laura Surtees)
 - Graphic Design Basics (Alexis White)

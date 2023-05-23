@@ -22,11 +22,16 @@ Wyndham Garden
 ## Tuesday
 June 6, 2023
 
-### 9:00 AM Makerspace Work
+NB: wear makerspace-friendly attire 
+
+### 9:00 AM - Woodshop Training
+- Meet in Makerspace (Park 157)
+- Safety procedures
+- Basic tool operation
 
 ### 12:00 PM Lunch
 
-### 1:00 PM Makerspace Work
+### 1:00 PM - Woodshop/Makerspace Work
 
 ## Wednesday
 June 7, 2023
@@ -37,7 +42,7 @@ June 7, 2023
 
 ### 12:00 PM Lunch
 
-### 1:00 PM Makerspace Work
+### 1:00 PM - Makerspace Work
 
 ## Thursday
 June 8, 2023

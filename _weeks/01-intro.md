@@ -10,20 +10,19 @@ public: true
 "Brünhilde", Adolph Edward Weidhaas (1936), from [Library of Congress, ppmsca 51533](https://www.loc.gov/resource/ppmsca.51533/)
 
 ## Action items
-- [ ] Read: 
-- [ ] Explore:
-- [ ] Watch: 
-  - [ ] [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
-  - [ ] [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&t=3s)
-- [ ] Do:
-  - [ ] Send Hilde a bio for the digital scholarship website
-  - [ ] Review the Reactor Room projects
-  - [ ] Draft a SMART goal for the summer
+- Read: Chs. 4-5 of Serhii Plokhy's *Chernobyl: The History of a Nuclear Catastrophe*
+- Watch: 
+  - [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
+  - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&t=3s)
+- Do:
+  - Send Hilde a bio for the digital scholarship website
+  - Review the Reactor Room projects
+  - Draft a SMART goal for the summer
 
 ## Tuesday
 May 29, 2023
 
-### 9:00 AM Welcome (DMCL Carpenter Library)
+### 9:00 AM Welcome (Carpenter Library DMCL)
 - Introductions
 - Icebreaker/team-building activity
 
@@ -74,6 +73,8 @@ May 31, 2023
 
 ### 9:00 AM Reactor Room Project Introduction (José, Bronwen, Alice)
 
+Carpenter Library DMCL
+
 ### 10:30 AM Background on Chornobyl (José)
 
 ### 12:00 PM Lunch Break
@@ -101,11 +102,15 @@ June 1, 2023
 
 ### 9:00 AM Introduction to Adobe Illustrator (Bronwen)
 
-Meet in DMCL (Carpenter A3)
+Carpenter Library DMCL
 
-### 10:00 AM LITS Summer Intern Welcome (Cloisters)
+### 10:00 AM LITS Summer Intern Welcome
+
+Cloisters
 
 ### 11:00 AM Adobe Illustrator, Continued
+
+DMCL
 
 ### 12:00 PM Lunch Break
 

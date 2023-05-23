@@ -3,13 +3,17 @@ layout: home
 title: Digital Scholarship Summer Fellows Program
 ---
 
+[View full schedule](syllabus)
+
 ## About the Program
 
 The Digital Scholarship Summer Fellows program is a paid, full-time summer internship opportunity for Bryn Mawr students to learn digital research and publication methods and gain professional experience by collaborating on a public-facing digital scholarship project. Over the course of ten weeks, we will explore key issues and methods in digital scholarship, critical making, and multi-modal research through a combination of hands-on work, instruction, and discussion. Fellows will also have opportunities to present their work, create a personal digital portfolio, and learn about careers in libraries, museums, and digital media and research.
 
-[Syllabus](syllabus)
+## 2023 Program
 
-## Team
+### The Reactor Room: An Immersive Chornobyl Exhibition
+
+### Team
 
 Alice McGrath - Senior Digital Scholarship Specialist
 

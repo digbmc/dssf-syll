@@ -22,7 +22,8 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin: 0 .5;
+    margin: 0 1;
+    padding: 1rem;
 
 }
 
@@ -41,8 +42,8 @@ img {
 }
 
 h1 {
-    font-size: 1.5em;
-    @media screen and (min-width: 600px) {
+    font-size: 2em;
+    /* @media screen and (min-width: 600px) {
         font-size: 3em;
-    }
+    } */
 }
