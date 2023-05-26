@@ -10,7 +10,7 @@ public: true
 "Brünhilde", Adolph Edward Weidhaas (1936), from [Library of Congress, ppmsca 51533](https://www.loc.gov/resource/ppmsca.51533/)
 
 ## Action items
-- Read: Chs. 4-5 of Serhii Plokhy's *Chernobyl: The History of a Nuclear Catastrophe*
+- Read: Chs. 4-5 of Serhii Plokhy's *Chernobyl: The History of a Nuclear Catastrophe* (link on Teams)
 - Watch: 
   - [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
   - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&t=3s)
@@ -18,6 +18,8 @@ public: true
   - Send Hilde a bio for the digital scholarship website
   - Review the Reactor Room projects
   - Draft a SMART goal for the summer
+
+---
 
 ## Tuesday
 May 29, 2023
@@ -76,6 +78,8 @@ May 31, 2023
 Carpenter Library DMCL
 
 ### 10:30 AM Background on Chornobyl (José)
+
+Discussion of assigned reading(s)
 
 ### 12:00 PM Lunch Break
 
@@ -141,22 +145,11 @@ June 2, 2023
   - Add a link to the Timeline you created
   - Embed an image you created in Illustrator
 
-### 11:00 AM Setting SMART Goals
-- Specific: What will be accomplished? What specific actions will you take?
-  - Think of this as a mission statement. You should be able to precisely state what the outcome of your work or effort will be.
-- Measurable: What "data" will you use to measure your goal or to determine if it has been met? 
-  - If this is a long term goal, what milestones (or sub-goals) will you need to meet on the way to achieving it?
-  - Measurement methods can be both quantitative and qualitative.  Use the measurement form that *best* suites your specific goal.
-- Achievable: Can you reasonably accomplish the goal?  Do you have the necessary skills or resources?
-  - If you don't currently have the skills need to achieve the goal, how will you acquire them?  These can be some of your measurable milestones.
-- Relevant: Does this particular goal align with broader project or personal goals?  How is the outcome important?
-- Time-bound: What is the time frame for accomplishing this goal?  Is it realistic?
-
 ### 12:00 PM Lunch
 
-### 1:00 PM Independent Work & one-on-one meetings with Alice
-- Review projects from 2020 Chornobyl course
-- Draft SMART goals
+### 1:00 PM Inclusive Design Thinking Workshop
+
+With DT Interns, DMCL
 
 ### 4:00 PM Reflection Logs
 - Reflect on the different activities that we have done today:
