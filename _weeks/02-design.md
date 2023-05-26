@@ -84,3 +84,8 @@ June 9, 2023
 ### 12:00 PM Lunch
 
 ### 1:00 PM - Project work
+
+
+
+[<<< Last week >>>](01-intro) 
+<!-- [Next week >>>](02-design) -->

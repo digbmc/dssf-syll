@@ -31,19 +31,19 @@ May 29, 2023
 ### 9:30 AM Program Overview
 - Syllabus
 - Expectations
-- Microsoft Teams orientation
 - Timesheet Procedures
-- Logs
+- SMART Goals
 
-### 10:00 AM What is Digital Scholarship? (Alice)
-- Review & discuss projects
+### 10:30 AM Makerspace Account Set-up (Bronwen)
+- Adobe Creative Cloud, etc.
+- Autodesk educational account
+- Microsoft Teams
 
-### 11:00 AM Makerspace Account Set-up (Bronwen)
-- Adobe tools, etc.
+### 11:15 AM What is Digital Scholarship? (Alice)
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Digital Scholarship Workshop
+### 1:00 PM Digital Scholarship Workshop (Alice)
 - Timeline JS/Storymaps activity using LoC Free to Reuse sets
 
 ### 2:30 PM Read introductory resources on Chornobyl
@@ -157,7 +157,7 @@ With DT Interns, DMCL
   - What was challenging?
   - Were you able to answer any of the questions that you still had after yesterday's work?
   - What questions do you still have?
-- Brainstorm some SMART goals for your personal learning and work this summer.  Then do the same for the group project.
+- Brainstorm some SMART goals for your personal learning and work this summer.
 
 ### 4:30 PM Discussion
 - Talk about the challenges and successes of the week
