@@ -5,12 +5,18 @@ title: readings
 
 # Readings & resources
 
-## Critical Design
+## Digital Scholarship
+
+- Mapping
+  - Tao Leigh Goffe, ["Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding"](http://archipelagosjournal.org/issue05/goffe-unmapping.html)
+- Data
+  - [*Data Feminism*, Catherine D'Ignazio and Lauren F. Klein](https://data-feminism.mitpress.mit.edu/) (MIT, 2020)
+
+## Critical Web Design
 
 - Minicomp/inclusive design from a global perspective
   - Alex Gil, ["Design for Diversity: The Case of Ed"](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/#more-1888)
 - History of the web
-  - ["How the internet was invented"](https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf), Ben Tarnoff, *The Guardian* 15 July 2016.
   - ["The History of the Internet: The Missing Narratives"](https://tripod.brynmawr.edu/permalink/01TRI_INST/imniac/cdi_proquest_journals_1314625753), Martin Campbell-Kelly and Daniel D. Garcia-Swartz, *Journal of Information Technology* 28, pps 18-33 (2013) 
 - Environmental impact of the web
   - [Digital Humanities and the Climate crisis: a manifesto](https://dhc-barnard.github.io/dhclimate/)
@@ -25,9 +31,3 @@ title: readings
 - Digital Exhibit project workflows
   - [Colored Conventions Project: Website Wednesday series](https://coloredconventions.org/website-wednesday/)
 
-## Other DS
-
-- Mapping
-  - Tao Leigh Goffe, ["Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding"](http://archipelagosjournal.org/issue05/goffe-unmapping.html)
-- Data
-  - [*Data Feminism*, Catherine D'Ignazio and Lauren F. Klein](https://data-feminism.mitpress.mit.edu/) (MIT, 2020)
