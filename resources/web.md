@@ -1,14 +1,9 @@
-# Learning basic project skills
+---
+layout: page
+title: Web Development
+---
 
-Installations:
-- MS Teams
-- Sign up for GitHub
-- Install VS Code and GitHub Desktop
-
-- Command line/terminal - [Tri-Co DSRI Command Line workshop](https://github.com/tri-cods/command-line)
-- VS Code basics and setting up - [VS Code tutorial](https://code.visualstudio.com/docs/introvideos/basics)
-
-## Web stuff
+# Web development basics
 
 1. Make a super simple static site
    1. Learn a little html

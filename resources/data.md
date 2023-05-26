@@ -1,4 +1,7 @@
-# Data Visualization
+---
+layout: page
+title: Data Visualization
+---
 
 6/28/2022
 

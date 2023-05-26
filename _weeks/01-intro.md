@@ -32,7 +32,7 @@ May 29, 2023
 - Syllabus
 - Expectations
 - Timesheet Procedures
-- SMART Goals
+- Setting [SMART Goals](../resources/smart-goals)
 
 ### 10:30 AM Makerspace Account Set-up (Bronwen)
 - Adobe Creative Cloud, etc.

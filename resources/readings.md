@@ -1,3 +1,8 @@
+---
+layout: page
+title: readings
+---
+
 # Readings & resources
 
 ## Critical Design
