@@ -34,10 +34,12 @@ May 29, 2023
 - Timesheet Procedures
 - Setting [SMART Goals](../resources/smart-goals)
 
-### 10:30 AM Makerspace Account Set-up (Bronwen)
+### 10:30 AM Installations & Account Set-up (Bronwen)
 - Adobe Creative Cloud, etc.
 - Autodesk educational account
 - Microsoft Teams
+- Text editor: [Visual Studio Code](https://code.visualstudio.com/) - (see this [VS Code tutorial](https://code.visualstudio.com/docs/introvideos/basics) for how to set up)
+- [GitHub Desktop](https://desktop.github.com/)
 
 ### 11:15 AM What is Digital Scholarship? (Alice)
 
