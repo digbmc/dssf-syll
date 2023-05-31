@@ -89,13 +89,21 @@ Discussion of assigned reading(s)
 ### 1:00 PM Project Management Workshop (Jenny Spohrer)
 - With DT Interns
 
+### PM Work on your own
+
+- Brainstorm ideas for digital project
+- Look at the existing Reactor Room projects: [Swat 2020 Reactor Room website](https://ds-pages.swarthmore.edu/reactor-room/)
+- Familiarize yourself with Chernobyl 2020 syllabi & find/share project resources: syllabi
+- Continue reading 3 contextual pieces
+
+
 ### 4:00 PM Reflection Logs
 - Reflect on the different activities that we have done today:
   - What went well?
   - What was challenging?
   - Were you able to answer any of the questions that you still had after yesterday's work?
   - What questions do you still have?
-- Think about the project that you will be working on this summer (the Critical Design Toolkit):
+- Think about the project that you will be working on this summer (the Reactor Room):
   - What excites you the most about this project?
   - What do you think will be the most challenging element(s) of this project?
   - What questions do you still have?
