@@ -48,6 +48,7 @@ May 29, 2023
 ### 1:00 PM Digital Scholarship Workshop (Alice)
 - Timeline JS/Storymaps activity using LoC Free to Reuse sets
 - Slides: [Digital Scholarship](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EZMYcvVDa0pGid-DiYQf90gBhr1iLLXUdMQ2RGklIwpt1Q?e=Dz1ys2)
+- Digital publishing & data viz [tools](https://digbmc.github.io/dssf-syll/resources/tools.html)
 
 ### 2:30 PM Read introductory resources on Chornobyl
 1. Chs. 4-5 of Serhii Plokhy's *Chernobyl: The History of a Nuclear Catastrophe* (New York: Basic Books, 2018).
