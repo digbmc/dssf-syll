@@ -152,6 +152,9 @@ June 2, 2023
 
 ### 9:15 AM Git, GitHub, Markdown Workshop
 
+- [Git Workshop Slides](https://alicemcgrath.digital.brynmawr.edu/pres/git-hub.html)
+- [Template repository on GitHub](https://github.com/digbmc/git-hub-ws)
+
 - Practice:
   - Format your logs using Markdown
   - Add a link to the Timeline you created
@@ -159,9 +162,18 @@ June 2, 2023
 
 ### 12:00 PM Lunch
 
-### 1:00 PM Inclusive Design Thinking Workshop
+### ~~1:00 PM Inclusive Design Thinking Workshop~~
 
-With DT Interns, DMCL
+### 1:00 PM Prepare for Writing workshop 
+
+- Read:
+  - https://techcrunch.com/2023/01/31/stripperweb-forum-shut-down/
+  - https://techcrunch.com/2023/05/18/apple-still-has-a-diversity-problem/
+ 
+
+### 2:00 PM - Writing for the Web, Amanda Silberling
+
+Workshop on Zoom: link TBD
 
 ### 4:00 PM Reflection Logs
 - Reflect on the different activities that we have done today:
