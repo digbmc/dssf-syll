@@ -83,8 +83,11 @@ June 9, 2023
 
 ### 12:00 PM Lunch
 
-### 1:00 PM - Project work
+### 1:00 PM - Inclusive Design Thinking (Jenny Spohrer)
 
+DMCL
+
+### 4:30 PM - Logs & discussion
 
 
 [<<< Last week >>>](01-intro) 
