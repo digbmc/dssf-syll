@@ -78,4 +78,4 @@ DUE: PROPOSALS FOR DIGITAL COMPONENT
 
 ### 4:30 PM - Logs & discussion
 
-[<<< Last week >>>]([02-design](https://github.com/digbmc/dssf-syll/blob/main/_weeks/02-design.md)) 
+[<<< Last week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/02-design.md)
