@@ -47,6 +47,8 @@ NB: wear makerspace-friendly attire
 ## Wednesday
 June 7, 2023
 
+*Ksenia out*
+
 ### 9:00 AM DMCL - Project Work
 
 ### 10:30 AM Graphic Design (Alexis White)
@@ -58,7 +60,7 @@ June 7, 2023
 ## Thursday
 June 8, 2023
 
-*Bronwen out*
+*Ksenia out, Bronwen out*
 
 ### 9:00 AM DMCL - Project work
 
