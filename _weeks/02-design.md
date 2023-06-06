@@ -90,5 +90,6 @@ DMCL
 ### 4:30 PM - Logs & discussion
 
 
-[<<< Last week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/01-intro.md) 
+[<<< Last week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/01-intro.md)
+
 [<<< Next week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/03-data.md)
