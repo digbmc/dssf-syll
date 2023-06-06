@@ -18,7 +18,6 @@ title: Syllabus
 
 - Library Research (Joyce Angelucci, Jennifer Coval, Laura Surtees)
 - Graphic Design Basics (Alexis White)
-- Exhibition Planning (Hilde Nelson)
 - Visual Essays with Juncture (Meriç Özölçer)
 - Makerspace: Woodshop training (Bronwen)
 
@@ -28,7 +27,7 @@ title: Syllabus
 - Data Visualisation & Storytelling 
 - Data Visualization with Illustrator
 - Social Media Data (Soaad Elbahwati)
-
+- Exhibition Design (Hilde Nelson)
 
 ## Week 4 (June 19-23) Web Publishing
 
