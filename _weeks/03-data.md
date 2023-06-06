@@ -18,7 +18,7 @@ With Alice, Bronwen, Hilde, José, Sean, Soaad
 
 ### 1:00 PM - Research on your own
 
-### 4:30 PM - Logs and Discussion
+### 4:30 PM - Logs and discussion
 
 ---
 
@@ -32,6 +32,8 @@ June 13, 2023
 ### 12:00 PM - Lunch
 
 ### 1:00 PM - Research on your own
+
+### 4:30 PM - Logs and discussion
 
 ---
 
@@ -76,6 +78,6 @@ DUE: PROPOSALS FOR DIGITAL COMPONENT
 
 ### 1:00 PM - Research on your own
 
-### 4:30 PM - Logs & discussion
+### 4:30 PM - Logs and discussion
 
 [<<< Last week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/02-design.md)
