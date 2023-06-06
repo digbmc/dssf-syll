@@ -91,4 +91,4 @@ DMCL
 
 
 [<<< Last week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/01-intro.md) 
-<!-- [Next week >>>](02-design) -->
+[<<< Next week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/03-data.md)
