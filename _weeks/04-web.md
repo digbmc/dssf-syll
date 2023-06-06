@@ -17,6 +17,9 @@ June 20, 2023
 
 ### 9:00 AM DMCL - Project Work
 
+### 10:00 AM - Reactor Room Project Meeting
+With Alice, Bronwen, Hilde, José, Sean, Soaad
+
 ### 12:00 PM - Lunch
 
 ### 1:00 PM - Research on your own
