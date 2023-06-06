@@ -8,7 +8,7 @@ public: true
 ## Monday
 June 12, 2023
 
-### 9:00 AM DMCL — Project Work
+### 9:00 AM DMCL - Project Work
 - Refine research topics
 
 ### 11:00 AM - Reactor Room Project Meeting
@@ -77,3 +77,6 @@ DUE: PROPOSALS FOR DIGITAL COMPONENT
 ### 1:00 PM - Research on your own
 
 ### 4:30 PM - Logs & discussion
+
+[<<< Last week >>>](02-design) 
+<!-- [Next week >>>](04-design) -->
