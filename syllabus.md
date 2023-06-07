@@ -4,7 +4,7 @@ title: Syllabus
 ---
 
 
-## Week 1 (May 29-June 2) [Introduction to Digital Scholarship](weeks/01-intro)
+## Week 1 (May 29-June 2) [Introduction to Digital Scholarship](https://github.com/digbmc/dssf-syll/blob/main/_weeks/01-intro.md)
 
 - Intro to Digital Scholarship (Alice)
 - Intro to Reactor Room project & history of Chornobyl disaster (José)
@@ -14,14 +14,14 @@ title: Syllabus
 - Git, GitHub, and Markdown (Alice)
 - Makerspace orientation (Bronwen)
 
-## Week 2 (June 5-9) [Critical Design & Making](weeks/02-design)
+## Week 2 (June 5-9) [Critical Design & Making](https://github.com/digbmc/dssf-syll/blob/main/_weeks/02-design.md)
 
 - Library Research (Joyce Angelucci, Jennifer Coval, Laura Surtees)
 - Graphic Design Basics (Alexis White)
 - Visual Essays with Juncture (Meriç Özölçer)
 - Makerspace: Woodshop training (Bronwen)
 
-## Week 3 (June 12-16) Working with Data
+## Week 3 (June 12-16) [Working with Data] (https://github.com/digbmc/dssf-syll/blob/main/_weeks/03-data.md)
 
 - Data cleaning with OpenRefine
 - Data Visualisation & Storytelling 
@@ -29,7 +29,7 @@ title: Syllabus
 - Social Media Data (Soaad Elbahwati)
 - Exhibition Design (Hilde Nelson)
 
-## Week 4 (June 19-23) Web Publishing
+## Week 4 (June 19-23) [Web Publishing] (https://github.com/digbmc/dssf-syll/blob/main/_weeks/04-web.md)
 
 - HTML, CSS, and JavaScript (Sean)
 - Web Design & Accessibility
