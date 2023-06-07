@@ -21,7 +21,7 @@ title: Syllabus
 - Visual Essays with Juncture (Meriç Özölçer)
 - Makerspace: Woodshop training (Bronwen)
 
-## Week 3 (June 12-16) [Working with Data] (https://github.com/digbmc/dssf-syll/blob/main/_weeks/03-data.md)
+## Week 3 (June 12-16) Working with Data
 
 - Data cleaning with OpenRefine
 - Data Visualisation & Storytelling 
@@ -29,7 +29,7 @@ title: Syllabus
 - Social Media Data (Soaad Elbahwati)
 - Exhibition Design (Hilde Nelson)
 
-## Week 4 (June 19-23) [Web Publishing] (https://github.com/digbmc/dssf-syll/blob/main/_weeks/04-web.md)
+## Week 4 (June 19-23) Web Publishing
 
 - HTML, CSS, and JavaScript (Sean)
 - Web Design & Accessibility
