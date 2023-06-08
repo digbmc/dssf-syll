@@ -77,7 +77,8 @@ Rescheduled to wk 3
 
 ### 1:00 PM - Visual Essays with Juncture (Meriç Özölçer)
 
-### 2:30 PM - Project work, Meetings with Hilde and Alice
+### 2:30 PM - Work on digital project plan, Meetings with Hilde and Alice
+- Goal: write up a description of digital project & post to teams
 
 ### 4:30 PM - Logs, Discussion
 
