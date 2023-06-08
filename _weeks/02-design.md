@@ -60,7 +60,7 @@ June 7, 2023
 ## Thursday
 June 8, 2023
 
-*Ksenia out, Bronwen out*
+*Bronwen out*
 
 ### 9:00 AM DMCL - ~~Project work~~ Command Line workshop
 - [Command Line Workshop (Tri-Co DSRI)](https://github.com/tri-cods/command-line) - Alice starts, continue on your own
