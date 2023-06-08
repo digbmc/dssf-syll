@@ -62,9 +62,16 @@ June 8, 2023
 
 *Ksenia out, Bronwen out*
 
-### 9:00 AM DMCL - Project work
+### 9:00 AM DMCL - ~~Project work~~ Command Line workshop
+- [Command Line Workshop (Tri-Co DSRI)](https://github.com/tri-cods/command-line) - Alice starts, continue on your own
 
-### 9:15 AM Exhibition Design (Hilde)
+### ~~9:15 AM Exhibition Design (Hilde)~~
+Rescheduled to wk 3
+
+### 10:30 AM - Break (10 mins)
+
+### 10:45 - Finish Command Line
+- Afterwards: project work, github pages, or command line practice
 
 ### 12:00 PM Lunch
 
