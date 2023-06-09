@@ -33,6 +33,8 @@ June 13, 2023
 
 ### 1:00 PM - Research on your own
 
+### 2:00 PM - Visit Bethany Collins exhibition (Canaday)
+
 ### 4:30 PM - Logs and discussion
 
 ---
