@@ -27,7 +27,9 @@ June 13, 2023
 
 ### 9:15 AM DMCL - Social Media Workshop (Soaad)
 
-### 10:15 AM - Project Work
+### 10:30 AM - Data Cleaning with Open Refine pt. 1
+
+[Tidy(ish) Data Workshop](https://github.com/tri-cods/tidy-data)
 
 ### 12:00 PM - Lunch
 
@@ -36,6 +38,7 @@ June 13, 2023
 ### 2:00 PM - Visit Bethany Collins exhibition (Canaday)
 
 ### 4:30 PM - Logs and discussion
+- Add your logs to our internal blog site on GitHub: [dssf-2023](https://github.com/Bryn-Mawr-College/dssf-2023)
 
 ---
 
@@ -75,6 +78,10 @@ June 16, 2023
 DUE: PROPOSALS FOR DIGITAL COMPONENT
 
 ### 9:00 AM DMCL - Project Work
+
+### 10:00 AM DMCL - Data Viz Workshop (Alice)
+
+See [workshop instructions](./resources/data)
 
 ### 12:00 PM - Lunch
 

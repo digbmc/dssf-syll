@@ -3,7 +3,7 @@ layout: page
 title: Data Visualization
 ---
 
-6/28/2022
+14 June 2023
 
 ## What makes a good data viz?
 
