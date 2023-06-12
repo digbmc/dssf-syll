@@ -11,17 +11,17 @@ title: Data Visualization
 - What questions does it raise?
 - What makes it effective?
 
-### Example 1: [Climate Lab: Warming Stripes (2018)](https://www.climate-lab-book.ac.uk/2018/warming-stripes/)  (Ed Hawkins, University of Reading)
+### Example 1: [Climate Lab: Warming Stripes (2018)](https://bpb-eu-w2.wpmucdn.com/blogs.reading.ac.uk/dist/3/187/files/2018/05/globalcore.png)  (Ed Hawkins, University of Reading)
 
-![Data viz with red and blue stripes](https://showyourstripes.info/stripes/GLOBE---1850-2021-MO.png)
+![Data viz with red and blue stripes](https://showyourstripes.info/stripes/GLOBE---1850-2022-MO.png)
 
-- See also this [interactive version here](https://showyourstripes.info/s/globe)
+- See also this [interactive version here](https://showyourstripes.info/s/globe) or read more about its [growing influence](https://nightingaledvs.com/making-the-growing-influence-of-the-warming-stripes/)
 - What's the message of this viz?
 - Why is this effective?
 
 ### Example 2: [Missed Connections: All the Lonely People](https://s3.amazonaws.com/blinderman-lede/missed_connections/zoomcircles.html), Ilia Blinderman
 
-<!-- <iframe title="Missed Connections: All the Lonely People" width="100%" height="500" src="https://s3.amazonaws.com/blinderman-lede/missed_connections/zoomcircles.html"> -->
+<!-- <iframe title="Missed Connections: All the Lonely People" width="100%" height="500" src="https://s3.amazonaws.com/blinderman-lede/missed_connections/zoomcircles.html"></iframe> -->
 
 [Blog post: Missed Connections: All the Lonely People](http://iliablinderman.com/connections/)
 
