@@ -73,8 +73,6 @@ NB: wear makerspace-friendly attire
 ## Friday
 June 16, 2023
 
-*Hilde out (PM)*
-
 DUE: PROPOSALS FOR DIGITAL COMPONENT
 
 ### 9:00 AM DMCL - Project Work
