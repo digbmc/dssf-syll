@@ -7,7 +7,7 @@ title: Data Visualization
 
 ## What makes a good data viz?
 
-- What's the message of the visualization?
+- What message does it convey?
 - What questions does it raise?
 - What makes it effective?
 
@@ -17,24 +17,24 @@ title: Data Visualization
 
 - See also this [interactive version here](https://showyourstripes.info/s/globe) or read more about its [growing influence](https://nightingaledvs.com/making-the-growing-influence-of-the-warming-stripes/)
 - What's the message of this viz?
+- What questions does it raise
 - Why is this effective?
 
-### Example 2: [Missed Connections: All the Lonely People](https://s3.amazonaws.com/blinderman-lede/missed_connections/zoomcircles.html), Ilia Blinderman
+### Example 2: [Wealth, shown to scale](https://mkorostoff.github.io/1-pixel-wealth/)
+April 2021, Matt Korostoff, read more on github: [MKorostoff/1-pixel-wealth](https://github.com/MKorostoff/1-pixel-wealth)
 
-<!-- <iframe title="Missed Connections: All the Lonely People" width="100%" height="500" src="https://s3.amazonaws.com/blinderman-lede/missed_connections/zoomcircles.html"></iframe> -->
-
-[Blog post: Missed Connections: All the Lonely People](http://iliablinderman.com/connections/)
-
-### Example 3: [NY Times: Punishing Reach of Racism for Black Boys](https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html?mtrref=search.brave.com&assetType=PAYWALL) (3/19/2018) 
-
-NB: url is paywalled - use [NY Times Academic pass](https://myaccount.nytimes.com/edupass/claim) to view.
-
-See also: more info about the [Opportunity Insights study that developed the data](https://opportunityinsights.org/paper-category/race/)
-
-### Example 4:  [Dunham's Data, Interactive Flow of Katherine Dunham's Dancers, Drummers, and Singers](https://visualizations.dunhamsdata.org/1947-60personnelflow/) (2019) 
+### Example 3:  [Dunham's Data, Interactive Flow of Katherine Dunham's Dancers, Drummers, and Singers](https://visualizations.dunhamsdata.org/1947-60personnelflow/) (2019) 
 
 See also [blog post by Kate Elswit and Harmony Bench](https://www.dunhamsdata.org/blog/checking-in-the-flows-of-dunhams-performers)
 
+
+### Other cool examples
+
+- [The Shape of Dreams (Google Trends)](https://the-shape-of-dreams.com/#/), Federica Fragapane, 2020.
+  - Medium post: [Visualizing the Shape of Dreams](https://medium.com/@frcfr/visualizing-the-shape-of-dreams-for-google-trends-5164c3c4e382)
+- [NY Times: Punishing Reach of Racism for Black Boys](https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html?mtrref=search.brave.com&assetType=PAYWALL) (3/19/2018) 
+  - NB: url is paywalled - use [NY Times Academic pass](https://myaccount.nytimes.com/edupass/claim) to view.
+  - See also: more info about the [Opportunity Insights study that developed the data](https://opportunityinsights.org/paper-category/race/)
 
 
 ## How do you make a data viz?
@@ -49,9 +49,11 @@ See also [blog post by Kate Elswit and Harmony Bench](https://www.dunhamsdata.or
 
 ### Analyze data
 
-- What types of data do you have? | Numeric | Categoric | geographic | relationships | temporal
-- How many variables do you have? How do your variables relate to each other? | quantities/distribution | correlation | part of a whole | change over time | relationships
-- What questions can you ask your dataset?
+- What types of data do you have?
+  - Numeric, categoric, geographic, temporal, relationships
+- How many variables do you have? How do your variables relate to each other?
+  - quantities/distribution, correlation, part of a whole, change over time, relationships
+- What questions can your dataset answer? What stories can it tell?
 
 ### Create visualizations
 
@@ -61,7 +63,7 @@ See also [blog post by Kate Elswit and Harmony Bench](https://www.dunhamsdata.or
 - What graph types would best communicate your data story?
   - Useful resource: [From Data to Viz](https://www.data-to-viz.com/)
   - Use your imagination! Draw your visualization on paper.
-  - For inspiration: [Dear Data project](http://www.dear-data.com/theproject), Georgia Lupi & Stefanie Posavec. 
+  - For inspiration: [Dear Data project](http://www.dear-data.com/theproject), Georgia Lupi & Stefanie Posavec; See also the winners of the [Information is Beautiful Awards]
 - Design considerations:
   - What methods can you use to convey your variables?
   - How can you make the results visually compelling and communicative?
@@ -72,6 +74,17 @@ See also [blog post by Kate Elswit and Harmony Bench](https://www.dunhamsdata.or
 - What should viewers take away from your visualization?
 - What kind of contextual information is needed for them to understand it?
 
+## Activity: creating a data visualization using [RawGraphs.io](https://www.rawgraphs.io/)
+
+1. Choose one of the data samples and select a recommended visualization
+2. Assign categories and data columns to features
+3. Select colors and labels to customize your data viz
+4. Export it as an .svg file
+
+### Next steps
+- Open the .svg in Illustrator for additional customization
+- Find your own dataset to visualize in rawgraphs
+- Embed your visualization in your log
 
 ## Activity: collecting and drawing data
 
@@ -112,9 +125,3 @@ See also [blog post by Kate Elswit and Harmony Bench](https://www.dunhamsdata.or
 - Data Carpentries workshop: [data organization for social scientists](https://datacarpentry.org/spreadsheets-socialsci/)
 
 **NB** correlation is not causation - see [spurious correlations](https://www.tylervigen.com/spurious-correlations)
-
-<!--
-[Nabil - computational essays](https://observablehq.com/@bulbil/computational-essay?collection=@bulbil/computational-essays)
-
-
--->

@@ -79,7 +79,9 @@ DUE: PROPOSALS FOR DIGITAL COMPONENT
 
 ### 10:00 AM DMCL - Data Viz Workshop (Alice)
 
-See [workshop instructions](../resources/data)
+[Slideshow for workshop](https://alicemcgrath.digital.brynmawr.edu/pres/data-viz.html)
+
+See also [workshop instructions](../resources/data)
 
 ### 12:00 PM - Lunch
 
