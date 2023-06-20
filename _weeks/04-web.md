@@ -50,7 +50,11 @@ June 22, 2023
 
 NB: wear makerspace-friendly attire
 
-### 9:00 AM DMCL - Web Dev pt. II (Sean & Alice)
+### 9:00 AM DMCL - Project Work
+
+### 9:30 AM - Curatorial Workshop (Carrie Robbins)
+
+### 11:00 AM - Web Dev pt. II (Sean & Alice)
 
 ### 12:00 PM - Lunch
 
@@ -63,9 +67,15 @@ June 23, 2023
 
 Museum Visits in Philadelphia
 
+~~DUE: VISUAL PORTFOLIO AND DRAMATURGY RESEARCH~~
+
 ### 9:00 AM - meet at Regional Rail station
 
-~~DUE: VISUAL PORTFOLIO AND DRAMATURGY RESEARCH~~
+### 10:15 AM - Tour of "Downstream" at Science History Institute
+
+### 12:30 PM - Lunch
+
+### 2:30 PM - Visit "Terence Nance: Swarm" and "Carolyn Lazard: Long Take" at the ICA Philadelphia
 
 
 [<<< Last week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/03-data.md)
