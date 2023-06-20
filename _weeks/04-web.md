@@ -73,10 +73,13 @@ Museum Visits in Philadelphia
 ### 9:00 AM - meet at Regional Rail station
 
 ### 10:15 AM - Tour of "Downstream" at Science History Institute
+315 Chestnut Street, Philadelphia, PA 19106
 
-### 12:30 PM - Lunch
+### 12:30 PM - Lunch at Han Dynasty Old City
+123 Chestnut Street, Philadelphia, PA 19106
 
 ### 2:30 PM - Visit "Terence Nance: Swarm" and "Carolyn Lazard: Long Take" at the ICA Philadelphia
+118 S. 36th Street, Philadelphia, PA 19104
 
 
 [<<< Last week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/03-data.md)
