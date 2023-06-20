@@ -27,6 +27,7 @@ With Alice, Bronwen, Hilde, José, Sean, Soaad
 ### 1:00 PM - Project work
 
 ### 2:00 PM - HTML & CSS (Sean Keenan)
+[HTML and CSS Slides](https://www.canva.com/design/DAEqTHEcVek/_cDkFAGK5s9_YVeOArvQ_A/edit?utm_content=DAEqTHEcVek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### 4:30 PM - Logs and discussion
 
