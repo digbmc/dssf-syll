@@ -20,9 +20,13 @@ June 20, 2023
 ### 10:00 AM - Reactor Room Project Meeting
 With Alice, Bronwen, Hilde, José, Sean, Soaad
 
+### 11:05 AM - Reactor Room Discussion
+
 ### 12:00 PM - Lunch
 
-### 1:00 PM - Research on your own
+### 1:00 PM - Project work
+
+### 2:00 PM - HTML & CSS (Sean Keenan)
 
 ### 4:30 PM - Logs and discussion
 
@@ -46,7 +50,7 @@ June 22, 2023
 
 NB: wear makerspace-friendly attire
 
-### 9:00 AM DMCL - Project Work
+### 9:00 AM DMCL - Web Dev pt. II (Sean & Alice)
 
 ### 12:00 PM - Lunch
 
@@ -57,14 +61,11 @@ NB: wear makerspace-friendly attire
 ## Friday
 June 23, 2023
 
-DUE: VISUAL PORTFOLIO AND DRAMATURGY RESEARCH
+Museum Visits in Philadelphia
 
-### 9:00 AM DMCL - Project Work
+### 9:00 AM - meet at Regional Rail station
 
-### 12:00 PM - Lunch
+~~DUE: VISUAL PORTFOLIO AND DRAMATURGY RESEARCH~~
 
-### 1:00 PM - Research on your own
-
-### 4:30 PM - Logs and discussion
 
 [<<< Last week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/03-data.md)
