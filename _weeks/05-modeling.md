@@ -5,6 +5,9 @@ dates: June 26-30
 public: true
 ---
 
+## Action items
+
+
 ## Monday
 June 26, 2023
 
@@ -18,6 +21,7 @@ With Alice, Bronwen, Hilde, José, Sean, Soaad
 ### 1:00 PM - Project work
 
 ### 4:30 PM - Logs and discussion
+- Make sure you've updated your logs [on our internal blog site](https://github.com/Bryn-Mawr-College/dssf-2023)
 
 ---
 

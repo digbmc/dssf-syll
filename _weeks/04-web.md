@@ -44,6 +44,9 @@ NB: wear makerspace-friendly attire
 
 ### 1:00 PM - Makerspace Work
 
+### 4:45 PM - Logs
+- Post your daily log on [our internal blog site](https://github.com/Bryn-Mawr-College/dssf-2023)
+
 ---
 
 ## Thursday
@@ -51,15 +54,23 @@ June 22, 2023
 
 NB: wear makerspace-friendly attire
 
-### 9:00 AM DMCL - Project Work
+### 9:00 AM DMCL - Check-in & logs
+- Update your logs on [our internal blog site](https://github.com/Bryn-Mawr-College/dssf-2023)
+- Add image resources (i.e. data visualizations): see [these instructions](https://refactored-fishstick-p1lg96m.pages.github.io/instructions.html)
 
 ### 9:30 AM - Curatorial Workshop (Carrie Robbins)
 
 ### 11:00 AM - Web Dev pt. II (Sean & Alice)
+- Web deployment & troubleshooting
+- Accessibility & responsiveness
 
 ### 12:00 PM - Lunch
 
 ### 1:00 PM - Makerspace Work
+
+### 4:45 PM - Logs
+- Post your daily log on [our internal blog site](https://github.com/Bryn-Mawr-College/dssf-2023)
+
 
 ---
 
