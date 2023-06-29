@@ -94,3 +94,5 @@ Museum Visits in Philadelphia
 
 
 [<<< Last week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/03-data.md)
+
+[<<< Next week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/05-modeling.md)
