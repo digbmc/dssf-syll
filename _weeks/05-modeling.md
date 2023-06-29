@@ -6,7 +6,9 @@ public: true
 ---
 
 ## Action items
-
+1. Full mock-ups of digital components
+2. Layout of build 
+3. Proposals for built elements (e.g., aspects of color schemes and textures for walls, interactive elements, etc.)
 
 ## Monday
 June 26, 2023
