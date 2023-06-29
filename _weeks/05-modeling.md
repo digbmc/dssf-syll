@@ -71,8 +71,6 @@ ACH CONFERENCE
 ## Friday
 June 30, 2023
 
-DUE: SCHEMATICS FOR BUILD
-
 ACH CONFERENCE
 
 ### 9:00 AM DMCL - Project work
@@ -84,3 +82,5 @@ ACH CONFERENCE
 ### 4:30 PM - Logs and discussion
 
 [<<< Last week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/04-web.md)
+
+[<<< Next week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/06-mapping.md)
