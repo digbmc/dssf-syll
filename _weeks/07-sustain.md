@@ -1,21 +1,23 @@
 ---
 layout: week
-title: Mapping and GIS
-dates: July 3-7
+title: Sustainability & Preservation
+dates: July 10-14
 public: true
 ---
 
 ## Action items
 
+- [ ] Prioritize build work
 
 ## Monday
-July 3, 2023
 
-_Alice, Bronwen, Hilde, Soaad out_
+July 10, 2023
+
+_Hilde, José out_
 
 ### 9:00 AM DMCL - Project work
 
-### 11:00 AM - Check-in with José and Sean
+### 11:00 AM - Reactor Room Meeting
 
 ### 12:00 PM - Lunch
 
@@ -27,21 +29,26 @@ _Alice, Bronwen, Hilde, Soaad out_
 ---
 
 ## Tuesday
-July 4, 2023 
 
-4TH OF JULY
+July 11, 2023 
+
+### 9:00 AM DMCL - Project Work
+
+### 10:30 AM - CWDT Project & Sustainability (Cameron Boucher)
+
+### 12:00 PM - Lunch
+
+### 1:00 PM - Making work (location TBD)
 
 ---
 
 ## Wednesday
-July 5, 2023
+
+July 12, 2023
 
 NB: wear makerspace-friendly attire
 
 ### 9:00 AM - Makerspace work
-
-### 11:00 AM - Reactor Room Project Meeting (Zoom)
-With Alice, Bronwen, José, Hilde, Sean, Soaad
 
 ### 12:00 PM - Lunch
 
@@ -50,11 +57,14 @@ With Alice, Bronwen, José, Hilde, Sean, Soaad
 ---
 
 ## Thursday
-July 6, 2023
+
+July 13, 2023
 
 NB: wear makerspace-friendly attire
 
 ### 9:00 AM DMCL - Project work
+
+### 11:00 AM - Web Archiving & Digital Preservation (Jessica Bright)
 
 ### 12:00 PM - Lunch
 
@@ -63,22 +73,19 @@ NB: wear makerspace-friendly attire
 ---
 
 ## Friday
-June 30, 2023
 
-_Hilde out_
+July 14, 2023
 
-DUE: MVP WEB COMPONENT
+### 9:00 AM DMCL - Project work
 
-### 9:00 AM DMCL - Mapping Basics workshop
-
-### 11:00 AM - Project work
+### 11:00 AM - Reactor Room Meeting with José
 
 ### 12:00 PM - Lunch
 
-### 1:00 PM - Project work
+### 1:00 PM - Project work (Making, location TBD)
 
 ### 4:30 PM - Logs and discussion
 
-[<<< Last week >>>](05-modeling)
+[<<< Last week >>>](06-mapping)
 
-[<<< Next week >>>](07-sustain)
+[<<< Next week >>>]()

@@ -40,12 +40,12 @@ title: Syllabus
 
 - [Association for Computers and the Humanities Virtual Conference](https://members.ach.org/civicrm/event/info/?id=20&reset=1)
 
-## Week 6 (July 3-7) [Mapping & GIS]()
+## Week 6 (July 3-7) [Mapping & GIS](/weeks/06-mapping)
 
 - GIS Basics
 - Web mapping with Leaflet JS
 
-## Week 7 (July 10-14) Sustainability & Preservation
+## Week 7 (July 10-14) Sustainability & Preservation(/weeks/07-sustain)
 
 - Digital Preservation & Web Archiving (Jessica Bright)
 - Digital Sustainability (Cameron Boucher)
