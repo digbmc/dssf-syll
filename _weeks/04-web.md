@@ -93,6 +93,6 @@ Museum Visits in Philadelphia
 118 S. 36th Street, Philadelphia, PA 19104
 
 
-[<<< Last week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/03-data.md)
+[<<< Last week >>>](03-data)
 
-[<<< Next week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/05-modeling.md)
+[<<< Next week >>>](05-modeling)

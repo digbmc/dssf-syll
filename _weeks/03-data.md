@@ -89,6 +89,6 @@ See also [workshop instructions](../resources/data)
 
 ### 4:30 PM - Logs and discussion
 
-[<<< Last week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/02-design.md)
+[<<< Last week >>>](02-design)
 
-[<<< Next week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/04-web.md)
+[<<< Next week >>>](04-web)

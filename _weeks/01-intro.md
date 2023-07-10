@@ -187,4 +187,4 @@ Workshop on Zoom: link TBD
 - Talk about the challenges and successes of the week
 - Next week's forecast
 
-[<<< Next week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/02-design.md)
+[<<< Next week >>>](02-design)

@@ -81,6 +81,6 @@ ACH CONFERENCE
 
 ### 4:30 PM - Logs and discussion
 
-[<<< Last week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/04-web.md)
+[<<< Last week >>>](04-web)
 
-[<<< Next week >>>](https://github.com/digbmc/dssf-syll/blob/main/_weeks/06-mapping.md)
+[<<< Next week >>>](06-mapping)
