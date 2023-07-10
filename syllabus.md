@@ -36,7 +36,7 @@ title: Syllabus
 - Web deployment with Domain of One's Own
 - GitHub Pages
 
-## Week 5 (June 26-30) [ACH Conference](https://digbmc.github.io/dssf-syll/weeks/05-modeling.html)
+## Week 5 (June 26-30) [ACH Conference](05-modeling)
 
 - [Association for Computers and the Humanities Virtual Conference](https://members.ach.org/civicrm/event/info/?id=20&reset=1)
 
@@ -45,7 +45,7 @@ title: Syllabus
 - GIS Basics
 - Web mapping with Leaflet JS
 
-## Week 7 (July 10-14) Sustainability & Preservation(weeks/07-sustain)
+## Week 7 (July 10-14) [Sustainability & Preservation](weeks/07-sustain)
 
 - Digital Preservation & Web Archiving (Jessica Bright)
 - Digital Sustainability (Cameron Boucher)
