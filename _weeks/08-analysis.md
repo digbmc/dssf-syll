@@ -83,3 +83,4 @@ July 21, 2023
 ### 1:00 PM - Makerspace work
 
 [<<< Last week >>>](07-sustain.md)
+[<<< Next week >>>](09-testing.md)
