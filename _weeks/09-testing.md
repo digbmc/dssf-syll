@@ -70,6 +70,8 @@ NB: wear makerspace-friendly attire
 
 July 28, 2023
 
+NB: wear makerspace-friendly attire
+
 ### 9:00 AM - Makerspace work
 
 ### 12:00 PM - Lunch
