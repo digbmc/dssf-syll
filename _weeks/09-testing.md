@@ -79,3 +79,4 @@ NB: wear makerspace-friendly attire
 ### 1:00 PM - Makerspace work
 
 [<<< Last week >>>](08-analysis.md)
+[<<< Next week >>>](10-conclusion.md)
