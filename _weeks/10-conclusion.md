@@ -36,6 +36,14 @@ August 1, 2023
 
 ### 1:00 PM - Project work
 
+#### Week 10 Reflection Prompt
+
+Reflect on your summer experience and what you've achieved in your project work. I encourage you to review your earlier logs as you compose responses to these questions.
+
+- Looking back on your work this summer, what do you see as your primary accomplishments and successes? What have you learned, created, discovered, or done that you are most proud of?
+- What challenges, difficulties, and setbacks did you face in your work? How did you respond to these? Do you see any room for improvement in these areas?
+- What are your goals for the future regarding the skills and areas you've explored this summer? 
+
 ---
 
 ## Wednesday
