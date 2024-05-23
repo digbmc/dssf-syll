@@ -1,7 +1,7 @@
 ---
 layout: week
-title: Design & Making
-dates: June 5-9
+title: Working with & Visualizing Data
+dates: June 10-14
 public: true
 ---
 
