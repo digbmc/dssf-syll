@@ -1,7 +1,7 @@
 ---
 layout: week
-title: Working with Data
-dates: June 12-16
+title: Project Work
+dates: June 17-21
 public: true
 ---
 
