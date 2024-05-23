@@ -1,7 +1,7 @@
 ---
 layout: week
-title: Sustainability & Preservation
-dates: July 17-21
+title: Project Work & Final Presentations
+dates: July 22-26
 public: true
 ---
 
