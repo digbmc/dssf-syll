@@ -3,57 +3,33 @@ layout: default
 title: Syllabus
 ---
 
-
-## Week 1 (June 3-7) [Introduction to Digital Scholarship](https://digbmc.github.io/dssf-syll/weeks/01-intro.html)
+## Week 1 (June 3-7) [Introduction to Digital Scholarship & Web Development](https://digbmc.github.io/dssf-syll/weeks/01-intro.html)
 
 - Intro to Digital Scholarship (Alice)
-- Intro to Reactor Room project & history of Chornobyl disaster (José)
 - Project Management (Jenny Spohrer)
-- Design Thinking (Jenny Spohrer)
-- 2D Design with Adobe Illustrator (Bronwen)
-- Git, GitHub, and Markdown (Alice)
-- Makerspace orientation (Bronwen)
+- Markdown, Command Line, Git & GitHub (Alice)
+- Accessibility (Grace Cipressi & Lily)
+- HTML/CSS (Sean)
+- Web Design Basics (Cameron)
+- Web Deployment (Alice)
 
-## Week 2 (June 10-14) [Critical Design & Making](https://digbmc.github.io/dssf-syll/weeks/02-design.html)
+## Week 2 (June 10-14) Working with & Visualizing Data
 
-- Library Research (Joyce Angelucci, Jennifer Coval, Laura Surtees)
-- Graphic Design Basics (Alexis White)
-- Visual Essays with Juncture (Meriç Özölçer)
-- Makerspace: Woodshop training (Bronwen)
+- Open Refine (Alice)
+- The Germantown Y Project
+- Voyant (Stella)
+- Leaflet (Stella)
+- ArcGIS
+- Collection Builder (Alice)
 
-## Week 3 (June 17-21) [Working with Data](https://digbmc.github.io/dssf-syll/weeks/03-data.html)
+## Week 3 (June 17-21) Project Work
 
-- Data cleaning with OpenRefine
-- Data Visualisation & Storytelling 
-- Data Visualization with Illustrator
-- Social Media Data (Soaad Elbahwati)
-- Exhibition Design (Hilde Nelson)
+## Week 4 (June 24-28) Project Work
 
-## Week 4 (June 24-28) [Web Publishing](https://digbmc.github.io/dssf-syll/weeks/04-web.html)
+## Week 5 (July 1-5) Project Work
 
-- HTML, CSS, and JavaScript (Sean Keenan)
-- Web Design & Accessibility
-- Web deployment with Domain of One's Own
-- GitHub Pages
+## Week 6 (July 8-12) Project Work & Interal Presentations
 
-## Week 5 (July 1-5) [ACH Conference](05-modeling)
+## Week 7 (July 15-19) Project Work & User Testing
 
-- [Association for Computers and the Humanities Virtual Conference](https://members.ach.org/civicrm/event/info/?id=20&reset=1)
-
-## Week 6 (July 8-12) [Mapping & GIS](weeks/06-mapping)
-
-- GIS Basics
-- Web mapping with Leaflet JS
-
-## Week 7 (July 15-19) [Sustainability & Preservation](weeks/07-sustain)
-
-- Digital Preservation & Web Archiving (Jessica Bright)
-- Digital Sustainability (Cameron Boucher)
-- **Reading:** [Digital Humanities and the Climate crisis: a manifesto](https://dhc-barnard.github.io/dhclimate/) 
-
-
-## Week 8 (July 22-26) Text analysis & Machine Learning
-
-- Distant Reading with Voyant
-- Generative AI
-- Bias and Ethics in AI
+## Week 8 (July 22-26) Project Work & Final Presentations
