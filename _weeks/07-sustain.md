@@ -1,7 +1,7 @@
 ---
 layout: week
-title: Sustainability & Preservation
-dates: July 10-14
+title: Project Work & User Testing
+dates: July 15-19
 public: true
 ---
 
