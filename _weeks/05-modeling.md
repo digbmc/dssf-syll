@@ -1,7 +1,7 @@
 ---
 layout: week
-title: 3D Modeling and Fabrication
-dates: June 26-30
+title: Project Work
+dates: July 1-5
 public: true
 ---
 
