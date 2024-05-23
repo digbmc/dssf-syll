@@ -10,13 +10,13 @@ The Digital Scholarship Summer Fellowship (DSSF) program is a paid, full-time su
 
 ## Team
 
-Cameron Boucher - Educational and Scholaraly Technology Assistant, Web Development Advisor
+Alice McGrath - Senior Digital Scholarship Specialist
 
-Stella Fritzell - Digital Scholarship Graduate Assistant, DSSF Assistant Director
+Stella Fritzell - Digital Scholarship Graduate Assistant
 
-Sean Keenan - Educational Technology Specialist, Project Manager
+Sean Keenan - Educational Technology Specialist
 
-Alice McGrath - Senior Digital Scholarship Specialist, DSSF Director
+Cameron Boucher - Educational and Scholaraly Technology Assistant
 
 Digital Scholarship Summer Fellows: 
 - Isbah Ameer
