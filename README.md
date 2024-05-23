@@ -1,23 +1,26 @@
-# DSSF 2023
+# DSSF 2024
 
-Digital Scholarship Summer Fellows Program 2023
+Digital Scholarship Summer Fellowship Program 2024
 
 ## About the Program
 
-The Digital Scholarship Summer Fellows program is a paid, full-time summer internship opportunity for Bryn Mawr students to learn digital research and publication methods and gain professional experience by collaborating on a public-facing digital scholarship project. Over the course of ten weeks, we will explore key issues and methods in digital scholarship, critical making, and multi-modal research through a combination of hands-on work, instruction, and discussion. Fellows will also have opportunities to present their work, create a personal digital portfolio, and learn about careers in libraries, museums, and digital media and research.
+The Digital Scholarship Summer Fellowship (DSSF) program is a paid, full-time summer internship opportunity for Bryn Mawr students to learn digital research and publication methods and gain professional experience by collaborating on a public-facing digital scholarship project. Over the course of eight weeks, we will explore key issues and methods in digital scholarship, critical making, and multi-modal research through a combination of hands-on work, instruction, and discussion. Fellows will also have opportunities to present their work, create a personal digital portfolio, and learn about careers in libraries, museums, and digital media and research.
 
 [syllabus](syllabus.md)
 
 ## Team
 
-Alice McGrath - Senior Digital Scholarship Specialist
+Cameron Boucher - Educational and Scholaraly Technology Assistant, Web Development Advisor
 
-José Vergara - Project Director & Assistant Professor of Russian
+Stella Fritzell - Digital Scholarship Graduate Assistant, DSSF Assistant Director
 
-Bronwen Densmore - Makerspace Coordinator
+Sean Keenan - Educational Technology Specialist, Project Manager
 
-Hilde Nelson - Digital Scholarship Graduate Assistant
+Alice McGrath - Senior Digital Scholarship Specialist, DSSF Director
 
-Sean Keenan - Educational Technology Specialist
-
-Soaad Elbahwati - Educational & Scholarly Technology Specialist
+Digital Scholarship Summer Fellows: 
+- Isbah Ameer
+- Emma Dermansky
+- Nada Elshafey
+- Anna Nguyen
+- Fiona Shen
