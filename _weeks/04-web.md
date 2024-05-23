@@ -1,7 +1,7 @@
 ---
 layout: week
-title: Web Development
-dates: June 20-23
+title: Project Work
+dates: June 24-28
 public: true
 ---
 
