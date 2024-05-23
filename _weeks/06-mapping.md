@@ -1,7 +1,7 @@
 ---
 layout: week
-title: Mapping and GIS
-dates: July 3-7
+title: Project Work & Internal Presentations
+dates: July 8-12
 public: true
 ---
 
