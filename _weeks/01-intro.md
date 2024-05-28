@@ -38,8 +38,10 @@ June 3, 2024
 ### 11:30 AM Installations & Account Set-up
 - Microsoft Teams
 - Text editor: [Visual Studio Code](https://code.visualstudio.com/) - (see this [VS Code tutorial](https://code.visualstudio.com/docs/introvideos/basics) for how to set up)
-- GitBash
-- [GitHub Desktop](https://desktop.github.com/)
+- Command line setup
+  - Mac users: install [xcode select using these instructions](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)
+  - PC users: download and install [git for windows](https://git-scm.com/downloads). Use the default settings.
+- Optional: install [GitHub Desktop](https://desktop.github.com/)
 
 ### 12:00 PM Lunch Break
 
