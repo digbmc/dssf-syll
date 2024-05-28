@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Expectations
+title: Community Expectations
 ---
 
-# Community Expectations
+## Expectations for the DSSFs
 
 The leaders of the digital scholarship summer fellows program have the following expectations of the fellows:
 
@@ -15,5 +15,3 @@ The leaders of the digital scholarship summer fellows program have the following
 - Take responsibility for your work on the project, including making decisions and solving problems as needed.
 - Offer and receive constructive feedback with an open mind. Be open to others' ideas and perspectives, even when they differ from your own.
 - Make an effort to learn and practice the skills and tools in workshops; be willing to ask questions, help others, and engage in collaborative learning.
-
-
