@@ -79,6 +79,4 @@ DUE: MVP WEB COMPONENT
 
 ### 4:30 PM - Logs and discussion
 
-[<<< Last week >>>](05-modeling)
-
-[<<< Next week >>>](07-sustain)
+[<<< Last week](05-work) | [Next week >>>](07-testing)
