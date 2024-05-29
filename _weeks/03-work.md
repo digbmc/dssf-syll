@@ -89,6 +89,4 @@ See also [workshop instructions](../resources/data)
 
 ### 4:30 PM - Logs and discussion
 
-[<<< Last week >>>](02-design)
-
-[<<< Next week >>>](04-web)
+[<<< Last week](02-data) | [Next week >>>](04-work)
