@@ -141,4 +141,4 @@ June 7, 2024
 - What was challenging?
 - What questions do you still have / What will you do to improve next week?
 
-[<<< Next week >>>](02-design)
+[Next week >>>](02-data)
