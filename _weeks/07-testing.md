@@ -86,6 +86,4 @@ July 14, 2023
 
 ### 4:30 PM - Logs and discussion
 
-[<<< Last week >>>](06-mapping)
-
-[<<< Next week >>>]()
+[<<< Last week](06-internal) | [Next week >>>](08-final)
