@@ -100,6 +100,4 @@ DMCL
 ### 4:30 PM - Logs & discussion
 
 
-[<<< Last week >>>](01-intro)
-
-[<<< Next week >>>](03-data)
+[<<< Last week](01-intro) | [Next week >>>](03-work)
