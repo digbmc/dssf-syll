@@ -77,10 +77,6 @@ NB: wear makerspace-friendly attire
 ## Friday
 June 23, 2023
 
-Museum Visits in Philadelphia
-
-~~DUE: VISUAL PORTFOLIO AND DRAMATURGY RESEARCH~~
-
 ### 9:00 AM - meet at Regional Rail station
 
 ### 10:15 AM - Tour of "Downstream" at Science History Institute
@@ -93,6 +89,4 @@ Museum Visits in Philadelphia
 118 S. 36th Street, Philadelphia, PA 19104
 
 
-[<<< Last week >>>](03-data)
-
-[<<< Next week >>>](05-modeling)
+[<<< Last week](03-work) | [Next week >>>](05-work)
