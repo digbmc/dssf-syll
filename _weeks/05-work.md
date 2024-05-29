@@ -81,6 +81,4 @@ ACH CONFERENCE
 
 ### 4:30 PM - Logs and discussion
 
-[<<< Last week >>>](04-web)
-
-[<<< Next week >>>](06-mapping)
+[<<< Last week](04-work) | [Next week >>>](06-internal)
