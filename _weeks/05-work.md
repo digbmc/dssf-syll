@@ -5,80 +5,80 @@ dates: July 1-5
 public: true
 ---
 
-## Action items
-1. Full mock-ups of digital components
-2. Layout of build 
-3. Proposals for built elements (e.g., aspects of color schemes and textures for walls, interactive elements, etc.)
+## Resources of Interest
+- ...
+
+---
 
 ## Monday
-June 26, 2023
+July 1, 2024
 
-### 9:00 AM DMCL - Project work
+### 9:00 AM Check-In (DMCL)
 
-### 11:00 AM - Reactor Room Project Meeting
-With Alice, Bronwen, Hilde, José, Sean, Soaad
+### 12:00 PM Lunch Break
 
-### 12:00 PM - Lunch
+### 1:00 PM ...
 
-### 1:00 PM - Project work
-
-### 4:30 PM - Logs and discussion
-- Make sure you've updated your logs [on our internal blog site](https://github.com/Bryn-Mawr-College/dssf-2023)
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Tuesday
-June 27, 2023 
+July 2, 2024
 
-### 9:00 AM DMCL - Project work
+### 9:00 AM Check-In (DMCL)
 
-### 12:00 PM - Lunch
+### 11:00 AM Germantown Y Project Meeting (Zoom)
 
-### 1:00 PM - Project work
+### 12:00 PM Lunch Break
 
-### 4:30 PM - Logs and discussion
+### 1:00 PM ...
+
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Wednesday
-June 28, 2023
+July 3, 2024
 
-NB: wear makerspace-friendly attire
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM - Makerspace work
+### 12:00 PM Lunch Break
 
-### 12:00 PM - Lunch
+### 1:00 PM ...
 
-### 1:00 PM - Makerspace work
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Thursday
-June 29, 2023
+July 4, 2024
 
-NB: wear makerspace-friendly attire
-
-ACH CONFERENCE
-
-### 9:00 AM DMCL - Project work
-
-### 12:00 PM - Lunch
-
-### 1:00 PM - Makerspace work
+July 4th Holiday, No Work
 
 ---
 
 ## Friday
-June 30, 2023
+July 5, 2024
 
-ACH CONFERENCE
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM DMCL - Project work
+### 12:00 PM Lunch Break
 
-### 12:00 PM - Lunch
+### 1:00 PM ...
 
-### 1:00 PM - Project work
-
-### 4:30 PM - Logs and discussion
+### 4:30 PM Reflections & Weekly Forecast
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve next week?
 
 [<<< Last week](04-work) | [Next week >>>](06-internal)
