@@ -47,16 +47,7 @@ June 18, 2024
 ## Wednesday
 June 19, 2024
 
-### 9:00 AM Check-In (DMCL)
-
-### 12:00 PM Lunch Break
-
-### 1:00 PM ...
-
-### 4:30 PM Reflections
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
+Juneteenth Holiay, No Work
 
 ---
 
