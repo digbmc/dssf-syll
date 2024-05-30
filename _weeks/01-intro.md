@@ -64,7 +64,8 @@ June 4, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
-### 9:30 AM Command Line Workshop (Alice)
+### 9:30 AM Command Line (Alice)
+- [Command Line Workshop (Tri-Co DSRI)](https://github.com/tri-cods/command-line)
 
 ### 11:00 AM Computing Videos
 - [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
