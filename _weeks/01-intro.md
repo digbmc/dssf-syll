@@ -88,11 +88,16 @@ June 5, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
-### 9:30 AM Accessibility Workshop (?)
+### 9:30 AM HTML Workshop (Sean)
+
+### 10:30 AM Accessibility Workshop (Guild Conference Room)
 
 ### 12:00 PM Lunch Break
+Staff Picnic & Awards, Sunken Garden
 
-### 1:00 PM HTML / CSS Workshop (Sean)
+### 2:00 PM CSS Workshop (Sean)
+
+### 3:30 PM  HTML/CSS Sandbox
 
 ### 4:30 PM Reflections
 - What went well?
@@ -113,6 +118,8 @@ June 6, 2024
 ### 1:00 PM Web Deployment (Alice)
 - Domain of One's Own
 - [GitHub Pages Workshop](https://github.com/tri-cods/github-pages)
+
+### 3:00 PM Web Design Sandbox
 
 ### 4:30 PM Reflections
 - What went well?
