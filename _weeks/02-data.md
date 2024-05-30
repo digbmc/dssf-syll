@@ -5,7 +5,7 @@ dates: June 10-14
 public: true
 ---
 
-## Resrouces of Interest
+## Resources of Interest
 - [*Data Feminism*](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren F. Klein 
 
 ---
@@ -18,6 +18,7 @@ June 10, 2024
 ### 9:30 AM What is Data?
 
 ### 10:00 AM Open Refine (Alice)
+- [Tidy(ish) Data Workshop](https://github.com/tri-cods/tidy-data)
 
 ### 12:00 PM Lunch Break
 
@@ -38,6 +39,8 @@ June 11, 2024
 ### 9:00 AM Check-In (DMCL)
 
 ### 9:30 AM Data Design & Visualization (Alice)
+- [Slideshow for workshop](https://alicemcgrath.digital.brynmawr.edu/pres/data-viz.html)
+- See also [workshop instructions](../resources/data)
 
 ### 11:00 AM  Germantown Y Project Meeting (Zoom)
 
