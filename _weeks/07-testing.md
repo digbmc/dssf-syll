@@ -5,85 +5,84 @@ dates: July 15-19
 public: true
 ---
 
-## Action items
-
-- [ ] Prioritize build work
-
 ## Monday
+July 15, 2024
 
-July 10, 2023
+### 9:00 AM Check-In (DMCL)
 
-_Hilde, José out_
+### 12:00 PM Lunch Break
 
-### 9:00 AM DMCL - Project work
+### 1:00 PM ...
 
-### 11:00 AM - Reactor Room Meeting
-
-### 12:00 PM - Lunch
-
-### 1:00 PM - Project work
-
-### 4:30 PM - Logs and discussion
-- Make sure you've updated your logs [on our internal blog site](https://github.com/Bryn-Mawr-College/dssf-2023)
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Tuesday
+July 16, 2024
 
-July 11, 2023 
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM DMCL - Project Work
+### 11:00 AM Germantown Y Project Meeting (Zoom)
 
-### 10:30 AM - CWDT Project & Sustainability (Cameron Boucher)
+### 12:00 PM Lunch Break
 
-### 12:00 PM - Lunch
+### 1:00 PM ...
 
-### 1:00 PM - Making work (location TBD)
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Wednesday
+July 17, 2024
 
-July 12, 2023
+### 9:00 AM Check-In (DMCL)
 
-NB: wear makerspace-friendly attire
+### 12:00 PM Lunch Break
 
-### 9:00 AM - Makerspace work
+### 1:00 PM ...
 
-### 12:00 PM - Lunch
-
-### 1:00 PM - Makerspace work
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Thursday
+July 18, 2024
 
-July 13, 2023
+### 9:00 AM Check-In (DMCL)
 
-NB: wear makerspace-friendly attire
+### 12:00 PM Lunch Break
 
-### 9:00 AM DMCL - Project work
+### 1:00 PM  ...
 
-### 11:00 AM - Web Archiving & Digital Preservation (Jessica Bright)
-
-### 12:00 PM - Lunch
-
-### 1:00 PM - Makerspace work
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Friday
+July 19, 2024
 
-July 14, 2023
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM DMCL - Project work
+### 12:00 PM Lunch Break
 
-### 11:00 AM - Reactor Room Meeting with José
+### 1:00 PM ...
 
-### 12:00 PM - Lunch
-
-### 1:00 PM - Project work (Making, location TBD)
-
-### 4:30 PM - Logs and discussion
+### 4:30 PM Reflections & Weekly Forecast
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve next week?
 
 [<<< Last week](06-internal) | [Next week >>>](08-final)
