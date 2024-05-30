@@ -9,12 +9,9 @@ public: true
 
 "Brünhilde", Adolph Edward Weidhaas (1936), from [Library of Congress, ppmsca 51533](https://www.loc.gov/resource/ppmsca.51533/)
 
-## Action items
-- Read:
-- Watch: 
-  - [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
-  - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&t=3s)
-- Do:
+## Resources of Interest
+- [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
+- [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&t=3s)
 
 ---
 
