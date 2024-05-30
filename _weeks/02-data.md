@@ -5,99 +5,126 @@ dates: June 10-14
 public: true
 ---
 
+## Resrouces of Interest
+- [*Data Feminism*](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren F. Klein 
+
+---
+
 ## Monday
-June 5, 2023
+June 10, 2024
 
-### 9:00 AM Check-in (Hilde)
+### 9:00 AM Check-in (DMCL)
 
-### AM: On your Own
-- Reviewing project charter
-- Brainstorming ideas for research & exhibitions
+### 9:30 AM What is Data?
 
-### 11:00 AM Reactor Room Project Meeting
-With Alice, Bronwen, Hilde, José, Sean, Soaad
+### 10:00 AM Open Refine (Alice)
 
-### 12:00 PM BMC Staff Picnic
-Wyndham Garden
+### 12:00 PM Lunch Break
 
-### 2:00 PM Library Research Workshop - Joyce Angelucci, Jennifer Coval, Laura Surtees
+### 1:00 PM  Working with (Non-Scholarly) Data (Laura Surtees)
 
-### PM - Research on your own
+### 2:30 PM  Exploring Datasets
 
-### 4:30 PM - Logs and Discussion
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Tuesday
-June 6, 2023
+June 11, 2024
 
-NB: wear makerspace-friendly attire 
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM - Woodshop Training
-- Meet in Makerspace (Park 157)
-- Safety procedures
-- Basic tool operation
+### 9:30 AM Data Design & Visualization (Alice)
 
-### 12:00 PM Lunch
+### 11:00 AM  Germantown Y Project Meeting (Zoom)
 
-### 1:00 PM - Woodshop/Makerspace Work
+### 12:00 PM Lunch Break
+
+### 1:00 PM Textual Analysis with Voyant (Stella)
+- [Voyant Tutorial](https://sfritzell.github.io/Voyant-Tutorial/)
+
+### 2:30 PM  Visualization & Text Analysis Sandbox
+- What types of visualizations work well with different datasets?
+- What can text analysis and visualization tell you about your own writing habits?
+
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Wednesday
-June 7, 2023
+June 12, 2024
 
-*Ksenia out*
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM DMCL - Project Work
+### 9:30 AM Digital Exhibitions & Collections (Alice)
+- Platforms & tools
+- Some things to think about
 
-### 10:30 AM Graphic Design (Alexis White)
+### 12:00 PM Lunch Break
 
-### 12:00 PM Lunch
+### 1:00 PM Collection Builder Workshop
 
-### 1:00 PM - Makerspace Work
+### 3:00 PM Exhibitions & Collections Sandbox
+
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
+
+--- 
 
 ## Thursday
-June 8, 2023
+June 13, 2024
 
-*Bronwen out*
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM DMCL - ~~Project work~~ Command Line workshop
-- [Command Line Workshop (Tri-Co DSRI)](https://github.com/tri-cods/command-line) - Alice starts, continue on your own
+### 9:30 AM Thinking About Webmaps
+- What is a map?
+- What is a webmap?
+- Find some examples
 
-### ~~9:15 AM Exhibition Design (Hilde)~~
-Rescheduled to wk 3
+### 10:30 AM Exploring Webmapping
+- [GoogleMaps](https://www.google.com/maps/about/mymaps/)
 
-### 10:30 AM - Break (10 mins)
+### 11:30 AM Discussion
 
-### 10:45 - Finish Command Line
-- Afterwards: project work, github pages, or command line practice
+### 12:00 PM Lunch Break
 
-### 12:00 PM Lunch
+### 1:00 PM Webmapping with Leaflet (Stella)
+- [Leaflet Tutorial](https://sfritzell.github.io/Leaflet-Tutorial/)
 
-### 1:00 PM - Visual Essays with Juncture (Meriç Özölçer)
+### 2:30 PM Webmapping Sandbox
 
-### 2:30 PM - Work on digital project plan, Meetings with Hilde and Alice
-- Goal: write up a description of digital project & post to teams
-
-### 4:30 PM - Logs, Discussion
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Friday
-June 9, 2023
+June 14, 2024
 
-*Ksenia out, Bronwen out*
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM DMCL - Project work
+### 9:30 AM Mini-project Work
 
-### 12:00 PM Lunch
+### 10:30 AM Workshopping & Demos
 
-### 1:00 PM - Inclusive Design Thinking (Jenny Spohrer)
+### 12:00 PM Lunch Break
 
-DMCL
+### 1:00 PM  Mini-project Work, 1-on-1 Meetings
 
-### 4:30 PM - Logs & discussion
+### 4:30 PM Reflections & Weekly Forecast
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve next week?
 
 
 [<<< Last week](01-intro) | [Next week >>>](03-work)
