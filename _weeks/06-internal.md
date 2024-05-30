@@ -5,78 +5,89 @@ dates: July 8-12
 public: true
 ---
 
-## Action items
+## Resources of Interest
+- ...
 
+---
 
 ## Monday
-July 3, 2023
+July 8, 2024
 
-_Alice, Bronwen, Hilde, Soaad out_
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM DMCL - Project work
+### 12:00 PM Lunch Break
 
-### 11:00 AM - Check-in with José and Sean
+### 1:00 PM ...
 
-### 12:00 PM - Lunch
-
-### 1:00 PM - Project work
-
-### 4:30 PM - Logs and discussion
-- Make sure you've updated your logs [on our internal blog site](https://github.com/Bryn-Mawr-College/dssf-2023)
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Tuesday
-July 4, 2023 
+July 9, 2024
 
-4TH OF JULY
+### 9:00 AM Check-In (DMCL)
+
+### 11:00 AM Germantown Y Project Meeting (Zoom)
+
+### 12:00 PM Lunch Break
+
+### 1:00 PM ...
+
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Wednesday
-July 5, 2023
+July 10, 2024
 
-NB: wear makerspace-friendly attire
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM - Makerspace work
+### 12:00 PM Lunch Break
 
-### 11:00 AM - Reactor Room Project Meeting (Zoom)
-With Alice, Bronwen, José, Hilde, Sean, Soaad
+### 1:00 PM ...
 
-### 12:00 PM - Lunch
-
-### 1:00 PM - Makerspace work
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Thursday
-July 6, 2023
+July 11, 2024
 
-NB: wear makerspace-friendly attire
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM DMCL - Project work
+### 12:00 PM Lunch Break
 
-### 12:00 PM - Lunch
+### 1:00 PM  ...
 
-### 1:00 PM - Makerspace work
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Friday
-June 30, 2023
+July 12, 2024
 
-_Hilde out_
+### 9:00 AM Check-In (DMCL)
 
-DUE: MVP WEB COMPONENT
+### 12:00 PM Lunch Break
 
-### 9:00 AM DMCL - Mapping Basics workshop
+### 1:00 PM ...
 
-### 11:00 AM - Project work
-
-### 12:00 PM - Lunch
-
-### 1:00 PM - Project work
-
-### 4:30 PM - Logs and discussion
+### 4:30 PM Reflections & Weekly Forecast
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve next week?
 
 [<<< Last week](05-work) | [Next week >>>](07-testing)
