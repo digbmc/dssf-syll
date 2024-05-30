@@ -5,81 +5,84 @@ dates: July 22-26
 public: true
 ---
 
-## Action items
-
-- [ ] Prioritize build work
-
 ## Monday
+July 22, 2024
 
-July 17, 2023
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM DMCL - Project work
+### 12:00 PM Lunch Break
 
-### 11:00 AM - Reactor Room Meeting
+### 1:00 PM ...
 
-### 12:00 PM - Lunch
-
-### 1:00 PM - User Testing for DT Interns (Canaday 315)
-
-### 2:00 PM - Project work
-
-### 4:30 PM - Logs and discussion
-- Make sure you've updated your logs [on our internal blog site](https://github.com/Bryn-Mawr-College/dssf-2023)
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Tuesday
+July 23, 2024
 
-July 18, 2023 
+### 9:00 AM Check-In (DMCL)
 
-_Hilde out AM_
+### 11:00 AM Germantown Y Project Meeting (Zoom)
 
-NB: wear makerspace-friendly attire
+### 12:00 PM Lunch Break
 
-### 9:00 AM - Makerspace work
+### 1:00 PM ...
 
-### 12:00 PM - Lunch
-
-### 1:00 PM - Makerspace work
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Wednesday
+July 24, 2024
 
-July 19, 2023
+### 9:00 AM Check-In (DMCL)
 
-NB: wear makerspace-friendly attire
+### 12:00 PM Lunch Break
 
-### 9:00 AM - Makerspace work
+### 1:00 PM ...
 
-### 12:00 PM - Lunch
-
-### 1:00 PM - Makerspace work
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Thursday
+July 25, 2024
 
-July 20, 2023
+### 9:00 AM Check-In (DMCL)
 
-NB: wear makerspace-friendly attire
+### 12:00 PM Lunch Break
 
-### 9:00 AM DMCL - Project work
+### 2:00 PM Final Project Presentation (Germantown Y)
 
-### 12:00 PM - Lunch
-
-### 1:00 PM - Makerspace work
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Friday
+July 26, 2024
 
-July 21, 2023
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM - Makerspace work
+### 12:00 PM Lunch Break
 
-### 12:00 PM - Lunch
+### 1:00 PM ...
 
-### 1:00 PM - Makerspace work
+### 4:30 PM Reflections & Weekly Forecast
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve next week?
 
 [<<< Last week](07-testing.md)
