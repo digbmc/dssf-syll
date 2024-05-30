@@ -5,88 +5,90 @@ dates: June 24-28
 public: true
 ---
 
-## Monday
-June 19, 2023
+## Resources of Interest
+- ...
 
-### JUNETEENTH
+---
+
+## Monday
+June 24, 2024
+
+### 9:00 AM Check-In (DMCL)
+
+### 12:00 PM Lunch Break
+
+### 1:00 PM ...
+
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Tuesday
-June 20, 2023 
+June 25, 2024
 
-### 9:00 AM DMCL - Project Work
+### 9:00 AM Check-In (DMCL)
 
-### 10:00 AM - Reactor Room Project Meeting
-With Alice, Bronwen, Hilde, José, Sean, Soaad
+### 11:00 AM Germantown Y Project Meeting (Zoom)
 
-### 11:05 AM - Reactor Room Discussion
+### 12:00 PM Lunch Break
 
-### 12:00 PM - Lunch
+### 1:00 PM ...
 
-### 1:00 PM - Project work
-
-### 2:00 PM - HTML & CSS (Sean Keenan)
-[HTML and CSS Slides](https://www.canva.com/design/DAEqTHEcVek/_cDkFAGK5s9_YVeOArvQ_A/edit?utm_content=DAEqTHEcVek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-### 4:30 PM - Logs and discussion
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Wednesday
-June 21, 2023
+June 26, 2024
 
-NB: wear makerspace-friendly attire
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM - Makerspace Work
+### 12:00 PM Lunch Break
 
-### 12:00 PM - Lunch
+### 1:00 PM ...
 
-### 1:00 PM - Makerspace Work
-
-### 4:45 PM - Logs
-- Post your daily log on [our internal blog site](https://github.com/Bryn-Mawr-College/dssf-2023)
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Thursday
-June 22, 2023
+June 27, 2024
 
-NB: wear makerspace-friendly attire
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM DMCL - Check-in & logs
-- Update your logs on [our internal blog site](https://github.com/Bryn-Mawr-College/dssf-2023)
-- Add image resources (i.e. data visualizations): see [these instructions](https://refactored-fishstick-p1lg96m.pages.github.io/instructions.html)
+### 12:00 PM Lunch Break
 
-### 9:30 AM - Curatorial Workshop (Carrie Robbins)
+### 1:00 PM  ...
 
-### 11:00 AM - Web Dev pt. II (Sean & Alice)
-- Web deployment & troubleshooting
-- Accessibility & responsiveness
-
-### 12:00 PM - Lunch
-
-### 1:00 PM - Makerspace Work
-
-### 4:45 PM - Logs
-- Post your daily log on [our internal blog site](https://github.com/Bryn-Mawr-College/dssf-2023)
-
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Friday
-June 23, 2023
+June 28, 2024
 
-### 9:00 AM - meet at Regional Rail station
+### 9:00 AM Check-In (DMCL)
 
-### 10:15 AM - Tour of "Downstream" at Science History Institute
-315 Chestnut Street, Philadelphia, PA 19106
+### 12:00 PM Lunch Break
 
-### 12:30 PM - Lunch at Han Dynasty Old City
-123 Chestnut Street, Philadelphia, PA 19106
+### 1:00 PM ...
 
-### 2:30 PM - Visit "Terence Nance: Swarm" and "Carolyn Lazard: Long Take" at the ICA Philadelphia
-118 S. 36th Street, Philadelphia, PA 19104
+### 4:30 PM Reflections & Weekly Forecast
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve next week?
 
 
 [<<< Last week](03-work) | [Next week >>>](05-work)
