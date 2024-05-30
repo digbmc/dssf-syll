@@ -5,88 +5,89 @@ dates: June 17-21
 public: true
 ---
 
+## Resources of Interest
+- ...
+
+---
+
 ## Monday
-June 12, 2023
+June 17, 2024
 
-### 9:00 AM DMCL - Project Work
-- Refine research topics
+### 9:00 AM Check-In (DMCL)
 
-### 11:00 AM - Reactor Room Project Meeting
-With Alice, Bronwen, Hilde, José, Sean, Soaad
+### 12:00 PM Lunch Break
 
-### 12:00 PM - Lunch
+### 1:00 PM ...
 
-### 1:00 PM - Research on your own
-
-### 4:30 PM - Logs and discussion
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Tuesday
-June 13, 2023 
+June 18, 2024
 
-### 9:15 AM DMCL - Social Media Workshop (Soaad)
+### 9:00 AM Check-In (DMCL)
 
-### 10:30 AM - Data Cleaning with Open Refine pt. 1
+### 11:00 AM Germantown Y Project Meeting (Zoom)
 
-[Tidy(ish) Data Workshop](https://github.com/tri-cods/tidy-data)
+### 12:00 PM Lunch Break
 
-### 12:00 PM - Lunch
+### 2:00 PM Germantown Y Site Visit
 
-### 1:00 PM - Research on your own
-
-### 2:00 PM - Visit Bethany Collins exhibition (Canaday)
-
-### 4:30 PM - Logs and discussion
-- Add your logs to our internal blog site on GitHub: [dssf-2023](https://github.com/Bryn-Mawr-College/dssf-2023)
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Wednesday
-June 14, 2023
+June 19, 2024
 
-NB: wear makerspace-friendly attire
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM DMCL - Project Work
+### 12:00 PM Lunch Break
 
-### 10:30 AM - Exhibition Design (Hilde)
+### 1:00 PM ...
 
-### 12:00 PM - Lunch
-
-### 1:00 PM - Makerspace Work
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Thursday
-June 15, 2023
+June 20, 2024
 
-NB: wear makerspace-friendly attire
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM DMCL - Project Work
+### 12:00 PM Lunch Break
 
-### 12:00 PM - Lunch
+### 1:00 PM  ...
 
-### 1:00 PM - Makerspace Work
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
 ## Friday
-June 16, 2023
+June 21, 2024
 
-DUE: PROPOSALS FOR DIGITAL COMPONENT
+### 9:00 AM Check-In (DMCL)
 
-### 9:00 AM DMCL - Project Work
+### 12:00 PM Lunch Break
 
-### 10:00 AM DMCL - Data Viz Workshop (Alice)
+### 1:00 PM ...
 
-[Slideshow for workshop](https://alicemcgrath.digital.brynmawr.edu/pres/data-viz.html)
-
-See also [workshop instructions](../resources/data)
-
-### 12:00 PM - Lunch
-
-### 1:00 PM - Research on your own
-
-### 4:30 PM - Logs and discussion
+### 4:30 PM Reflections & Weekly Forecast
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve next week?
 
 [<<< Last week](02-data) | [Next week >>>](04-work)
