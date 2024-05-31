@@ -7,11 +7,16 @@ title: Community Expectations
 
 The leaders of the digital scholarship summer fellows program have the following expectations of the fellows:
 
-- We expect summer fellows to be punctual and prepared for work each morning and afternoon.
-- If you need to miss work for any reason, please let us know as soon as you are able and make sure to complete any required activities.
-- To treat others -- your peers, the leaders of the program, outside collaborators, and guest instructors -- with respect and kindness, making an effort to resolve conflicts amicably.
-- To communicate with your teammates (peers and leaders) about the work you're doing, including being willing to ask for clarification or help if you need it.
-- Contribute actively to team discussions and meetings and take notes as needed; practice attention and respect to others while they speak. 
-- Take responsibility for your work on the project, including making decisions and solving problems as needed.
-- Offer and receive constructive feedback with an open mind. Be open to others' ideas and perspectives, even when they differ from your own.
-- Make an effort to learn and practice the skills and tools in workshops; be willing to ask questions, help others, and engage in collaborative learning.
+- Attendance and punctuality
+  - Be punctual and prepared for work each morning and afternoon.
+  - If you need to miss work for any reason, please let us know as soon as you are able and make sure to complete any required activities.
+  - Please be aware that student work is conducted in person except in special circumstances.
+- Communication
+  - Treat others -- your peers, the leaders of the program, outside collaborators, and guest instructors -- with respect and kindness, making an effort to resolve conflicts amicably.
+  - Communicate with your teammates (peers and leaders) about the work you're doing and any issues or concerns that arise.
+  - Offer and receive constructive feedback with an open mind. 
+  - Be open to others' ideas and perspectives, even when they differ from your own.
+- Professional behavior
+  - Practice active attention during meetings, workshops, and team discussions by listening attentively, contributing thoughts, ideas, and questions, and taking notes  to recall details of conversations.
+  - Participate actively in our team's project work, including making decisions, solving problems, asking for clarification or assistance, and helping others.
+  - Engage in collaborative learning during workshops: experiment, practice, ask questions, and seek to understand.
