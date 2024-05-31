@@ -15,9 +15,9 @@ June 10, 2024
 
 ### 9:00 AM Check-in (DMCL)
 
-### 9:30 AM What is Data?
+### 9:30 AM Architectural Plans & Graphic Notation (Zoom; Min Lee)
 
-### 10:00 AM Open Refine (Alice)
+### 10:30 AM Open Refine (Alice)
 - [Tidy(ish) Data Workshop](https://github.com/tri-cods/tidy-data)
 
 ### 12:00 PM Lunch Break
