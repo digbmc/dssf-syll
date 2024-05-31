@@ -67,11 +67,13 @@ June 12, 2024
 
 ### 9:30 AM Digital Exhibitions & Collections (Alice)
 - Platforms & tools
-- Some things to think about
+- Metadata and using media
 
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Collection Builder Workshop
+
+- Collection Builder tutorial: [GitHub Walkthrough](https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/gh-walkthrough/)
 
 ### 3:00 PM Exhibitions & Collections Sandbox
 
