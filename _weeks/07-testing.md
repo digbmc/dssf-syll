@@ -1,0 +1,88 @@
+---
+layout: week
+title: Project Work & User Testing
+dates: July 15-19
+public: true
+---
+
+## Monday
+July 15, 2024
+
+### 9:00 AM Check-In (DMCL)
+
+### 12:00 PM Lunch Break
+
+### 1:00 PM ...
+
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
+
+---
+
+## Tuesday
+July 16, 2024
+
+### 9:00 AM Check-In (DMCL)
+
+### 11:00 AM Germantown Y Project Meeting (Zoom)
+
+### 12:00 PM Lunch Break
+
+### 1:00 PM ...
+
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
+
+---
+
+## Wednesday
+July 17, 2024
+
+### 9:00 AM Check-In (DMCL)
+
+### 12:00 PM Lunch Break
+
+### 1:00 PM ...
+
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
+
+---
+
+## Thursday
+July 18, 2024
+
+### 9:00 AM Check-In (DMCL)
+
+### 12:00 PM Lunch Break
+
+### 1:00 PM  ...
+
+### 4:30 PM Reflections
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve tomorrow?
+
+---
+
+## Friday
+July 19, 2024
+
+### 9:00 AM Check-In (DMCL)
+
+### 12:00 PM Lunch Break
+
+### 1:00 PM ...
+
+### 4:30 PM Reflections & Weekly Forecast
+- What went well?
+- What was challenging?
+- What questions do you still have / What will you do to improve next week?
+
+[<<< Last week](06-internal) | [Next week >>>](08-final)

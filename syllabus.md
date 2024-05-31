@@ -13,7 +13,7 @@ title: Syllabus
 - Web Design Basics (Cameron)
 - Web Deployment (Alice)
 
-## Week 2 (June 10-14) Working with & Visualizing Data
+## Week 2 (June 10-14) Working with & Visualizing Data(https://digbmc.github.io/dssf-syll/weeks/02-data.html)
 
 - Open Refine (Alice)
 - The Germantown Y Project

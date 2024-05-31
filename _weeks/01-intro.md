@@ -9,12 +9,9 @@ public: true
 
 "Brünhilde", Adolph Edward Weidhaas (1936), from [Library of Congress, ppmsca 51533](https://www.loc.gov/resource/ppmsca.51533/)
 
-## Action items
-- Read:
-- Watch: 
-  - [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
-  - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&t=3s)
-- Do:
+## Resources of Interest
+- [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
+- [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&t=3s)
 
 ---
 
@@ -64,7 +61,8 @@ June 4, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
-### 9:30 AM Command Line Workshop (Alice)
+### 9:30 AM Command Line (Alice)
+- [Command Line Workshop (Tri-Co DSRI)](https://github.com/tri-cods/command-line)
 
 ### 11:00 AM Computing Videos
 - [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
@@ -90,11 +88,16 @@ June 5, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
-### 9:30 AM Accessibility Workshop (?)
+### 9:30 AM HTML Workshop (Sean)
+
+### 10:30 AM Accessibility Workshop (Guild Conference Room)
 
 ### 12:00 PM Lunch Break
+Staff Picnic & Awards, Sunken Garden
 
-### 1:00 PM HTML / CSS Workshop (Sean)
+### 2:00 PM CSS Workshop (Sean)
+
+### 3:30 PM  HTML/CSS Sandbox
 
 ### 4:30 PM Reflections
 - What went well?
@@ -115,6 +118,8 @@ June 6, 2024
 ### 1:00 PM Web Deployment (Alice)
 - Domain of One's Own
 - [GitHub Pages Workshop](https://github.com/tri-cods/github-pages)
+
+### 3:00 PM Web Design Sandbox
 
 ### 4:30 PM Reflections
 - What went well?
@@ -141,4 +146,4 @@ June 7, 2024
 - What was challenging?
 - What questions do you still have / What will you do to improve next week?
 
-[<<< Next week >>>](02-design)
+[Next week >>>](02-data)

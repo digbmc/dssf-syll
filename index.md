@@ -30,3 +30,15 @@ Min Kyung Lee - Associate Professor of Growth and Structure of Cities
 Ann Doley - Friends of the Germantown YWCA
 
 Liv Raddatz - Director of Praxis
+
+### Fellows
+
+Isbah Ameer
+
+Emma Dermansky
+
+Nada Elshafey
+
+Anna Nguyen
+
+Fiona Shen
