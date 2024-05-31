@@ -28,7 +28,7 @@ June 3, 2024
 
 ### 10:30 AM Program Overview
 - Syllabus
-- Expectations
+- Discuss [program expectations](../expectations.md)
 - Timesheet Procedures
 - Setting [SMART Goals](../resources/smart-goals)
 
@@ -48,6 +48,8 @@ June 3, 2024
 ### 2:45 PM DSSF-DTI Meet-and-Greet (Canaday Staff Lounge, 1st Floor)
 
 ### 3:30 PM Writting with Markdown & VS Code (Alice)
+- [DSSF Log site](https://laughing-adventure-mzmw737.pages.github.io/) - see [editing instructions](https://laughing-adventure-mzmw737.pages.github.io/instructions.html)
+- GitHub repo for Log site: [BMC-EAST/dssf-2024-log](https://github.com/BMC-EAST/dssf-2024-log)
 
 ### 4:30 PM Reflections
 - What went well?
@@ -62,7 +64,7 @@ June 4, 2024
 ### 9:00 AM Check-In (DMCL)
 
 ### 9:30 AM Command Line (Alice)
-- [Command Line Workshop (Tri-Co DSRI)](https://github.com/tri-cods/command-line)
+- [Introduction to the Command Line](https://digbmc.github.io/command-line/)
 
 ### 11:00 AM Computing Videos
 - [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
