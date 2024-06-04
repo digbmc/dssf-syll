@@ -32,6 +32,8 @@ July 23, 2024
 
 ### 1:00 PM ...
 
+### 2:30 PM LITS Summer Gathering (TBD)
+
 ### 4:30 PM Reflections
 - What went well?
 - What was challenging?
