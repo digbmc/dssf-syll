@@ -95,7 +95,10 @@ June 5, 2024
 - [Introduction to HTML packet](../resources/POGIL_HTML_Introduction.pdf)
 
 ### 10:30 AM Accessibility Workshop (Guild Conference Room)
-
+- [Accessibility basics slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/gcipressi_brynmawr_edu/ERuA_1EbcOlNo6cPD-1pn-wBJe05WdVCZw_eYN2pFpbBeg?wdLOR=c70B476B4-5F02-AD4F-A81F-CAB3BC07F0A4)
+- [Accessibility basics tip sheet](https://brynmawr-my.sharepoint.com/:w:/g/personal/gcipressi_brynmawr_edu/EaDsR7dzDNpIp4jyyLj_mFEBAuCh1CGK18Wg_ai-iDQgXQ?wdLOR=c07C064CF-D7F4-8841-A34B-040FE8B96F09): a simple reference for accessibility best practices!
+- [DigiTech accessibility slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/gcipressi_brynmawr_edu/ES7Qj1VeJs5Oo8HpkTv72nsBQK_fBUs7xh9M2e8ZnHOong?wdLOR=cA20F1AEC-2190-D049-9DB0-0AB986B5BE7E): these slides include information about UX and WCAG, as well as material about universal design
+  
 ### 12:00 PM Lunch Break
 Staff Picnic & Awards, Sunken Garden
 
@@ -104,6 +107,7 @@ Staff Picnic & Awards, Sunken Garden
 ### 3:30 PM  HTML/CSS Sandbox
 
 ### 4:30 PM Reflections
+- Fill out a [feedback form](https://forms.office.com/pages/responsepage.aspx?id=exFLyWNh_UeT-LgAGASub4wlUZ3jbc9BsV9nUYfQm7BUNEdVUUxVSzNaN0ZOUzNQMlg4U01PS1RBNS4u) about the accessibility basics lesson that you attended today. (You are the user testers for this lesson!)
 - What went well?
 - What was challenging?
 - What questions do you still have / What will you do to improve tomorrow?
