@@ -116,6 +116,7 @@ June 6, 2024
 ### 9:00 AM Check-In (DMCL)
 
 ### 9:30 AM Web Design (Cameron)
+- Slides: [Web Design](https://www.canva.com/design/DAGGn2ljFYA/j3eR25VHhG78GWnh6Anhow/view?utm_content=DAGGn2ljFYA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ### 12:00 PM Lunch Break
 
