@@ -126,6 +126,8 @@ June 6, 2024
 
 ### 3:00 PM Web Design Sandbox
 
+### 4:15 PM Introductions with Liv Raddatz 
+
 ### 4:30 PM Reflections
 - What went well?
 - What was challenging?
