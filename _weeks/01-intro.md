@@ -103,6 +103,7 @@ June 5, 2024
 Staff Picnic & Awards, Sunken Garden
 
 ### 2:00 PM CSS Workshop (Sean)
+- [Introduction to CSS packet](../resources/POGIL-CSS-Introduction.pdf)
 
 ### 3:30 PM  HTML/CSS Sandbox
 
