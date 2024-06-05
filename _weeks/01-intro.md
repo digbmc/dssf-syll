@@ -30,7 +30,7 @@ June 3, 2024
 - Syllabus
 - Discuss [program expectations](../expectations.md)
 - Timesheet Procedures
-- Setting [SMART Goals](../resources/smart-goals)
+- Setting [SMART Goals](../resources/smart-goals.md)
 
 ### 11:30 AM Installations & Account Set-up
 - Microsoft Teams
@@ -92,6 +92,7 @@ June 5, 2024
 ### 9:00 AM Check-In (DMCL)
 
 ### 9:30 AM HTML Workshop (Sean)
+- [Introduction to HTML packet](../resources/POGIL_HTML_Introduction.pdf)
 
 ### 10:30 AM Accessibility Workshop (Guild Conference Room)
 
