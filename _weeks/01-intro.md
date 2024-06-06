@@ -128,10 +128,14 @@ June 6, 2024
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Web Deployment (Alice)
-- Slides: [Domain of One's Own](https://docs.google.com/presentation/d/1G5lJvhWcX2d4lJBi2i6Lo6UvUWKWXr4T0Z2aO8fsS4I/edit#slide=id.p)
+- Slides: [Domain of One's Own](https://docs.google.com/presentation/d/e/2PACX-1vS4n01OuLlr9wu6fNtcVYFOkmF4UlvgCRJDsaND7cWUZXRwWFVN_tq234SWom24elpIwOmg6yHU1s7E/pub?start=false&loop=false&delayms=3000&slide=id.p)
 - [GitHub Pages Workshop](https://github.com/tri-cods/github-pages)
 
 ### 3:00 PM Web Design Sandbox
+Options:
+- Continue working on your wireframe
+- Follow GitHub Pages tutorial and set up a Jekyll site
+- Start developing your website based on the wireframe you shared
 
 ### 4:15 PM Introductions with Liv Raddatz 
 
