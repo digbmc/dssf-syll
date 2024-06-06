@@ -146,6 +146,13 @@ June 7, 2024
 ### 9:00 AM Check-In (DMCL)
 
 ### 9:30 AM Review Previous DSSF Projects
+- 2017: [Visualizing College Women](https://digitalscholarship.brynmawr.edu/dssf17/index.html)
+- 2018: [Bryn Mawr History of Women in Science](https://digitalscholarship.brynmawr.edu/howis/)
+- 2019: [Journeyways to the West](https://digitalscholarship.brynmawr.edu/journeyways/index.html)
+- 2020: ['24 '31 Students Study Race](https://digitalscholarship.brynmawr.edu/24-31/exhibits/show/about-project/24-31)
+- 2021: [Text Mining *The College News*](https://digitalscholarship.brynmawr.edu/collegenews/)
+- 2022: [Critical Web Design Toolkit](https://digbmc.github.io/cwd-toolkit/)
+- 2023: [The Reactor Room](https://digitalscholarship.brynmawr.edu/reactor-room/)
 
 ### 10:00 AM Site Building
 
