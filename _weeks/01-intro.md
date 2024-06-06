@@ -95,7 +95,7 @@ June 5, 2024
 ### 9:00 AM Check-In (DMCL)
 
 ### 9:30 AM HTML Workshop (Sean)
-- [Introduction to HTML packet](../resources/POGIL_HTML_Introduction.pdf)
+- [Introduction to HTML packet](../resources/dssf-html.pdf)
 
 ### 10:30 AM Accessibility Workshop (Guild Conference Room)
 - [Accessibility basics slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/gcipressi_brynmawr_edu/ERuA_1EbcOlNo6cPD-1pn-wBJe05WdVCZw_eYN2pFpbBeg?wdLOR=c70B476B4-5F02-AD4F-A81F-CAB3BC07F0A4)
@@ -106,7 +106,7 @@ June 5, 2024
 Staff Picnic & Awards, Sunken Garden
 
 ### 2:00 PM CSS Workshop (Sean)
-- [Introduction to CSS packet](../resources/POGIL-CSS-Introduction.pdf)
+- [Introduction to CSS packet](../resources/dssf-css.pdf)
 
 ### 3:30 PM  HTML/CSS Sandbox
 
