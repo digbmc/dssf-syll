@@ -107,6 +107,7 @@ Staff Picnic & Awards, Sunken Garden
 
 ### 2:00 PM CSS Workshop (Sean)
 - [Introduction to CSS packet](../resources/dssf-css.pdf)
+- [Introduction to JS Slides](../resources/dssf-js.pdf)
 
 ### 3:30 PM  HTML/CSS Sandbox
 
