@@ -145,9 +145,11 @@ June 7, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
-### 9:30 AM Site Building
+### 9:30 AM Review Previous DSSF Projects
 
-### 10:30 AM Workshopping & Demos
+### 10:00 AM Site Building
+
+### 11:00 AM Workshopping & Demos
 
 ### 12:00 PM Lunch Break
 
