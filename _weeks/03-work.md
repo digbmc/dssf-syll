@@ -16,6 +16,7 @@ June 17, 2024
 ### 9:00 AM Check-In (DMCL)
 
 ### 12:00 PM Lunch Break
+Food Truck Fest, between Taylor and Great Hall
 
 ### 1:00 PM ...
 
@@ -81,4 +82,4 @@ June 21, 2024
 - What was challenging?
 - What questions do you still have / What will you do to improve next week?
 
-[<<< Last week](02-data) | [Next week >>>](04-work)
+[<< Last week](02-data) | [Next week >>](04-work)
