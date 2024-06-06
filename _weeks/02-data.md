@@ -31,6 +31,8 @@ June 10, 2024
 - What was challenging?
 - What questions do you still have / What will you do to improve tomorrow?
 
+\* Reminder: bring headphones to use for the project meeting tomorrow!
+
 ---
 
 ## Tuesday
@@ -132,4 +134,4 @@ June 14, 2024
 - What questions do you still have / What will you do to improve next week?
 
 
-[<<< Last week](01-intro) | [Next week >>>](03-work)
+[<< Last week](01-intro) | [Next week >>](03-work)
