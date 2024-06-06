@@ -159,7 +159,16 @@ June 7, 2024
 
 ### 10:00 AM Site Building
 
-### 11:00 AM Workshopping & Demos
+### 10:30 AM Demos
+- 5 min: Present your wireframe and current website (it doesn't need to be finished or perfect!)
+  - Note one element that you are particularly proud of
+  - Note one "tricky" element that still needs some work (what feedback or assistance would be helpful?)
+- 5 min: Basic feedback from the group
+  - Let the presenter know what's exciting about their work
+  - Volunteer to help with something during the workshop session
+ 
+### 11:30 AM Workshopping
+- Work in small or large groups to troubleshoot the "tricky" elements from the demos
 
 ### 12:00 PM Lunch Break
 
