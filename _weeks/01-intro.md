@@ -172,7 +172,7 @@ June 7, 2024
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM  Site Building, 1-on-1 Meetings
+### 1:00 PM  Site Building, Informal Workshopping, 1-on-1 Meetings
 
 ### 4:30 PM Reflections & Weekly Forecast
 - What went well?
