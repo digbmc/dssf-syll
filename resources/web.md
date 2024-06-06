@@ -17,7 +17,7 @@ title: Web Publishing Resources
 ### GitHub Pages and Jekyll
 
 - GitHub pages basics - [GitHub Pages Tutorial](https://docs.github.com/en/pages/quickstart)
-- Install Jekyll & set up in VS Code - [Jekyll tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) & [Installation instructions](https://jekyllrb.com/docs/installation/) and 
+- Install Jekyll & set up in VS Code - [Jekyll tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) and [Installation instructions](https://jekyllrb.com/docs/installation/)
 
 
 ## Domain of One's Own
