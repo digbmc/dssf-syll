@@ -24,7 +24,7 @@ June 10, 2024
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM  Working with (Non-Scholarly) Data (Laura Surtees)
+### 1:00 PM  Finding and evaluating Non-Scholarly Sources (Laura Surtees)
 
 ### 2:45 PM  Finding Datasets (Alyssa Pivirotto)
 
@@ -70,8 +70,9 @@ June 12, 2024
 ### 9:00 AM Check-In (DMCL)
 
 ### 9:30 AM Digital Exhibitions & Collections (Alice)
-- Platforms & tools
-- Metadata and using media
+
+- [Digital Exhibitions Workshop Slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EaklqJJapcNPhgpTP4VrA6ABJMI5i25idCRv_Z3E5yFuqA?e=5s2cxe)
+
 
 ### 12:00 PM Lunch Break
 
