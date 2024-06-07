@@ -6,7 +6,8 @@ public: true
 ---
 
 ## Resources of Interest
-- [*Data Feminism*](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren F. Klein 
+- [*Data Feminism*](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren F. Klein
+- [Tools for Digital Scholarship](../resources/tools.md)
 
 ---
 
@@ -16,6 +17,7 @@ June 10, 2024
 ### 9:00 AM Check-in (DMCL)
 
 ### 9:30 AM Architectural Plans & Graphic Notation (Zoom; Min Lee)
+- Reading: Picon, Antoine. "Nineteenth-century Urban Cartography and the Scientific Ideal: The Case of Paris." *Osiris* 2nd series, Vol. 18, Science and the City (2023), pp. 135-149. [Link to reading on OneDrive](https://brynmawr-my.sharepoint.com/:b:/g/personal/amcgrath1_brynmawr_edu/EQ4b2up03mhEohWxOhBDqNEBDtJYK1QPZBrWrC4M3yoy-A?e=oVFdx2)
 
 ### 10:30 AM Open Refine (Alice)
 - [Tidy(ish) Data Workshop](https://github.com/tri-cods/tidy-data)
@@ -24,7 +26,7 @@ June 10, 2024
 
 ### 1:00 PM  Working with (Non-Scholarly) Data (Laura Surtees)
 
-### 2:30 PM  Exploring Datasets
+### 2:45 PM  Finding Datasets (Alyssa Pivirotto)
 
 ### 4:30 PM Reflections
 - What went well?

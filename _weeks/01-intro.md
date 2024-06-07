@@ -178,6 +178,7 @@ June 7, 2024
 
 ### 1:00 PM  Site Building, Informal Workshopping
 - 1-on-1 meetings from 1:00 - 3:00 pm (Alice)
+- Reading: Picon, Antoine. "Nineteenth-century Urban Cartography and the Scientific Ideal: The Case of Paris." *Osiris* 2nd series, Vol. 18, Science and the City (2023), pp. 135-149. [Link to reading on OneDrive](https://brynmawr-my.sharepoint.com/:b:/g/personal/amcgrath1_brynmawr_edu/EQ4b2up03mhEohWxOhBDqNEBDtJYK1QPZBrWrC4M3yoy-A?e=oVFdx2)
 
 ### 4:30 PM Reflections & Weekly Forecast
 - What went well?
