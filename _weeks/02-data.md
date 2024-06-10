@@ -97,12 +97,13 @@ June 13, 2024
 ### 9:00 AM Check-In (DMCL)
 
 ### 9:30 AM Thinking About Webmaps
-- What is a map?
-- What is a webmap?
-- Find some examples
+- What is a map? Whose perspective and stories does a map represent?
+- What is a webmap? Explore [OpenMaps Philadelphia](https://openmaps.phila.gov/) and [Mural Arts Philadelphia](https://publicartarchive.org/collections/Mural-Arts-Philadelphia?mapShow=true)
+- How might webmaps be used to help tell the story of Germantown and the YWCA?
 
-### 10:30 AM Exploring Webmapping
-- [GoogleMaps](https://www.google.com/maps/about/mymaps/)
+### 10:00 AM Exploring Webmapping with [GoogleMaps](https://www.google.com/maps/about/mymaps/)
+- Intro to GoogleMaps: [Programming Historian Tutorial](https://programminghistorian.org/en/lessons/googlemaps-googleearth) (Stop at the GoogleEarth section!)
+- Make your own map of Philadelphia that's aligned with your interests (art museusms and public art; vegan restaurants; craft stores and yarn shops, etc.)
 
 ### 11:30 AM Discussion
 
@@ -110,6 +111,7 @@ June 13, 2024
 
 ### 1:00 PM Webmapping with Leaflet (Stella)
 - [Leaflet Tutorial](https://sfritzell.github.io/Leaflet-Tutorial/)
+- Some [local historic places](https://www.phila.gov/media/20230406094939/Interiors-Objects-Structures-Sites-4-6-2023.pdf)
 
 ### 2:30 PM Webmapping Sandbox
 
