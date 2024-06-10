@@ -106,6 +106,9 @@ June 13, 2024
 - Make your own map of Philadelphia that's aligned with your interests (art museusms and public art; vegan restaurants; craft stores and yarn shops, etc.)
 
 ### 11:30 AM Discussion
+- When building your map, what information did you find?
+- Was there a specific story told that emerged when you created your map?
+- What conclusions did you reach from mapping the data?
 
 ### 12:00 PM Lunch Break
 
