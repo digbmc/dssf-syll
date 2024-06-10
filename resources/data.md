@@ -3,8 +3,6 @@ layout: page
 title: Data Visualization
 ---
 
-14 June 2023
-
 ## What makes a good data viz?
 
 - What message does it convey?
@@ -91,11 +89,13 @@ See also [blog post by Kate Elswit and Harmony Bench](https://www.dunhamsdata.or
 ### Collecting
 - How many countries and US states have you lived in? For how long?
 - List all the locations, with the approximate number of years you have lived there
-- Add your name, each location, and the number of years to [this excell sheet](https://brynmawr.sharepoint.com/:x:/s/dssf/EUkTDIyekKxMmwkVKc4QoyQBmbGNDN1-e7j6KtlIkLjjyA?e=eMmAyo)
+- Add your name, each location, and the number of years to the excel spreadsheet for this workshop: [dataviz-workshop-locations-6-11-24.xlsx](https://brynmawr.sharepoint.com/:x:/s/dssf/Ea_LDDkLvNpEgEY1RMrkJqAB_t3qyf3C5bEOeDLxjtKbsw?e=WYtzjx)
 
 ### Drawing
-- In groups of 3: draw this dataset, however you like
-- 2 different versions
+
+- In groups of 2: draw visual representations of this dataset
+- Design it however you like
+- Aim to create two different versions
 
 ## Resources
 
