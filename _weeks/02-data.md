@@ -27,6 +27,8 @@ June 10, 2024
 ### 1:00 PM  Finding and evaluating Non-Scholarly Sources (Laura Surtees)
 
 ### 2:45 PM  Finding Datasets (Alyssa Pivirotto)
+- [Identifying Data Resources](../resources/data_identification.pdf)
+- [Company Survey Example](https://brynmawr-my.sharepoint.com/:x:/g/personal/apivirotto_brynmawr_edu/EYQ7xpx1HO1ElqhtERko3ukBrqpdNH058yAzHgEjL4cBvQ?e=hYJaVk)
 
 ### 4:30 PM Reflections
 - What went well?
