@@ -71,10 +71,14 @@ June 12, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
-### 9:30 AM Digital Exhibitions & Collections (Alice)
+### 9:15 AM Digital Exhibitions & Collections (Alice)
 
 - [Digital Exhibitions Workshop Slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EaklqJJapcNPhgpTP4VrA6ABJMI5i25idCRv_Z3E5yFuqA?e=5s2cxe)
 
+### 11:00 AM Personal sites and embedding resources
+- Reviewing web publishing conventions: filenaming, git, file types, links, etc.
+- How to embed timelines & other resources
+- Time to work on sites
 
 ### 12:00 PM Lunch Break
 
@@ -83,6 +87,8 @@ June 12, 2024
 - Collection Builder tutorial: [GitHub Walkthrough](https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/gh-walkthrough/)
 
 ### 3:00 PM Exhibitions & Collections Sandbox
+
+- Work on developing a small exhibit using [TimelineJS](https://timeline.knightlab.com/), [Exhibit.so](https://www.exhibit.so/), or [CollectionBuilder](https://collectionbuilder.github.io/).
 
 ### 4:30 PM Reflections
 - What went well?
