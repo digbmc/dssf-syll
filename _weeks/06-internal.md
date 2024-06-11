@@ -15,6 +15,8 @@ July 8, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 10:00 AM Zoom Demo Presentation
+
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM ...
