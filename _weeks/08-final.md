@@ -46,6 +46,8 @@ July 24, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 10:00 AM Final Presentation (Germantown)
+
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM ...
@@ -64,7 +66,7 @@ July 25, 2024
 
 ### 12:00 PM Lunch Break
 
-### 2:00 PM Final Project Presentation (Germantown Y)
+### 1:00 PM ...
 
 ### 4:30 PM Reflections
 - What went well?
