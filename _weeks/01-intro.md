@@ -12,7 +12,7 @@ public: true
 ## Resources of Interest
 - [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
 - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&t=3s)
-- [Web publishing resources](../resources/web.md)
+- [Web publishing resources](../resources/web)
 
 ---
 
