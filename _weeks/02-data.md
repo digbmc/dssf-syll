@@ -7,7 +7,7 @@ public: true
 
 ## Resources of Interest
 - [*Data Feminism*](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren F. Klein
-- [Tools for Digital Scholarship](../resources/tools.md)
+- [Tools for Digital Scholarship](../resources/tools)
 
 ---
 
