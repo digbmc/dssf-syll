@@ -29,9 +29,9 @@ June 3, 2024
 
 ### 10:30 AM Program Overview
 - Syllabus
-- Discuss [program expectations](../expectations.md)
+- Discuss [program expectations](../expectations)
 - Timesheet Procedures
-- Setting [SMART Goals](../resources/smart-goals.md)
+- Setting [SMART Goals](../resources/smart-goals)
 
 ### 11:30 AM Installations & Account Set-up
 - Microsoft Teams
