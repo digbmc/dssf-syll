@@ -15,7 +15,7 @@ June 17, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
-### 9:30 AM Get Aquainted with Research Folder 
+### 9:30 AM Get Acquainted with Research Folder 
 
 ### 12:00 PM Lunch Break
 Food Truck Fest, between Taylor and Great Hall
@@ -39,6 +39,8 @@ June 18, 2024
 ### 9:30 AM Begin Wireframing Website 
 
 ### 12:00 PM Germantown Y Site Visit
+(lunch included, make sure to bring a water bottle!)
+
 
 ### 4:30 PM Reflections
 - What went well?
