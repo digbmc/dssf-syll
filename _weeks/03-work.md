@@ -77,6 +77,8 @@ June 21, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 11:00 AM Meeting with Ann over Zoom
+
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM ...
