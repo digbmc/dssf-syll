@@ -15,10 +15,14 @@ June 17, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 9:30 AM Get Aquainted with Research Folder 
+
 ### 12:00 PM Lunch Break
 Food Truck Fest, between Taylor and Great Hall
 
-### 1:00 PM ...
+### 1:00 PM File Restructuring of Research Folder
+
+### 2:00 PM Charter Review + Deliverables
 
 ### 4:30 PM Reflections
 - What went well?
