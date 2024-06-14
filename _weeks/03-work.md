@@ -36,11 +36,9 @@ June 18, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
-### 11:00 AM Germantown Y Project Meeting (Zoom)
+### 9:30 AM Begin Wireframing Website 
 
-### 12:00 PM Lunch Break
-
-### 2:00 PM Germantown Y Site Visit
+### 12:00 PM Germantown Y Site Visit
 
 ### 4:30 PM Reflections
 - What went well?
