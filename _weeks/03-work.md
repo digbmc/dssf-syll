@@ -6,7 +6,7 @@ public: true
 ---
 
 ## Resources of Interest
-- ...
+- Primary and secondary sources in OneDrive folder (linked in teams)
 
 ---
 
