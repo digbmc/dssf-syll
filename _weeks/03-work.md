@@ -38,11 +38,22 @@ June 18, 2024
 
 ### 9:30 AM Begin Wireframing Website 
 
-### 12:00 PM Germantown Y Site Visit
+### 12:00 PM Break
+
+### 12:45 PM Depart for Germantown Y Site Visit - Meet at PemArch
 (lunch included, make sure to bring a water bottle!)
 
+### 1:30 PM Arrival at Center in the Park
 
-### 4:30 PM Reflections
+5818 Germantown Avenue Philadelphia, PA 19144
+
+- Lunch at Center in the Park 
+
+### 2:30 PM Walking tour
+
+### 4 PM Wrap-up and return to campus
+
+### 4:30 PM Reflections (if time)
 - What went well?
 - What was challenging?
 - What questions do you still have / What will you do to improve tomorrow?
