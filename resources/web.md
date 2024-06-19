@@ -17,6 +17,11 @@ title: Web Publishing Resources
 
 - FreeCodeCamp [Intro to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8#learn-introductory-javascript-by-building-a-pyramid-generator)
 
+### Git
+-  [W3 Git Tutorial](https://www.w3schools.com/git/default.asp)
+-  GitHub Docs on [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) - useful for understanding branches and collaboration
+- CodeAcademy [Cheatsheet for Git Teamwork](https://www.codecademy.com/learn/learn-git-branching-and-collaboration/modules/git-teamwork/cheatsheet)
+
 ---
 ## Design
 
@@ -69,6 +74,9 @@ title: Web Publishing Resources
 
 ---
 ## Other Front-end Tools and Resources
-- [Bootstrap](https://getbootstrap.com/)
+
+- [Bootstrap](https://getbootstrap.com/) (NB: Collection Builder uses Bootstrap 5)
+  - [W3 guide to Bootstrap 5](https://www.w3schools.com/bootstrap5/index.php)
 - [W3 Schools Responsive Web Design Guide](https://www.w3schools.com/html/html_responsive.asp)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+  
