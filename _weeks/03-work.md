@@ -72,9 +72,11 @@ June 20, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 9:30 AM Project Work
+
 ### 12:00 PM Lunch Break
 
-### 1:00 PM  ...
+### 1:00 PM  Project Work
 
 ### 4:30 PM Reflections
 - What went well?
@@ -88,11 +90,13 @@ June 21, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 9:30 AM Project Work
+
 ### 11:00 AM Meeting with Ann over Zoom
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM ...
+### 1:00 PM Project Work
 
 ### 4:30 PM Reflections & Weekly Forecast
 - What went well?
