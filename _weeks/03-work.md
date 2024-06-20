@@ -98,6 +98,10 @@ June 21, 2024
 
 ### 1:00 PM Project Work
 
+### 2:00 PM  ArcGIS Workshop
+
+### 3:30 PM  Project Work
+
 ### 4:30 PM Reflections & Weekly Forecast
 - What went well?
 - What was challenging?
