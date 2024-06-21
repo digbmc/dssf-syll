@@ -99,6 +99,8 @@ June 21, 2024
 ### 1:00 PM Project Work
 
 ### 2:00 PM  ArcGIS Workshop
+- [ArcGIS Workshop slides](https://docs.google.com/presentation/d/1EXgSaXIabw35wqleVKGCmRmQJmBqSLKhQyaSxQ9MAsQ/edit?usp=sharing)
+- [ArcGIS Workshop data & materials](https://drive.google.com/drive/folders/1MKF8QoDj0tNvb6t10Rfxnh0arSzQr79y?usp=sharing)
 
 ### 3:30 PM  Project Work
 
