@@ -3,7 +3,14 @@ layout: page
 title: Web Publishing Resources
 ---
 
----
+## Contents
+{:.no_toc}
+
+- list
+{:toc}
+
+--- 
+
 ## Development
 
 ### HTML & CSS
