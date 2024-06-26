@@ -17,7 +17,7 @@ July 1, 2024
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM ...
+### 1:00 PM Metadata and Digital Archiving with Jessica Bright
 
 ### 4:30 PM Reflections
 - What went well?
