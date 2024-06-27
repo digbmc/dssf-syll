@@ -19,6 +19,10 @@ July 8, 2024
 
 ### 10:00 AM Zoom Demo Presentation
 
+### 11:30 AM Post-Presentation Discussion
+- Review presentation: what went well, what could be better?
+- Review project milestones and goals in light of feedback
+
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Project Work
@@ -36,6 +40,7 @@ July 9, 2024
 ### 9:00 AM Check-In (DMCL)
 
 ### 9:30 AM Project Work
+- Adapt project presentation for Haverford Intern meetup
 
 ### 10:30 AM Meetup with Haverford Interns
 
