@@ -15,11 +15,13 @@ July 8, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 9:30 AM Presentation Prep
+
 ### 10:00 AM Zoom Demo Presentation
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM ...
+### 1:00 PM Project Work
 
 ### 4:30 PM Reflections
 - What went well?
@@ -33,13 +35,13 @@ July 9, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
-### 9:30 AM ...
+### 9:30 AM Project Work
 
 ### 10:30 AM Meetup with Haverford Interns
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM ...
+### 1:00 PM Project Work
 
 ### 4:30 PM Reflections
 - What went well?
@@ -53,9 +55,11 @@ July 10, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 9:30 AM Project Work
+
 ### 12:00 PM Lunch Break
 
-### 1:00 PM ...
+### 1:00 PM Project Work
 
 ### 4:30 PM Reflections
 - What went well?
@@ -69,9 +73,11 @@ July 11, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 9:30 AM Project Work
+
 ### 12:00 PM Lunch Break
 
-### 1:00 PM  ...
+### 1:00 PM  Project Work
 
 ### 4:30 PM Reflections
 - What went well?
@@ -85,9 +91,11 @@ July 12, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 9:30 AM Project Work
+
 ### 12:00 PM Lunch Break
 
-### 1:00 PM ...
+### 1:00 PM Project Work
 
 ### 4:30 PM Reflections & Weekly Forecast
 - What went well?
