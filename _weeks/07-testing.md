@@ -10,9 +10,11 @@ July 15, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 9:30 AM Project Work
+
 ### 12:00 PM Lunch Break
 
-### 1:00 PM ...
+### 1:00 PM Project Work
 
 ### 4:30 PM Reflections
 - What went well?
@@ -26,11 +28,13 @@ July 16, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 9:30 AM Project Work
+
 ### 11:00 AM Germantown Y Project Meeting (Zoom)
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM ...
+### 1:00 PM Project Work
 
 ### 4:30 PM Reflections
 - What went well?
@@ -44,9 +48,11 @@ July 17, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 9:30 AM Project Work
+
 ### 12:00 PM Lunch Break
 
-### 1:00 PM ...
+### 1:00 PM Project Work
 
 ### 4:30 PM Reflections
 - What went well?
@@ -60,9 +66,11 @@ July 18, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 9:30 AM Project Work
+
 ### 12:00 PM Lunch Break
 
-### 1:00 PM  ...
+### 1:00 PM  Project Work
 
 ### 4:30 PM Reflections
 - What went well?
@@ -76,9 +84,11 @@ July 19, 2024
 
 ### 9:00 AM Check-In (DMCL)
 
+### 9:30 AM Project Work
+
 ### 12:00 PM Lunch Break
 
-### 1:00 PM ...
+### 1:00 PM Project Work
 
 ### 4:30 PM Reflections & Weekly Forecast
 - What went well?
