@@ -26,6 +26,7 @@ July 8, 2024
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Project Work
+- 1-3 pm: [Ice Cream Gathering](https://www.brynmawr.edu/inside/latest/events/ice-cream-truck-president-cadge) @ Canaday Plaza with President Wendy Cadge
 
 ### 4:30 PM Reflections
 - What went well?
