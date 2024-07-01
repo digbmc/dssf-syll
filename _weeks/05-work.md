@@ -21,7 +21,7 @@ July 1, 2024
 
 ### 1:00 PM Metadata and Digital Archiving (Jessica Bright)
 
-### Project Work
+### 2:00 PM Project Work
 
 ### 4:30 PM Reflections
 - What went well?
