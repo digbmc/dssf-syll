@@ -12,6 +12,8 @@ July 15, 2024
 
 ### 9:30 AM Project Work
 
+### 11:00 AM Discussion on UI/UX Testing
+
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Project Work
@@ -71,6 +73,8 @@ July 18, 2024
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM  Project Work
+
+### 2:00 PM UI/UX Testing with DTI Fellows
 
 ### 4:30 PM Reflections
 - What went well?
