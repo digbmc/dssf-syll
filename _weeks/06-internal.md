@@ -63,6 +63,8 @@ July 10, 2024
 
 ### 9:30 AM Project Work
 
+### 11:00 AM Discussion on Documentation Practices
+
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Project Work
