@@ -6,7 +6,7 @@ public: true
 ---
 
 ## Resources of Interest
-- ...
+- [Workshop slides: Metadata and Digital Archiving](../resources/Metadata_DigitalCollections_DSSF_2024.pdf) by Jessica Bright
 
 ---
 
@@ -20,7 +20,7 @@ July 1, 2024
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Metadata and Digital Archiving (Jessica Bright)
-- [Workshop slides](../resources/Metadata_DigitalCollections_DSSF_2024.pptx)
+- [Workshop slides](../resources/Metadata_DigitalCollections_DSSF_2024.pdf)
 
 ### 2:00 PM Project Work
 

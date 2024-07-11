@@ -6,7 +6,7 @@ public: true
 ---
 
 ## Resources of Interest
-- ...
+
 
 ---
 
