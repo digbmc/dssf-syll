@@ -65,6 +65,7 @@ July 10, 2024
 
 ### 11:00 AM Discussion on Documentation Practices
 
+
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Project Work
@@ -86,6 +87,11 @@ July 11, 2024
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM  Project Work
+
+### 3:00 PM Tech Meeting (DMCL)
+- CB site architecture
+- Making it easier for people to add content
+- Troubleshooting tips
 
 ### 4:30 PM Reflections
 - What went well?
