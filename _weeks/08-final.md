@@ -60,10 +60,7 @@ July 24, 2024
 
 ### 1:30 PM Project Work
 
-### 4:30 PM Reflections
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
+### 4:00 PM Professional Development Work Session
 
 ---
 
@@ -78,10 +75,7 @@ July 25, 2024
 
 ### 1:00 PM Project Work
 
-### 4:30 PM Reflections
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
+### 4:00 PM Create a Blog Post
 
 ---
 
