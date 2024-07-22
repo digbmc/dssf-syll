@@ -16,10 +16,8 @@ July 22, 2024
 
 ### 1:00 PM Project Work
 
-### 4:30 PM Reflections
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
+### 4:30 PM Write up bio and send us photo of you for Digital Scholarship website
+Examples: https://digitalscholarship.blogs.brynmawr.edu/people-past/
 
 ---
 
