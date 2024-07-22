@@ -75,10 +75,16 @@ July 25, 2024
 
 ### 4:00 PM Write a reflection of your summer
 
--What did you enjoy about the fellowship?
--What was challening?
--What was something interesting you learned about?
--How do you think it went overall?
+Questions you can answer:
+- What did you come into this fellowships knowing?
+- What did you learn during these past few weeks?
+- What did you enjoy about the fellowship?
+- What was challening?
+- What was it like working on a project for 8 weeks straight?
+- How did your section of the website evolve over time?
+- What one (or many) things you particularly want people to notice when they look at your work?
+- How do you think it went overall?
+- What skills from this fellowship do you think will help you out in the future?
 
 ---
 
