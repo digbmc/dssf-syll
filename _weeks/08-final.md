@@ -73,7 +73,12 @@ July 25, 2024
 
 ### 1:00 PM Project Work
 
-### 4:00 PM Create a Blog Post
+### 4:00 PM Write a reflection of your summer
+
+-What did you enjoy about the fellowship?
+-What was challening?
+-What was something interesting you learned about?
+-How do you think it went overall?
 
 ---
 
