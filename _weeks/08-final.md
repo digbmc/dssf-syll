@@ -34,7 +34,7 @@ July 23, 2024
 
 ### 1:00 PM Project Work
 
-### 2:30 PM LITS Summer Gathering (TBD)
+### 2:30 PM LITS Summer Gathering (Cloisters)
 
 ### 4:30 PM Reflections
 - What went well?
