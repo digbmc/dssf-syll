@@ -15,13 +15,13 @@ The Digital Scholarship Summer Fellows (DSSF) program is a paid, full-time summe
 
 ### Program Mentors
 
-Alice McGrath - Senior Digital Scholarship Specialist
+Alice McGrath - Senior Digital Scholarship Specialist (LITS)
 
-Stella Fritzell - Digital Scholarship Graduate Assistant
+Stella Fritzell - Digital Scholarship Graduate Assistant (Classics)
 
-Sean Keenan - Educational Technology Specialist
+Sean Keenan - Educational Technology Specialist (LITS)
 
-Cameron Boucher - Educational & Scholarly Technology Specialist
+Cameron Boucher - Educational & Scholarly Technology Specialist (LITS)
 
 ### Project Mentors
 
@@ -29,7 +29,7 @@ Min Kyung Lee - Associate Professor of Growth and Structure of Cities
 
 Ann Doley - Friends of the Germantown YWCA
 
-Liv Raddatz - Director of Praxis
+Liv Raddatz - Senior Associate Director of Praxis (Bryn Mawr CEP)
 
 ### Fellows
 
