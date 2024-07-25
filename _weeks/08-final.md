@@ -65,16 +65,7 @@ July 24, 2024
 ## Thursday
 July 25, 2024
 
-### 9:00 AM Check-In (DMCL)
-
-### 9:30 AM Project Work
-
-### 12:00 PM Lunch Break
-
-### 1:00 PM Project Work
-
-### 4:00 PM Write a reflection of your summer
-
+### Daily to-do: write a reflection on the summer
 Questions you can answer (try answering most, but don't feel like you have to answer all of them):
 - What did you come into this fellowship knowing?
 - What did you learn during these past few weeks?
@@ -85,6 +76,17 @@ Questions you can answer (try answering most, but don't feel like you have to an
 - What one (or many) things you particularly want people to notice when they look at your work?
 - How do you think it went overall?
 - What skills from this fellowship do you think will help you out in the future?
+
+### 9:00 AM Check-In (DMCL)
+
+### 9:30 AM Project Work
+
+### 12:00 PM Lunch Break
+
+### 1:00 PM Project Work
+
+### 4:00 PM Professional Development Discussion
+- Review / workshop materials from the resume handout
 
 ---
 
