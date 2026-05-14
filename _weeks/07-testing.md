@@ -2,7 +2,7 @@
 layout: week
 title: Project Work & User Testing
 dates: July 15-19
-public: true
+public: false
 ---
 
 ## Monday

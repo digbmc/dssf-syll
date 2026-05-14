@@ -2,7 +2,7 @@
 layout: week
 title: Project Work
 dates: July 1-5
-public: true
+public: false
 ---
 
 ## Resources of Interest
