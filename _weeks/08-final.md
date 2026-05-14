@@ -2,7 +2,7 @@
 layout: week
 title: Project Work & Final Presentations
 dates: July 22-26
-public: true
+public: false
 ---
 
 ## Monday

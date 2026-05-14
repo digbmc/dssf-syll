@@ -2,7 +2,7 @@
 layout: week
 title: Project Work & Internal Presentations
 dates: July 8-12
-public: true
+public: false
 ---
 
 ## Resources of Interest

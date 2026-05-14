@@ -22,3 +22,5 @@ exclude:
 collections:
   weeks:
     output: true
+  resources:
+    output: true

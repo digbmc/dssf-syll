@@ -2,7 +2,7 @@
 layout: week
 title: Project Work
 dates: June 24-28
-public: true
+public: false
 ---
 
 ## Resources of Interest
