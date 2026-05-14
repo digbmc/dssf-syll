@@ -17,60 +17,75 @@ public: true
 ---
 
 ## Monday
-June 3, 2024
+May 25, 2026
+
+*Holiday*
+
+---
+
+## Tuesday
+May 26, 2026
 
 ### 9:00 AM Welcome (Carpenter Library DMCL)
 - Introductions
 - Icebreaker/team-building activity
 
-### 9:30 AM What is Digital Scholarship (Alice)
-- Slides: [Digital Scholarship](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EZMYcvVDa0pGid-DiYQf90gBhr1iLLXUdMQ2RGklIwpt1Q?e=Dz1ys2)
-- Timeline JS/Storymaps activity using LoC Free to Reuse sets
+### 9:30 AM Introduction to the Paul Thomas Annotated Project (José)
 
-### 10:30 AM Program Overview
-- Syllabus
+- Project site: [Paul Thomas Annotated: In the Margins](https://ptannotated.com/)
+
+### 11:00 AM Program Overview
+- [Schedule](../schedule)
 - Discuss [program expectations](../expectations)
-- Timesheet Procedures
+- Time reporting instructions 
 - Setting [SMART Goals](../resources/smart-goals)
-
-### 11:30 AM Installations & Account Set-up
-- Microsoft Teams
-- Text editor: [Visual Studio Code](https://code.visualstudio.com/) - (see this [VS Code tutorial](https://code.visualstudio.com/docs/introvideos/basics) for how to set up)
-- Command line setup
-  - Mac users: install [xcode select using these instructions](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)
-  - PC users: download and install [git for windows](https://git-scm.com/downloads). Use the default settings.
-- Optional: install [GitHub Desktop](https://desktop.github.com/)
 
 ### 12:00 PM Lunch Break
 
-### 1:15 PM Project Management Workshop (Canaday 315)
-- With DTI Interns
+### 1:00 PM Intro to Digital Scholarship and IIIF (Alice)
 
-### 2:45 PM DSSF-DTI Meet-and-Greet (Canaday Staff Lounge, 1st Floor)
+- Slides: [Digital Scholarship](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EZMYcvVDa0pGid-DiYQf90gBhr1iLLXUdMQ2RGklIwpt1Q?e=Dz1ys2)
+- Intro to IIIF Data and Viewers
+- On your own: Timeline JS/Storymaps/Exhibit activity using LoC Free to Reuse sets
 
-### 3:30 PM Writting with Markdown & VS Code (Alice)
+### 2:30 PM Installations & Account Set-up
+
+- Slack: download app and join Digital Scholarship Slack Channel
+- Text editor: [Visual Studio Code](https://code.visualstudio.com/)
+- Git and command line tools setup - follow instructions in the [installation guide](../resources/installation)
+- Sign up for a [GitHub account](https://github.com/) and [sign up for the Student Developer Pack](https://education.github.com/pack)
+<!-- - Sign up for ACCESS? -->
+
+### 3:00 PM Computational Thinking
+
+- Read [Meredith Broussard, "Hellow, World"](https://direct.mit.edu/books/book/3671/chapter/122355/Hello-World) from *Artificial Unintelligence: How Computers Misunderstand the World* (MIT 2018) and follow instructions to do activity
+- Optional videos:
+  - [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
+  - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&t=3s)
+- Take notes and jot down your reflections
+
+### 4:00 PM Writting with Markdown & VS Code (Alice)
+
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
-- [DSSF Log site](https://laughing-adventure-mzmw737.pages.github.io/) - see [editing instructions](https://laughing-adventure-mzmw737.pages.github.io/instructions.html)
-- GitHub repo for Log site: [BMC-EAST/dssf-2024-log](https://github.com/BMC-EAST/dssf-2024-log)
+<!-- - [DSSF Log site](https://laughing-adventure-mzmw737.pages.github.io/) - see [editing instructions](https://laughing-adventure-mzmw737.pages.github.io/instructions.html)
+- GitHub repo for Log site: [BMC-EAST/dssf-2024-log](https://github.com/BMC-EAST/dssf-2024-log) -->
 
 ### 4:30 PM Reflections
+
 - What went well?
 - What was challenging?
 - What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
-## Tuesday
-June 4, 2024
+## Wednesday
+May 27, 2026
 
 ### 9:00 AM Check-In (DMCL)
 
 ### 9:30 AM Command Line (Alice)
 - [Introduction to the Command Line tutorial](https://digbmc.github.io/command-line/)
 
-### 11:00 AM Computing Videos
-- [How Computers Work](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
-- [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&t=3s)
 
 ### 12:00 PM Lunch Break
 
@@ -78,7 +93,7 @@ June 4, 2024
 - [Git Workshop Slides](https://alicemcgrath.digital.brynmawr.edu/pres/git-hub.html)
 - [Template repository on GitHub](https://github.com/digbmc/git-hub-ws)
 
-### 2:30 PM Introduction to the Germantown Y Project (Sean)
+
 
 ### 4:30 PM Reflections
 - What went well?
@@ -170,7 +185,7 @@ June 7, 2024
 5 min: Basic feedback from the group
 - Let the presenter know what's exciting about their work
 - Volunteer to help with something during the workshop session
- 
+
 ### 11:30 AM Workshopping
 - Work in small or large groups to troubleshoot the "tricky" elements from the demos
 

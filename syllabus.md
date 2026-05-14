@@ -1,35 +1,41 @@
 ---
 layout: default
-title: Syllabus
+title: Schedule
 ---
 
-## Week 1 (June 3-7) [Introduction to Digital Scholarship & Web Development](https://digbmc.github.io/dssf-syll/weeks/01-intro.html)
+## Week 1 (May 26-30) [Introduction to Digital Scholarship & Web Development]({{site.baseurl}}/weeks/01-intro)
 
 - Intro to Digital Scholarship (Alice)
-- Project Management (Jenny Spohrer)
+- Introduction to Paul Thomas Annotated project (José)
 - Markdown, Command Line, Git & GitHub (Alice)
-- Accessibility (Grace Cipressi & Lily)
-- HTML/CSS (Sean)
-- Web Design Basics (Cameron)
-- Web Deployment (Alice)
+- Accessibility
+- HTML/CSS 
+- Web Design Basics
+- Web Deployment 
 
-## Week 2 (June 10-14) [Working with & Visualizing Data](https://digbmc.github.io/dssf-syll/weeks/02-data.html)
+## Week 2 (June 1-5) [Working with & Visualizing Data]({{site.baseurl}}/weeks/02-data)
 
 - Open Refine (Alice)
-- The Germantown Y Project
-- Voyant (Stella)
-- Leaflet (Stella)
-- ArcGIS
+- Data visualization (Alyssa)
+- Computer Vision (Alyssa)
+- Critical AI
+- Web Mapping (Tessa)
 - Collection Builder (Alice)
 
-## Week 3 (June 17-21) Project Work
+## Week 3 (June 8-11) Project Work
 
-## Week 4 (June 24-28) Project Work
+## Week 4 (June 15-18) Project Work
+- *Friday, June 19 is a holiday*
 
-## Week 5 (July 1-5) Project Work
+## Week 5 (June 22-25) Project Work
+- ACH Conference: June 24-25
+  
+## Week 6 (June 29-July 2) Project Work
 
-## Week 6 (July 8-12) Project Work & Interal Presentations
+- *Friday, July 3 is a holiday*
 
-## Week 7 (July 15-19) Project Work & User Testing
+## Week 7 (July 6-10) Project Work & Internal Presentations
 
-## Week 8 (July 22-26) Project Work & Final Presentations
+- TriCo Digital Scholarship Meet-up: Tuesday, July 7 at Haverford College
+
+## Week 8 (July 13-17) Project Wrap-up
