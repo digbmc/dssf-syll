@@ -1,7 +1,7 @@
 ---
 layout: week
 title: Introduction to Digital Scholarship & Web Development
-dates: June 3-7
+dates: May 26-29, 2026
 public: true
 ---
 

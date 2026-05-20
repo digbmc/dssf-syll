@@ -24,3 +24,5 @@ collections:
     output: true
   resources:
     output: true
+  # sessions:
+  #   output: true

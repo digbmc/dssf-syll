@@ -1,7 +1,7 @@
 ---
 layout: week
 title: Working with & Visualizing Data
-dates: June 10-14
+dates: June 1-5, 2026
 public: true
 ---
 
