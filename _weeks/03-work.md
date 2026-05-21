@@ -1,7 +1,7 @@
 ---
 layout: week
 title: Project Work
-dates: June 17-21
+dates: June 8-12
 public: false
 ---
 
