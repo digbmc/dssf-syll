@@ -67,14 +67,11 @@ May 26, 2026
 ### 4:00 PM Writting with Markdown & VS Code (Alice)
 
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
-<!-- - [DSSF Log site](https://laughing-adventure-mzmw737.pages.github.io/) - see [editing instructions](https://laughing-adventure-mzmw737.pages.github.io/instructions.html)
-- GitHub repo for Log site: [BMC-EAST/dssf-2024-log](https://github.com/BMC-EAST/dssf-2024-log) -->
 
 ### 4:30 PM Reflections
 
 - What went well?
 - What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
@@ -85,7 +82,6 @@ May 27, 2026
 
 ### 9:30 AM Command Line (Alice)
 - [Introduction to the Command Line tutorial](https://digbmc.github.io/command-line/)
-
 
 ### 12:00 PM Lunch Break
 
@@ -99,7 +95,6 @@ May 27, 2026
 ### 4:30 PM Reflections
 - What went well?
 - What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
@@ -129,7 +124,6 @@ May 28, 2026
 ### 4:30 PM Reflections
 - What went well?
 - What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
 
 ---
 
@@ -137,24 +131,25 @@ May 28, 2026
 May 29, 2026
 
 ### 9:00 AM Check-In (DMCL)
+- Working on sites
 
-### 9:30 AM Web Accessibility 
+### 10:00 AM Project Management Workshop (Jenny Spohrer)
+- Location TBD
 
-### 10:30 AM Work on your sites
+### 11:30 AM Web Accessibility Basics (Alice)
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Workshopping
-5 min: Present your wireframe and current website (it doesn't need to be finished or perfect!)
-- Note one element that you are particularly proud of
-- Note one "tricky" element that still needs some work (what feedback or assistance would be helpful?)
+### 1:00 PM Working on websites
 
-5 min: Basic feedback from the group
-- Let the presenter know what's exciting about their work
-- Volunteer to help with something during the workshop session
+### 3:00 PM Demo websites
 
-### 2:30 PM Work on sites
-- Work on your own or in small groups to continue working on your websites.
+- Present your wireframe and current website (it doesn't need to be finished or perfect!)
+  - Note one element that you are particularly proud of
+  - Note one "tricky" element that still needs some work (what feedback or assistance would be helpful?)
+  - Feedback/troubleshooting
+- Work on your own or in small groups to continue working on your websites
+- Make sure your most up-to-date version is live on the web by 4:15
 
 ### 4:30 PM Reflections
 
