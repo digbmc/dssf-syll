@@ -5,22 +5,14 @@ dates: May 26-29, 2026
 public: true
 ---
 
-![a cat in a valkyrie helmet](https://tile.loc.gov/storage-services/service/pnp/ppmsca/51500/51533r.jpg)
 
-"Brünhilde", Adolph Edward Weidhaas (1936), from [Library of Congress, ppmsca 51533](https://www.loc.gov/resource/ppmsca.51533/)
+## First week tasks
 
-## Action items
-- [ ] Account set-up and installations
-
-- [ ] Submit hours in Workday (Wed 5/27)
-
-- [ ] Complete personal website (Fri 5/29)
-
-- [ ] Complete log entry (every day)
-
-- [ ] Complete workshop tasks and share outputs
-
-  
+- Account set-up and installations
+- Submit hours in Workday (Wed 5/27)
+- Complete personal website (Fri 5/29)
+- Complete log entry (daily)
+- Complete workshop activities (daily) and share outputs
 
 ---
 
