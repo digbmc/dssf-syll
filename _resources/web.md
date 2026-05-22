@@ -15,21 +15,23 @@ title: Web Publishing Resources
 
 ### HTML & CSS
  - [DSRI self-paced tutorial on HTML & CSS](https://github.com/tri-cods/html-css)
- - [Intro to HTML exercise packet](dssf-html.pdf)
- - [Intro to CSS exercise packet](dssf-css.pdf)
+ - W3bu Schools
+   - [HTML Tutorial](https://www.w3schools.com/html/default.asp)
+   - [CSS Tutorial](https://www.w3schools.com/css/default.asp)
 - FreeCodeCamp [Learn Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - [CSS Diner Game](https://flukeout.github.io/) - game for practicing CSS selectors
 
 ### JavaScript
 
 - FreeCodeCamp [Intro to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8#learn-introductory-javascript-by-building-a-pyramid-generator)
-
+- W3 Schools [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
 ### Git
 -  [W3 Git Tutorial](https://www.w3schools.com/git/default.asp)
 -  GitHub Docs on [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) - useful for understanding branches and collaboration
 - CodeAcademy [Cheatsheet for Git Teamwork](https://www.codecademy.com/learn/learn-git-branching-and-collaboration/modules/git-teamwork/cheatsheet)
 
 ---
+
 ## Design
 
 ### User Experience, User Interface, and Graphic Design
@@ -68,11 +70,13 @@ title: Web Publishing Resources
 ## Deployment
 
 ### GitHub Pages and Jekyll
+
 - [DSRI GitHub Pages Workshop](https://github.com/tri-cods/github-pages)
 - GitHub pages basics - [GitHub Pages Tutorial](https://docs.github.com/en/pages/quickstart)
 - Install Jekyll & set up in VS Code - [Jekyll tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) and [Installation instructions](https://jekyllrb.com/docs/installation/)
 
 ### Domain of One's Own
+
 - Sign up and log in: [digital.brynmawr.edu](https://digital.brynmawr.edu/)
 - [AskAthena Domain of One's Own docs](https://askathena.brynmawr.edu/help/domain-of-ones-own)
 - [DoOO slides](https://docs.google.com/presentation/d/e/2PACX-1vS4n01OuLlr9wu6fNtcVYFOkmF4UlvgCRJDsaND7cWUZXRwWFVN_tq234SWom24elpIwOmg6yHU1s7E/pub?start=false&loop=false&delayms=3000&slide=id.p)
