@@ -12,6 +12,8 @@ title: readings
 - Data
   - [*Data Feminism*, Catherine D'Ignazio and Lauren F. Klein](https://data-feminism.mitpress.mit.edu/) (MIT, 2020)
 
+## Digital Film Studies
+
 ## Critical Web Design
 
 - Minicomp/inclusive design from a global perspective

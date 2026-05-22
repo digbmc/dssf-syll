@@ -31,12 +31,12 @@ Tallulah Stallvik
 
 ### Mentors
 
-Alice McGrath - Senior Digital Scholarship Specialist (LITS)
+Alice McGrath - Program Director, Senior Digital Scholarship Specialist (BMC LITS)
 
-José Vergara - Faculty Director, Associate Professor (Russian)
+José Vergara - Faculty Director, Associate Professor (BMC Russian)
 
-Hilde Nelson - Digital Scholarship Graduate Assistant (HART)
+Hilde Nelson - Digital Scholarship Graduate Assistant (BMC HART)
 
-Tessa Eisen - Educational & Scholarly Technology Specialist (LITS)
+Tessa Eisen - Educational & Scholarly Technology Specialist (BMC LITS)
 
-Jennifer Alpert - 
+Jennifer Alpert - Co-director of Paul Thomas Annotated project (Oregon State University)

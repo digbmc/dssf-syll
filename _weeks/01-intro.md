@@ -67,8 +67,6 @@ May 26, 2026
 ### 3:00 PM Web Publishing with GitHub Pages (Alice)
 
 - [GitHub Pages Workshop](https://github.com/tri-cods/github-pages)
-
-
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
 ### 4:15 PM Logs and Reflections
