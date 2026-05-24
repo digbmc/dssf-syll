@@ -50,10 +50,13 @@ May 26, 2026
 
 ### 2:30 PM Installations & Account Set-up
 
-- Slack: download app and join Digital Scholarship Slack Channel
+- Slack: 
+  - Join Digital Scholarship Slack Channel - [slack invite link](https://join.slack.com/t/ds-bmc/shared_invite/zt-3ymk4al47-EIF4WljwOrXipnO3VebYlw)
+  - Download Slack and introduce yourselves
 - Text editor: [Visual Studio Code](https://code.visualstudio.com/)
 - Git and command line tools setup - follow instructions in the [installation guide](../resources/installation)
 - Sign up for a [GitHub account](https://github.com/) and [sign up for the Student Developer Pack](https://education.github.com/pack)
+
 <!-- - Sign up for ACCESS? -->
 
 ### 3:00 PM Web Publishing with GitHub Pages (Alice)
