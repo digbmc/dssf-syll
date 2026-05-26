@@ -48,16 +48,6 @@ May 26, 2026
 - Intro to IIIF Data and Viewers
 - On your own: Timeline JS/Storymaps/Exhibit activity using LoC Free to Reuse sets
 
-### 2:30 PM Installations & Account Set-up
-
-- Slack: 
-  - Join Digital Scholarship Slack Channel - [slack invite link](https://join.slack.com/t/ds-bmc/shared_invite/zt-3ymk4al47-EIF4WljwOrXipnO3VebYlw)
-  - Download Slack and introduce yourselves
-- Text editor: [Visual Studio Code](https://code.visualstudio.com/)
-- Git and command line tools setup - follow instructions in the [installation guide](../resources/installation)
-- Sign up for a [GitHub account](https://github.com/) and [sign up for the Student Developer Pack](https://education.github.com/pack)
-
-<!-- - Sign up for ACCESS? -->
 
 ### 3:00 PM Web Publishing with GitHub Pages (Alice)
 
@@ -66,8 +56,14 @@ May 26, 2026
 
 ### 4:15 PM Logs and Reflections
 
-- What went well?
-- What was challenging?
+- Slack: 
+  - Join Digital Scholarship Slack Channel - [slack invite link](https://join.slack.com/t/ds-bmc/shared_invite/zt-3ymk4al47-EIF4WljwOrXipnO3VebYlw)
+  - Download Slack and introduce yourselves
+  - Share out your github pages links
+- Log prompt
+  - What went well?
+  - What was challenging?
+
 
 ---
 
@@ -75,6 +71,18 @@ May 26, 2026
 May 27, 2026
 
 ### 9:00 AM Check-In (DMCL)
+
+#### Installations & Account Set-up
+
+- Install a text editor: [Visual Studio Code](https://code.visualstudio.com/)
+- Git and command line tools setup - follow instructions in the [installation guide](../resources/installation)
+- Sign up for a [GitHub account](https://github.com/) and [sign up for the Student Developer Pack](https://education.github.com/pack)
+- Sign up for an ACCESS account: [https://access-ci.org/](https://access-ci.org/)
+  1.	First you’ll need to register as user in ACCESS: https://operations.access-ci.org/identity/new-user
+  2.	 On this page, scroll down to option “1. Register with an existing identity” and click on the link.
+  3.	You should then be taken to a page where you can sign in with your BMC credentials – select Bryn Mawr College as the Identity Provider in the drop-down menu and then it’ll take you to the college SSO login page.
+  4.	You will then be taken to another page to complete your registration.
+  5.	Once you’ve completed your registration, reply to this email and I’ll add you to our allocation so that computing credentials on Jetstream2 can be generated for you.
 
 ### 9:30 AM Command Line (Alice)
 - [Introduction to the Command Line tutorial](https://digbmc.github.io/command-line/)
@@ -106,10 +114,19 @@ May 27, 2026
   - The Colors of Ozu: https://drodz11.github.io/colors-of-ozu/
 - Resources on my [Introduction to Digital Humanities syllabus](https://atmcgrath.github.io/intro-dh/syllabus)
 
+### 4:15 PM Logs site
+- [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+- [DSSF Log site](https://curly-adventure-5v1nlqj.pages.github.io/) - see [editing instructions](https://curly-adventure-5v1nlqj.pages.github.io/instructions.html)
+- GitHub repo for Log site: [BMC-EAST/dssf-2026-log](https://github.com/BMC-EAST/dssf-2026-log)
 
 ### 4:30 PM Reflections
 - What went well?
 - What was challenging?
+
+### Action items
+- Submit your Timesheets
+- Add yesterday's log to the DSSF log site
+- Sign up for Access and the Student Developer Pack
 
 ---
 
