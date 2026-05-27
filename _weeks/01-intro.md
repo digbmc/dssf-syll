@@ -13,6 +13,8 @@ public: true
 - Complete personal website (Fri 5/29)
 - Complete log entry (daily)
 - Complete workshop activities (daily) and share outputs
+- Add a bio and photo to the DSSF log site
+- Submit something to the [Institute of Failure](https://docs.google.com/presentation/d/1V5cxH67_6BHYDa71pAdkGrCge6r7_MB9mEiK9fVX19o/edit?usp=sharing)
 
 ---
 
@@ -148,16 +150,20 @@ May 28, 2026
 
 ### 1:00 PM Responsive Web Design (Alice)
 
+- Slides: [Web Design + UX](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/IQBSCuDsHjmmTppo_jxjcXaLASXEi_tTh7Ph2Z3V7nyAPrg?e=JdjQzX)
+
 - Work on website wireframe
 - Continue work on simple websites
 - Deploy website-in-progress
 
 ### 3:00 PM Web Accessibility Basics (Alice)
+- Slides: [Web Accessibility](https://docs.google.com/presentation/d/1V5cxH67_6BHYDa71pAdkGrCge6r7_MB9mEiK9fVX19o/edit?usp=sharing)
+- Web Accessibility Evaluation Tool: [wave.webaim.org](https://wave.webaim.org/)
 
 - Accessibility testing and remediation
 - Continue work on simple websites
 
-### 4:30 PM Reflections
+### 4:30 PM Logs and reflections
 - What went well?
 - What was challenging?
 
