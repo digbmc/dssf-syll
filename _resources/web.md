@@ -38,8 +38,14 @@ title: Web Publishing Resources
 - [Nielsen Norman Group UX Basics Study Guide](https://www.nngroup.com/articles/ux-basics-study-guide/?lm=definition-user-experience&pt=article)
 - [Interaction Design Gestalt Principles Guide](https://www.interaction-design.org/literature/topics/gestalt-principles)
 - [Graphic Design Foundations: Layout and Composition by Sean Adams on LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=76958498&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fgraphic-design-foundations-layout-and-composition%3Ftrk%3Dshare_ent_url%26shareId%3DMogcvZ8lSMGXtrG00DAyRg%253D%253D)
+- [Principles of UI and UX Design](https://www.geeksforgeeks.org/techtips/principles-of-ui-ux-design/)
+
+### Inspiration
+- [Weird Webtober](https://weirdweboctober.website/)
+- [Web Design Inspiration](https://www.webdesign-inspiration.com/)
 
 ---
+
 ### Digital Mockup and Wireframe Tools
 - [Figma](https://www.figma.com/)
 - [Canva](https://www.canva.com/)
@@ -84,6 +90,7 @@ title: Web Publishing Resources
 - [Getting Started with FTP (File Transfer Protocol)](https://support.reclaimhosting.com/hc/en-us/articles/4405172059543-Getting-Started-with-FTP-File-Transfer-Protocol) on Domain of One's Own
 
 ---
+
 ## Other Front-end Tools and Resources
 
 - [Bootstrap](https://getbootstrap.com/) (NB: Collection Builder uses Bootstrap 5)

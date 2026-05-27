@@ -151,17 +151,20 @@ May 28, 2026
 ### 1:00 PM Responsive Web Design (Alice)
 
 - Slides: [Web Design + UX](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/IQBSCuDsHjmmTppo_jxjcXaLASXEi_tTh7Ph2Z3V7nyAPrg?e=JdjQzX)
-
 - Work on website wireframe
-- Continue work on simple websites
-- Deploy website-in-progress
+- Need inspiration? 
+  - [Weird Webtober](https://weirdweboctober.website/)
+  - [Web Design Inspiration](https://www.webdesign-inspiration.com/)
+- After:
+  - Continue work on simple websites
+  - Deploy website-in-progress by 3:00
 
 ### 3:00 PM Web Accessibility Basics (Alice)
 - Slides: [Web Accessibility](https://docs.google.com/presentation/d/1V5cxH67_6BHYDa71pAdkGrCge6r7_MB9mEiK9fVX19o/edit?usp=sharing)
 - Web Accessibility Evaluation Tool: [wave.webaim.org](https://wave.webaim.org/)
-
-- Accessibility testing and remediation
-- Continue work on simple websites
+- After:
+  - Accessibility testing and remediation
+  - Continue work on simple websites
 
 ### 4:30 PM Logs and reflections
 - What went well?
