@@ -98,6 +98,7 @@ May 27, 2026
 ### 1:00 PM Working with Git & GitHub (Alice)
 - [Git Workshop Slides](https://alicemcgrath.digital.brynmawr.edu/pres/git-hub.html)
 - [Template repository on GitHub](https://github.com/digbmc/git-hub-ws)
+- [Git command line cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ### 2:30 PM Explore readings, videos, projects
 - Videos:
@@ -110,8 +111,8 @@ May 27, 2026
 - Digital Humanities projects
   - [Bryn Mawr Digital Scholarship projects](https://digitalscholarship.blogs.brynmawr.edu/projects/)
   - [*Reviews in Digital Humanities*](https://reviewsindh.pubpub.org/) - profiles DH projects, often organized by topic
-  - Digital Panopticon https://www.digitalpanopticon.org/
-  - The Colors of Ozu: https://drodz11.github.io/colors-of-ozu/
+  - [Digital Panopticon](https://www.digitalpanopticon.org/)
+  - [The Colors of Ozu](https://drodz11.github.io/colors-of-ozu/)
 - Resources on my [Introduction to Digital Humanities syllabus](https://atmcgrath.github.io/intro-dh/syllabus)
 
 ### 4:15 PM Logs site
