@@ -179,7 +179,7 @@ May 29, 2026
 - Working on sites
 
 ### 10:00 AM Project Management Workshop (Jenny Spohrer)
-- Location TBD
+- DMCL
 
 ### 12:00 PM Lunch Break
 
