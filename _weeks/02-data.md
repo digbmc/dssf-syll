@@ -47,8 +47,11 @@ June 1, 2026
   - [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
 
 ### 4:30 PM Reflections
-- What went well?
-- What was challenging?
+- Post to your log:
+  - What went well today?
+  - What was challenging?
+  - Include a data visualization you made
+  - You can also reflect on Saturday's screening
 
 ---
 

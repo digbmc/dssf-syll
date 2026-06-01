@@ -33,6 +33,7 @@ title: readings
 - History of the web
   - ["The History of the Internet: The Missing Narratives"](https://tripod.brynmawr.edu/permalink/01TRI_INST/imniac/cdi_proquest_journals_1314625753), Martin Campbell-Kelly and Daniel D. Garcia-Swartz, *Journal of Information Technology* 28, pps 18-33 (2013) 
 - Environmental impact of the web
+  - "[Digital Humanities and the Energetics of Big Data](https://dhdebates.gc.cuny.edu/read/critical-infrastructure-studies-and-digital-humanities/section/e06a41d9-6fc6-4408-bf1b-2c50e4039ee5)," Javier Cha and Ian M. Miller, *Critical Infrastructure Studies and Digital Humanities* (MIT 2026).
   - [Digital Humanities and the Climate crisis: a manifesto](https://dhc-barnard.github.io/dhclimate/)
   - Low-Tech Magazine: [A solar-powered website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/)
 - Ideas of design
