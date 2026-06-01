@@ -5,14 +5,26 @@ title: readings
 
 # Readings & resources
 
-## Digital Scholarship
+## Critical AI
 
-- Mapping
-  - Tao Leigh Goffe, ["Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding"](http://archipelagosjournal.org/issue05/goffe-unmapping.html)
-- Data
-  - [*Data Feminism*, Catherine D'Ignazio and Lauren F. Klein](https://data-feminism.mitpress.mit.edu/) (MIT, 2020)
+- [“Generative AI exists because of the transformer”](https://ig.ft.com/generative-ai/), Madhumita Murgia and the Financial Times Visual Storytelling Team. *Financial Times*, Sept. 12, 2023.
+- ["Editor's introduction: Humanities in the Loop"](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-10734016/382460/Editor-s-Introduction-Humanities-in-the-Loop), Lauren Goodlad, *Critical AI* 2023.
+- ["On the Dangers of Stochastic Parrots: Can Language Models be Too Big?"](https://doi.org/10.1145/3442188.3445922), Emily M. Bender, Timnit Gebru, et al. (*FAccT 2021*)
+
+## Mapping
+- Tao Leigh Goffe, ["Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding"](http://archipelagosjournal.org/issue05/goffe-unmapping.html)
+
+## Data
+
+- [*Data Feminism*, Catherine D'Ignazio and Lauren F. Klein](https://data-feminism.mitpress.mit.edu/) (MIT, 2020)
+- - [*Data Feminism*](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren F. Klein.
+- ["Data Humanism: A Manifesto"](https://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), Giorgia Lupi (originally published in *Print Mag*, 2017).
+- *[Hands-on Data Visualization](https://handsondataviz.org/)*, Jack Dougherty & Ilya Ilyankou, [“Introduction”](https://handsondataviz.org/introduction.html) and [“1. Choose Tools to Tell Your Story”](https://handsondataviz.org/choose.html)
 
 ## Digital Film Studies
+
+- Lauren Tilton and Justin Wigard. “[Seeing Formalism or Formal Viewing: Computational Formalism for the Analysis of Visual Media Forms and Contexts.]"(https://culturalanalytics.org/article/id/1044/)” Journal of Cultural Analytics, vol. 10, no. 3, Oct. 2025. https://doi.org/10.22148/001c.144827.
+
 
 ## Critical Web Design
 

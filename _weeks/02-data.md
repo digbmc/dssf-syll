@@ -5,9 +5,11 @@ dates: June 1-5, 2026
 public: true
 ---
 
-## Resources of Interest
-- [*Data Feminism*](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren F. Klein
-- [Tools for Digital Scholarship](../resources/tools)
+## Second week tasks
+- Complete mini-project (Fri 6/5): a prototype of a digital scholarship project or feature for PTA website
+- Complete workshop activities and share outputs
+- Daily log entries
+- Brainstorm ideas for data visualizations and website features (Wed 6/3)
 
 ---
 
@@ -23,16 +25,27 @@ June 1, 2026
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Data Visualization (Alyssa Pivirotto)
+- Slides shared on Slack channel
 
 ### 2:30 PM Exploring PTA data
 - Create 1-2 visualizations
 - Brainstorm mini-project ideas
 
+### Humanities Data resources
+- [*Data Feminism*](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren F. Klein.
+- ["Data Humanism: A Manifesto"](https://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), Giorgia Lupi (originally published in *Print Mag*, 2017).
+- *[Hands-on Data Visualization](https://handsondataviz.org/)*, Jack Dougherty & Ilya Ilyankou, [“Introduction”](https://handsondataviz.org/introduction.html) and [“1. Choose Tools to Tell Your Story”](https://handsondataviz.org/choose.html)
+- Projects
+  - [Dunham's Data](https://visualizations.dunhamsdata.org/1947-60personnelflow/)
+  - [DxD: Data by Design](https://dataxdesign.io/) (in Beta)
+  - [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
+  - [The Shape of Dreams](https://the-shape-of-dreams.com/#/)
+  - [Creating Data: US Cities](https://creatingdata.us/datasets/US-cities/#)
+  - [Text mining *The College News*](https://digitalscholarship.brynmawr.edu/collegenews/)
+
 ### 4:30 PM Reflections
 - What went well?
 - What was challenging?
-
-\* Reminder: bring headphones to use for the project meeting tomorrow!
 
 ---
 
@@ -42,6 +55,11 @@ June 2, 2026
 ### 9:00 AM Check-In (DMCL)
 
 ### 9:30 AM Computer Vision Workshop (Alyssa)
+
+### Critical AI Readings
+- [“Generative AI exists because of the transformer”](https://ig.ft.com/generative-ai/), Madhumita Murgia and the Financial Times Visual Storytelling Team. *Financial Times*, Sept. 12, 2023.
+- ["Editor's introduction: Humanities in the Loop"](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-10734016/382460/Editor-s-Introduction-Humanities-in-the-Loop), Lauren Goodlad, *Critical AI* 2023.
+- ["On the Dangers of Stochastic Parrots: Can Language Models be Too Big?"](https://doi.org/10.1145/3442188.3445922), Emily M. Bender, Timnit Gebru, et al. (*FAccT 2021*)
 
 ### 12:00 PM Lunch Break
 
@@ -81,7 +99,7 @@ June 3, 2026
 - What went well?
 - What was challenging?
 
---- 
+---
 
 ## Thursday
 June 4, 2026
