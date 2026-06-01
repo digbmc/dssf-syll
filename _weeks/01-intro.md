@@ -14,7 +14,7 @@ public: true
 - Complete log entry (daily)
 - Complete workshop activities (daily) and share outputs
 - Add a bio and photo to the DSSF log site
-- Submit something to the [Institute of Failure](https://docs.google.com/presentation/d/1V5cxH67_6BHYDa71pAdkGrCge6r7_MB9mEiK9fVX19o/edit?usp=sharing)
+- Submit something to the [Institute of Failure](https://digitalprojects.brynmawr.edu/failure/)
 
 ---
 
