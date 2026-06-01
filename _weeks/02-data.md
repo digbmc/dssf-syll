@@ -32,16 +32,19 @@ June 1, 2026
 - Brainstorm mini-project ideas
 
 ### Humanities Data resources
-- [*Data Feminism*](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren F. Klein.
-- ["Data Humanism: A Manifesto"](https://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), Giorgia Lupi (originally published in *Print Mag*, 2017).
-- *[Hands-on Data Visualization](https://handsondataviz.org/)*, Jack Dougherty & Ilya Ilyankou, [“Introduction”](https://handsondataviz.org/introduction.html) and [“1. Choose Tools to Tell Your Story”](https://handsondataviz.org/choose.html)
+- Readings
+  - [*Data Feminism*](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren F. Klein.
+  - ["Data Humanism: A Manifesto"](https://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), Giorgia Lupi (originally published in *Print Mag*, 2017).
 - Projects
   - [Dunham's Data](https://visualizations.dunhamsdata.org/1947-60personnelflow/)
   - [DxD: Data by Design](https://dataxdesign.io/) (in Beta)
-  - [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
   - [The Shape of Dreams](https://the-shape-of-dreams.com/#/)
   - [Creating Data: US Cities](https://creatingdata.us/datasets/US-cities/#)
   - [Text mining *The College News*](https://digitalscholarship.brynmawr.edu/collegenews/)
+- Other resources
+  - *[Hands-on Data Visualization](https://handsondataviz.org/)*, Jack Dougherty & Ilya Ilyankou, [“Introduction”](https://handsondataviz.org/introduction.html) and [“1. Choose Tools to Tell Your Story”](https://handsondataviz.org/choose.html)
+  - [Data Art Slides](https://www.canva.com/design/DAG0jzSbJuA/lOicU0jF9xGlaXnvQ7A3bg/view?utm_content=DAG0jzSbJuA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he9cdd02159#1), Fall 2025
+  - [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
 
 ### 4:30 PM Reflections
 - What went well?
