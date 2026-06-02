@@ -1,6 +1,6 @@
 ---
 layout: page
-title: readings
+title: Readings and Resources
 ---
 
 # Readings & resources

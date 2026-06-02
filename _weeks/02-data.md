@@ -71,13 +71,20 @@ June 2, 2026
 - ["Editor's introduction: Humanities in the Loop"](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-10734016/382460/Editor-s-Introduction-Humanities-in-the-Loop), Lauren Goodlad, *Critical AI* 2023.
 - ["On the Dangers of Stochastic Parrots: Can Language Models be Too Big?"](https://doi.org/10.1145/3442188.3445922), Emily M. Bender, Timnit Gebru, et al. (*FAccT 2021*)
 
+### Computer Vision
+- What types of visualizations work well with different datasets?
+- How can we use computer vision to explore and enhance our data?
+
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Critical AI Workshop (Alice)
+- Discussion & transformer reading
 
-### 2:30 PM Visualization & Computer Vision Sandbox
-- What types of visualizations work well with different datasets?
-- How can we use computer vision to explore and enhance our data?
+### 2:30 PM Critical AI Sandbox
+- Read at least one of the three critical AI readings (Crawford, Goodlad, or Bender)
+- Experiment with using GPT (either [Microsoft Copilot](https://copilot.microsoft.com/) or [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview#_getting-started))
+  - Save your chatbot history
+  - Reflect on your experience
 
 ### 4:30 PM Reflections
 - What went well?
