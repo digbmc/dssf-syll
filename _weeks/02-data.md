@@ -58,9 +58,11 @@ June 1, 2026
 ## Tuesday
 June 2, 2026
 
-### 9:00 AM Check-In (DMCL)
+### 9:00 AM Check-In (Tessa)
 
 ### 9:30 AM Computer Vision Workshop (Alyssa)
+- Slides: shared via Slack
+- Jupyter Notebook: [github: _resources](https://github.com/digbmc/dssf-syll/tree/main/_resources)
 
 ### Critical AI Readings
 - [“Generative AI exists because of the transformer”](https://ig.ft.com/generative-ai/), Madhumita Murgia and the Financial Times Visual Storytelling Team. *Financial Times*, Sept. 12, 2023.
