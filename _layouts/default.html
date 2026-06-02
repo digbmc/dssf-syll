@@ -11,8 +11,26 @@
             <nav>
                 <ul>
                     <li><a href="{{ '/' | relative_url }}">Digital Scholarship Summer Fellows Program</a></li>
-                    <li><a href="{{ '/schedule.html' | relative_url }}">Schedule</a></li>
-                    <li><a href="{{ '/resources.html' | relative_url }}">Resources</a></li>
+                    <li class="dropdown">
+                        <a href="{{ '/schedule.html' | relative_url }}">Schedule</a>
+                        <ul class="dropdown-menu">
+                            {% for week in site.weeks %}
+                            {% if week.public %}
+                            <li><a href="{{ week.url | relative_url }}">{{ week.title }}</a></li>
+                            {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="{{ '/resources.html' | relative_url }}">Resources</a>
+                        <ul class="dropdown-menu">
+                            {% for resource in site.resources %}
+        
+                            <li><a href="{{ resource.url | relative_url }}">{{ resource.title }}</a></li>
+                    
+                            {% endfor %}
+                        </ul>
+                    </li>
                     <li><a href="https://github.com/digbmc/dssf-syll">GitHub</a></li>
                 </ul>
             </nav>
