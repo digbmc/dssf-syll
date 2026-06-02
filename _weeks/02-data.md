@@ -84,11 +84,12 @@ June 2, 2026
 - Read at least one of the three critical AI readings (Crawford, Goodlad, or Bender)
 - Experiment with using GPT (either [Microsoft Copilot](https://copilot.microsoft.com/) or [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview#_getting-started))
   - Save your chatbot history
-  - Reflect on your experience
+  - Reflect on your experiences
+- Return to your mini-projects: create a task list and post it to the blog
 
 ### 4:30 PM Reflections
-- What went well?
-- What was challenging?
+- What did you do with your AI sandboxing time? How did it go? 
+- Share any thoughts and reflections on today's readings or workshops.
 
 ---
 
@@ -129,6 +130,8 @@ June 4, 2026
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Webmapping Sandbox
+
+### 2:30 PM Work on Mini-projects
 
 ### 4:30 PM Reflections
 - What went well?
