@@ -62,7 +62,8 @@ June 2, 2026
 
 ### 9:30 AM Computer Vision Workshop (Alyssa)
 - Slides: shared via Slack
-- Jupyter Notebook: [github: _resources](https://github.com/digbmc/dssf-syll/tree/main/_resources)
+- Jupyter Notebook: [Distant_Viewing_Tutorial_1](https://github.com/digbmc/dssf-syll/blob/main/_resources/Distant_Viewing_Tutorial_1_Movie_Posters_and_Color_Analysis.ipynb)
+  - [in _resources folder on github](https://github.com/digbmc/dssf-syll/tree/main/_resources)
 
 ### Critical AI Readings
 - [“Generative AI exists because of the transformer”](https://ig.ft.com/generative-ai/), Madhumita Murgia and the Financial Times Visual Storytelling Team. *Financial Times*, Sept. 12, 2023.
