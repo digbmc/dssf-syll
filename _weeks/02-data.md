@@ -67,6 +67,7 @@ June 2, 2026
 
 ### Critical AI Readings
 - [“Generative AI exists because of the transformer”](https://ig.ft.com/generative-ai/), Madhumita Murgia and the Financial Times Visual Storytelling Team. *Financial Times*, Sept. 12, 2023.
+- Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence* Yale University Press, 2022. [Tripod link: Atlas of AI](https://tripod.brynmawr.edu/permalink/01TRI_INST/1d0lfj4/alma991019440080604921)
 - ["Editor's introduction: Humanities in the Loop"](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-10734016/382460/Editor-s-Introduction-Humanities-in-the-Loop), Lauren Goodlad, *Critical AI* 2023.
 - ["On the Dangers of Stochastic Parrots: Can Language Models be Too Big?"](https://doi.org/10.1145/3442188.3445922), Emily M. Bender, Timnit Gebru, et al. (*FAccT 2021*)
 
