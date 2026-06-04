@@ -113,7 +113,7 @@ June 3, 2026
 
 - Work on developing a media feature or visual essay with [Exhibit.so](https://www.exhibit.so/), [Juxtapose js](https://juxtapose.knightlab.com/) or [Juncture](https://www.juncture-digital.org/#/getting-started) 
 - Build a mini-exhibit using [CollectionBuilder](https://collectionbuilder.github.io/).
-- Embed it in your blog or personal website using an iframe
+- Embed it in your blog or personal website using an iframe element
 
 ### 4:30 PM Reflections
 - What went well?
@@ -136,6 +136,13 @@ June 4, 2026
 ### 1:00 PM Webmapping Sandbox
 
 ### 2:30 PM Work on Mini-projects
+- Data Essay GitHub Template: [data-essay](https://github.com/hist105b/data-essay)
+- Examples in the wild
+  - Aura Walmer, [Data Sonification of the Total Solar Eclipse](https://nightingaledvs.com/interactive-data-diaries-data-sonification-total-solar-eclipse/)
+  - Russell Samora and Shelly Tan, [Comparisons as Predictable as the Sunrise: An analysis of 200,000 similes from popular fiction](https://pudding.cool/2026/05/similes/).
+- Student work
+  - Nadav Gilad-Muth [Butterflies in Delaware County](https://nadavgiladmuth.github.io/DataEssay/)
+  - Danna Zhang [The Investiture Analyzed](https://ryinsilverfish.github.io/data-essay-danna/)
 
 ### 4:30 PM Reflections
 - What went well?
