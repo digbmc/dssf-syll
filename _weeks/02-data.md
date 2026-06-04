@@ -111,7 +111,9 @@ June 3, 2026
 
 ### 2:00 PM Exhibitions & Collections Sandbox
 
-- Work on developing a small exhibit using [TimelineJS](https://timeline.knightlab.com/), [Exhibit.so](https://www.exhibit.so/), or [CollectionBuilder](https://collectionbuilder.github.io/).
+- Work on developing a media feature or visual essay with [Exhibit.so](https://www.exhibit.so/), [Juxtapose js](https://juxtapose.knightlab.com/) or [Juncture](https://www.juncture-digital.org/#/getting-started) 
+- Build a mini-exhibit using [CollectionBuilder](https://collectionbuilder.github.io/).
+- Embed it in your blog or personal website using an iframe
 
 ### 4:30 PM Reflections
 - What went well?
@@ -123,9 +125,11 @@ June 3, 2026
 June 4, 2026
 
 ### 9:00 AM Check-In (DMCL)
-- Discussion of mini-projects
+- Sign up for Domain of One's Own: [digital.brynmawr.edu](https://digital.brynmawr.edu/)
 
 ### 10:00 AM Web Mapping and GIS Tools (Tessa Eisen)
+- Slides: [Web Mapping: Intro to GIS, AllMaps, and Leaflet](https://docs.google.com/presentation/d/1-id18rQ0FUNhwV8AfBxwPyKi5mClvomZ7Vm1pVJqgZk/edit?usp=sharing)
+- Resources on repo: [dssf-syll/files/mapping](https://github.com/digbmc/dssf-syll/tree/main/files/mapping)
 
 ### 12:00 PM Lunch Break
 
