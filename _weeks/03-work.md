@@ -1,112 +1,81 @@
 ---
 layout: week
-title: Project Work
+title: Annotation and Planning
 dates: June 8-12
-public: false
+public: true
 ---
 
-## Resources of Interest
-- Primary and secondary sources in OneDrive folder (linked in teams)
+## Priorities for the week
+
+- Get trained on annotation process and start annotating *There Will Be Blood*
+- Write up feature proposals (due Wed 6/10)
+- Feature workplan (Fri 6/12)
+- Skill-building for your role
+
 
 ---
 
 ## Monday
-June 17, 2024
+June 8, 2026
 
-### 9:00 AM Check-In (DMCL)
-
-### 9:30 AM Get Acquainted with Research Folder 
+### 9:00 AM Project Work: annotation onboarding
 
 ### 12:00 PM Lunch Break
-Food Truck Fest, between Taylor and Great Hall
 
-### 1:00 PM File Restructuring of Research Folder
+### 1:00 PM - PTA Annotation Meeting
 
-### 2:00 PM Charter Review + Deliverables
-
-### 4:30 PM Reflections
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
+### 4:40 PM Reflections/logs
 
 ---
 
 ## Tuesday
-June 18, 2024
+June 9, 2026
 
-### 9:00 AM Check-In (DMCL)
-
-### 9:30 AM Begin Wireframing Website 
+### 9:00 AM Project work
 
 ### 12:00 PM Break
 
-### 12:45 PM Depart for Germantown Y Site Visit - Meet at PemArch
-(lunch included, make sure to bring a water bottle!)
+### 1:00 PM Project work
 
-### 1:30 PM Arrival at Center in the Park
-
-5818 Germantown Avenue Philadelphia, PA 19144
-
-- Lunch at Center in the Park 
-
-### 2:30 PM Walking tour
-
-### 4 PM Wrap-up and return to campus
-
-### 4:30 PM Reflections (if time)
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
+### 4:40 PM Reflections/logs
 
 ---
 
 ## Wednesday
-June 19, 2024
+June 10, 2026
 
-Juneteenth Holiay, No Work
+### 9:00 AM - Project Work
+
+### 10:00 AM - Film Analysis Workshop (Hilde Nelson)
+
+### 1:00 PM - PTA Project Meeting
+
+### 4:40 PM Reflections/logs
 
 ---
 
 ## Thursday
-June 20, 2024
+June 11, 2026
 
-### 9:00 AM Check-In (DMCL)
-
-### 9:30 AM Project Work
-
-### 12:00 PM Lunch Break
-
-### 1:00 PM  Project Work
-
-### 4:30 PM Reflections
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
-
----
-
-## Friday
-June 21, 2024
-
-### 9:00 AM Check-In (DMCL)
-
-### 9:30 AM Project Work
-
-### 11:00 AM Meeting with Ann over Zoom
+### 9:00 AM Project Work
 
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Project Work
 
-### 2:00 PM  ArcGIS Workshop
-- [ArcGIS Workshop slides](https://docs.google.com/presentation/d/1EXgSaXIabw35wqleVKGCmRmQJmBqSLKhQyaSxQ9MAsQ/edit?usp=sharing)
-- [ArcGIS Workshop data & materials](https://drive.google.com/drive/folders/1MKF8QoDj0tNvb6t10Rfxnh0arSzQr79y?usp=sharing)
+### 4:40 PM Reflections/logs
 
-### 3:30 PM  Project Work
+---
 
-### 4:30 PM Reflections & Weekly Forecast
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve next week?
+## Friday
+June 12, 2026
+
+### 9:00 AM Project Work
+
+### 12:00 PM Lunch Break
+
+### 1:00 PM Project Work
+
+### 4:40 PM Reflections/logs
 
 [<< Last week](02-data) | [Next week >>](04-work)
