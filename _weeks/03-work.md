@@ -12,7 +12,6 @@ public: true
 - Feature workplan (Fri 6/12)
 - Skill-building for your role
 
-
 ---
 
 ## Monday
@@ -77,5 +76,7 @@ June 12, 2026
 ### 1:00 PM Project Work
 
 ### 4:40 PM Reflections/logs
+- How many annotations were you able to complete this week?
+- Other wins for the week
 
 [<< Last week](02-data) | [Next week >>](04-work)

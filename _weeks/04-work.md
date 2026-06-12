@@ -1,104 +1,79 @@
 ---
 layout: week
-title: Project Work
-dates: June 24-28
-public: false
+title: Feature Work - data and sources
+dates: June 15-19
+public: true
 ---
 
-## Resources of Interest
-- ...
+## Priorities for the week
+- Get data and sources for your features
+- Computer vision testing
+- Maybe: begin annotation encoding training
 
 ---
 
 ## Monday
-June 24, 2024
+June 15, 2026
 
-### 9:00 AM Check-In (DMCL)
-
-### 9:30 AM Project Work
+### 9:00 AM Project work: features
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Project Work
+### 1:00 PM - PTA Annotation Meeting
 
-### 4:30 PM Reflections
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
+### 4:40 PM Reflections/logs
 
 ---
 
 ## Tuesday
-June 25, 2024
+June 16, 2026
 
-### 9:00 AM Check-In (DMCL)
-
-### 9:30 AM Project Work
-
-### 11:00 AM Germantown Y Project Meeting (Zoom)
+### 9:00 AM Project Work
 
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Project Work
 
-### 4:30 PM Reflections
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
+### 4:40 PM Reflections
 
 ---
 
 ## Wednesday
-June 26, 2024
+June 17, 2026
 
-### 9:00 AM Check-In (DMCL)
-
-### 9:30 AM Project Work
+### 9:00 AM Project Work
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Project Work
+### 1:00 PM - PTA Project Meeting
 
-### 4:30 PM Reflections
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
+### 4:40 PM Reflections
 
 ---
 
 ## Thursday
-June 27, 2024
+June 18, 2026
 
-### 9:00 AM Check-In (DMCL)
+**Carpenter library closed: work in Lusty Cup or Campus Center (optional)**
 
-### 9:30 AM Project Work
-
-### 12:00 PM Lunch Break
-
-### 1:00 PM  Project Work
-
-### 4:30 PM Reflections
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
+- Check in on Slack when you begin
+- Research for features
+- Post summaries of films to DSSF log
+- Annotation work
+- Post reflection at the end of the day
 
 ---
 
 ## Friday
-June 28, 2024
 
-### 9:00 AM Check-In (DMCL)
+June 19, 2026
 
-### 9:30 AM Project Work
+**Carpenter library closed: work in Lusty Cup or Campus Center (optional)**
 
-### 12:00 PM Lunch Break
-
-### 1:00 PM Project Work
-
-### 4:30 PM Reflections & Weekly Forecast
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve next week?
-
+- Check in on Slack when you begin
+- Research for features
+- Post summaries of films to DSSF log
+- Annotation work
+- Post reflection at the end of the day
 
 [<<< Last week](03-work) | [Next week >>>](05-work)
