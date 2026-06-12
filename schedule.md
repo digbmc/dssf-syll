@@ -29,12 +29,12 @@ title: Schedule
 - Web Mapping (Tessa Eisen)
 - Collection Builder (Alice)
 
-## Week 3 (June 8-11) Annotation onboarding and project planning
+## Week 3 (June 8-11) [Annotation onboarding and project planning]({{site.baseurl}}/weeks/03-work)
 - Annotation Meeting: Monday 1:00 PM
 - Project Meeting: Wednesday 1:00 PM
 - Film Analysis (Hilde Nelson)
 
-## Week 4 (June 15-18) Project work
+## Week 4 (June 15-18) [Project work]({{site.baseurl}}/weeks/04-work)
 - **Goal: get data and sources for your feature**
 - Annotation Meeting: Monday 1:00 PM
 - Project Meeting: Wednesday 1:00 PM
