@@ -29,25 +29,35 @@ title: Schedule
 - Web Mapping (Tessa Eisen)
 - Collection Builder (Alice)
 
-## Week 3 (June 8-11) Project Work
+## Week 3 (June 8-11) Annotation onboarding and project planning
+- Annotation Meeting: Monday 1:00 PM
 - Project Meeting: Wednesday 1:00 PM
 - Film Analysis (Hilde Nelson)
 
-## Week 4 (June 15-18) Project Work
+## Week 4 (June 15-18) Project work
+- **Goal: get data and sources for your feature**
+- Annotation Meeting: Monday 1:00 PM
 - Project Meeting: Wednesday 1:00 PM
 - NB: the library will be closed Thursday, June 18 and Friday, June 19.
 
 ## Week 5 (June 22-25) Project Work
+- **Goal: complete draft of feature visualizations**
+- Annotation Meeting: Monday 1:00 PM
 - Project Meeting: Wednesday 1:00 PM
-- ACH Conference: June 24-25
+- ACH Conference: June 24-25 - *schedule tbd*
   
 ## Week 6 (June 29-July 2) Project Work
+- **Goal: complete draft of feature writing/data story**
+- Annotation Meeting: Monday 1:00 PM
 - Project Meeting: Wednesday 1:00 PM
 - NB: the library will be closed Thursday, July 2 and Friday, July 3.
 
 ## Week 7 (July 6-10) Project Work & Internal Presentations
+- **Deadline: polished feature deployed to site (Monday, 7/6)**
+- Annotation Meeting: Monday 1:00 PM
 - Project Meeting: Wednesday 1:00 PM
 - TriCo Digital Scholarship Meet-up: Tuesday, July 7 at Haverford College
 
 ## Week 8 (July 13-17) Project Wrap-up
+- Annotation Meeting: Monday 1:00 PM
 - Project Meeting: Wednesday 1:00 PM
