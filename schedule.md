@@ -40,7 +40,7 @@ title: Schedule
 - Project Meeting: Wednesday 1:00 PM
 - NB: the library will be closed Thursday, June 18 and Friday, June 19.
 
-## Week 5 (June 22-25) Project Work
+## Week 5 (June 22-25) Project Work + ACH
 - **Goal: complete draft of feature visualizations**
 - Annotation Meeting: Monday 1:00 PM
 - Project Meeting: Wednesday 1:00 PM

@@ -1,95 +1,98 @@
 ---
 layout: week
-title: Project Work
-dates: July 1-5
-public: false
+title: Project Work and ACH
+dates: June 22-26
+public: true
 ---
 
-## Resources of Interest
-- [Workshop slides: Metadata and Digital Archiving](../resources/Metadata_DigitalCollections_DSSF_2024.pdf) by Jessica Bright
+## Priorities for the week
+- **Goal: complete draft of feature visualizations**
+- Practice annotation encoding work
+- Lightning presentations at ACH Regional Hub
 
 ---
 
 ## Monday
-July 1, 2024
+June 22, 2026
 
-### 9:00 AM Check-In (DMCL)
+### 9:00 AM Project Work
 
-### 9:30 AM Project Work
+### 12:00 PM Lunch with Team!
 
-### 12:00 PM Lunch Break
-
-### 1:00 PM Metadata and Digital Archiving (Jessica Bright)
-- [Workshop slides](../resources/Metadata_DigitalCollections_DSSF_2024.pdf)
+### 1:00 PM Annotation Meeting
 
 ### 2:00 PM Project Work
 
-### 4:30 PM Reflections
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
+### 4:40 PM Reflections/logs
 
 ---
 
 ## Tuesday
-July 2, 2024
+June 23, 2026
 
-### 9:00 AM Check-In (DMCL)
-
-### 9:30 AM Project Work
-
-### 11:00 AM Germantown Y Project Meeting (Zoom)
+### 9:00 AM Project Work
 
 ### 12:00 PM Lunch Break
 
 ### 1:00 PM Project Work
 
-### 4:30 PM Reflections
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
+### 4:40 PM Reflections
 
 ---
 
 ## Wednesday
-July 3, 2024
+June 24, 2026
 
-### 9:00 AM Check-In (DMCL)
+### 9:00 AM Project Work
 
-### 9:30 AM Project Work
+### 10:30 AM PTA Meeting 
 
-### 12:00 PM Lunch Break
+### 11:30 AM - 5:15 PM ACH Conference
 
-### 1:00 PM Project Work
+Attend at least 2 sessions, take a lunch break
 
-### 4:30 PM Reflections
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
+- 11:30 AM - Keynote (optional)
+- **1:00 PM - 2:15 Session on Film/Media studies**
+- 2:30 PM - 3:45 Session
+- 4:00 PM - 5:15 Session
+- 5:30 PM - 6:45 Session
+
+### Reflections
+- Include notes/comments about an ACH talk or panel you saw
 
 ---
 
 ## Thursday
-July 4, 2024
+June 25, 2026
 
-July 4th Holiday, No Work
+**All day: ACH at UPenn**
+
+- 9:30 Breakfast, Van Pelt Library
+- 10:00-11:15 Session
+- 11:30-12:45 Session
+- 1:00 - 2:15 Keynote
+- **2:30-3:45 Lightning Talks**
+- 4:00-5:15 Session
 
 ---
 
 ## Friday
-July 5, 2024
+June 26, 2026
 
-### 9:00 AM Check-In (DMCL)
+### 9:00 AM Project Work
 
-### 9:30 AM Project Work
+### 10:00 ACH Conference (Remote)
 
-### 12:00 PM Lunch Break
+Attend at least one session
 
-### 1:00 PM Project Work
+- 10:00 - 11:15 - Session
+- 11:30 - 12:45 - Session
+- 1:00 - 2:00 - Session
 
-### 4:30 PM Reflections & Weekly Forecast
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve next week?
+### 2:00 PM Project Work
+
+### 4:40 PM Reflections
+- Include notes on an ACH talk or panel you saw
+
 
 [<<< Last week](04-work) | [Next week >>>](06-internal)
