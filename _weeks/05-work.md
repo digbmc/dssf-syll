@@ -1,6 +1,6 @@
 ---
 layout: week
-title: Project Work and ACH
+title: ACH Conference + Project Work
 dates: June 22-26
 public: true
 ---
@@ -47,12 +47,12 @@ June 24, 2026
 
 ### 10:30 AM PTA Meeting 
 
-### 11:30 AM - 5:15 PM ACH Conference
+### 11:30 AM - 5:15 PM ACH Conference (Remote)
 
-Attend at least 2 sessions, take a lunch break
+[See schedule online](https://www.conftool.pro/ach2026/index.php?page=browseSessions) - attend 2-3 sessions, take a lunch break
 
 - 11:30 AM - Keynote (optional)
-- **1:00 PM - 2:15 Session on Film/Media studies**
+- **1:00 PM - 2:15 Session D1-S3-Z2: Media, Film, and Screenplay Analytics**
 - 2:30 PM - 3:45 Session
 - 4:00 PM - 5:15 Session
 - 5:30 PM - 6:45 Session
@@ -65,7 +65,7 @@ Attend at least 2 sessions, take a lunch break
 ## Thursday
 June 25, 2026
 
-**All day: ACH at UPenn**
+**All day: ACH Regional Hub at UPenn** - see [schedule and details](https://www.library.upenn.edu/events/ach-2026-regional-hub)
 
 - 9:30 Breakfast, Van Pelt Library
 - 10:00-11:15 Session
