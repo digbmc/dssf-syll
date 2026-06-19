@@ -43,7 +43,7 @@ title: Schedule
 ## Week 5 (June 22-25) Project Work + ACH
 - **Goal: complete draft of feature visualizations**
 - Annotation Meeting: Monday 1:00 PM
-- Project Meeting: Wednesday 1:00 PM
+- Project Meeting: Wednesday 10:30 AM
 - ACH Conference: June 24-25 - *schedule tbd*
   
 ## Week 6 (June 29-July 2) Project Work
