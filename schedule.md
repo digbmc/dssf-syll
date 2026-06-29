@@ -40,16 +40,18 @@ title: Schedule
 - Project Meeting: Wednesday 1:00 PM
 - NB: the library will be closed Thursday, June 18 and Friday, June 19.
 
-## Week 5 (June 22-25) Project Work + ACH
+## Week 5 (June 22-25) [Project Work + ACH]({{site.baseurl}}/weeks/05-work)
 - **Goal: complete draft of feature visualizations**
 - Annotation Meeting: Monday 1:00 PM
 - Project Meeting: Wednesday 10:30 AM
 - ACH Conference: June 24-25 - *schedule tbd*
   
-## Week 6 (June 29-July 2) Project Work
+## Week 6 (June 29-July 2) [Data story drafting]({{site.baseurl}}/weeks/06-story)
 - **Goal: complete draft of feature writing/data story**
 - Annotation Meeting: Monday 1:00 PM
+  - NB: we will be going over visualizations and interpretation instead of annotations 
 - Project Meeting: Wednesday 1:00 PM
+- Screening of *Magnolia* at BMFI on Thursday, July 2
 - NB: the library will be closed Thursday, July 2 and Friday, July 3.
 
 ## Week 7 (July 6-10) Project Work & Internal Presentations

@@ -102,4 +102,4 @@ Attend 1-2 sessions and take a lunch break
 - Include notes on an ACH talk or panel you saw
 
 
-[<<< Last week](04-work) | [Next week >>>](06-internal)
+[<<< Last week](04-work) | [Next week >>>](06-story)
