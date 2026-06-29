@@ -8,7 +8,6 @@ public: true
 ## Priorities for the week
 - Get data and sources for your features
 - Computer vision testing
-- Maybe: begin annotation encoding training
 
 ---
 
