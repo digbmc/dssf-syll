@@ -51,7 +51,7 @@ July 8, 2026
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Project Work
+### 1:00 PM PTA Project Meeting
 
 ### 4:40 PM Reflections
 

@@ -1,101 +1,82 @@
 ---
 layout: week
 title: Project Work & Final Presentations
-dates: July 22-26
+dates: July 13-17
 public: false
 ---
 
+## Priorities for the week
+- Completed feature deployed
+- Metadata checking and site polishing
+- Wrap-up annotation work
+- Reflections on internship
+- LITS presentation: Thu 7/16
+
+---
+
 ## Monday
-July 22, 2024
+July 13, 2026
 
-### 9:00 AM Check-In (DMCL)
-
-### 9:30 AM Project Work
+### 9:00 AM - Project work
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Project Work
+### 1:00 PM - PTA Annotation Meeting
 
-### 4:30 PM Write up bio and send us photo of you for Digital Scholarship website
-Examples: https://digitalscholarship.blogs.brynmawr.edu/people-past/
+### 4:40 PM Reflections/logs
 
 ---
 
 ## Tuesday
-July 23, 2024
+July 14, 2026
 
-### 9:00 AM Check-In (DMCL)
-
-### 9:30 AM Project Work
-
-### 11:00 AM Germantown Y Project Meeting (Zoom)
+### 9:00 AM - Project work
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Project Work
+### 1:00 PM - Project Work
 
-### 2:30 PM LITS Summer Gathering (Cloisters)
-
-### 4:30 PM Reflections
-- What went well?
-- What was challenging?
-- What questions do you still have / What will you do to improve tomorrow?
+### 4:40 PM Reflections/logs
 
 ---
 
 ## Wednesday
-July 24, 2024
+July 15, 2026
 
-### 9:00 AM Check-In (DMCL)
+### 9:00 AM Coffee with LITS staff and interns
 
-### 10:00 AM Final Presentation (Germantown)
+Quita's Corner, Canaday Library
+
+### 10:00 AM Project work
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM Post-Presentation Discussion
-- Review presentation: what went well, what could have been better?
-- Establish to-do items for Thursday and Friday
+### 1:00 PM PTA Project Meeting
 
-### 1:30 PM Project Work
-
-### 4:00 PM Professional Development Work Session
+### 4:40 PM Reflections
 
 ---
 
 ## Thursday
-July 25, 2024
+July 16, 2026
 
-### Daily to-do: write a reflection on the summer
-Questions you can answer (try answering most, but don't feel like you have to answer all of them):
-- What did you come into this fellowship knowing?
-- What did you learn during these past few weeks?
-- What did you enjoy about the fellowship?
-- What was challenging about this summer?
-- What was it like working on a long term project that lasted this long?
-- How did your section of the website evolve over time?
-- What one (or many) things you particularly want people to notice when they look at your work?
-- How do you think it went overall?
-- What skills from this fellowship do you think will help you out in the future?
+### 9:00 AM Project Work
 
-### 9:00 AM Check-In (DMCL)
+### 12:00 PM - 2:00 PM - LITS Intern Showcase (Including lunch)
+Park 25
 
-### 9:30 AM Project Work
+- Take a break (30 min - 1 hr) before or after showcase
 
-### 12:00 PM Lunch Break
+### 2:00 PM Project Work
 
-### 1:00 PM Project Work
-
-### 4:00 PM Professional Development Discussion
-- Review / workshop materials from the resume handout
+### 4:40 PM Reflections
 
 ---
 
 ## Friday
-July 26, 2024
+July 17, 2026
 
-### 9:00 AM Check-In (DMCL)
-
-### 9:30 AM Project Work
+### 9:00 AM Project Work
 
 ### 12:00 PM Lunch Break
 
