@@ -84,4 +84,4 @@ July 17, 2026
 
 ### 4:00 PM End of Program Celebration
 
-[<<< Last week](07-testing.md)
+[<<< Last week](07-internal.md)

@@ -54,12 +54,12 @@ title: Schedule
 - Screening of *Magnolia* at BMFI on Thursday, July 2
 - NB: the library will be closed Thursday, July 2 and Friday, July 3.
 
-## Week 7 (July 6-10) Project Work & Internal Presentations
+## Week 7 (July 6-10) [Project Work & Internal Presentations]({{site.baseurl}}/weeks/07-internal)
 - **Deadline: polished feature deployed to site (Monday, 7/6)**
 - Annotation Meeting: Monday 1:00 PM
 - Project Meeting: Wednesday 1:00 PM
 - TriCo Digital Scholarship Meet-up: Tuesday, July 7 at Haverford College
 
-## Week 8 (July 13-17) Project Wrap-up
+## Week 8 (July 13-17) [Project Wrap-up]({{site.baseurl}}/weeks/08-final)
 - Annotation Meeting: Monday 1:00 PM
 - Project Meeting: Wednesday 1:00 PM
