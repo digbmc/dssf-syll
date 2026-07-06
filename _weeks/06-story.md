@@ -1,6 +1,6 @@
 ---
 layout: week
-title: Project Work & Internal Presentations
+title: Data story drafting
 dates: June 29-July 3
 public: true
 ---
@@ -92,4 +92,4 @@ July 3, 2026
 
 
 
-[<<< Last week](05-work) | [Next week >>>](07-testing)
+[<<< Last week](05-work) | [Next week >>>](07-internal)

@@ -1,11 +1,12 @@
 ---
 layout: week
-title: Polishing & User Testing
+title: Project work and internal presentations
 dates: July 6-10
-public: false
+public: true
 ---
 
 ## Priorities for the week
+
 - Polished draft of your story on CB
 - Presentation at Tri-Co DS Showcase on Tuesday, July 7: see [Summer Showcase 2026 Registration + Event Information ](https://docs.google.com/document/d/1WDL6MB82W_Hj9UV05KppHuUM--WLFfsCBL_vu9WwByM/edit?tab=t.0)document and [Digital Scholarship Summer Showcase Guidelines](https://docs.google.com/document/d/1a_LYhxqrjnaVF5zALifl0kbc12jHowzCtCRKXwvyMNI/edit?tab=t.0#heading=h.isx99omkl3qc). 
 - User testing, browser testing, polishing and clean-up project work
