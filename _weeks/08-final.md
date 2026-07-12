@@ -2,15 +2,16 @@
 layout: week
 title: Project Work & Final Presentations
 dates: July 13-17
-public: false
+public: true
 ---
 
 ## Priorities for the week
-- Completed feature deployed
+- Completed features deployed
 - Metadata checking and site polishing
 - Wrap-up annotation work
 - Reflections on internship
 - LITS presentation: Thu 7/16
+- Deploy production site on 7/17
 
 ---
 
@@ -82,6 +83,7 @@ July 17, 2026
 
 ### 1:00 PM Project Work
 
-### 4:00 PM End of Program Celebration
+### 3:30 PM End of Program Celebration
+Location TBD
 
 [<<< Last week](07-internal.md)
