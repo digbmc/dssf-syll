@@ -9,7 +9,7 @@ public: true
 - Completed features deployed
 - Metadata checking and site polishing
 - Wrap-up annotation work
-- Reflections on internship
+- Reflections on internship: longer, retrospective log post
 - LITS presentation: Thu 7/16
 - Deploy production site on 7/17
 
@@ -22,7 +22,7 @@ July 13, 2026
 
 ### 12:00 PM Lunch Break
 
-### 1:00 PM - PTA Annotation Meeting
+### 1:00 PM - Peer review
 
 ### 4:40 PM Reflections/logs
 
